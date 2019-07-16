@@ -2,7 +2,7 @@
 
 Easily insert Material Design Icons into your code with these SVG snippets. Just start by typing `svg-mdi-[name]`.
 
-<img src="http://r3v.in/5Z30K/Screen-Recording-2019-07-16-18-24-06.gif" alt="Animation showing snippet functionality." style="max-width: 100%; height: auto;"
+<img src="http://r3v.in/5Z30K/Screen-Recording-2019-07-16-18-24-06.gif" alt="Animation showing snippet functionality." style="max-width: 100%; height: auto;">
 
 ## Features
 
