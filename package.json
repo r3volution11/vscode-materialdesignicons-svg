@@ -1,0 +1,70 @@
+{
+    "name": "material-design-icon-svg-snippets",
+    "displayName": "Material Design Icon SVG Snippets",
+    "description": "Easily insert full SVG icons from the Material Design Icon library.",
+    "version": "1.0.0",
+    "publisher": "r3volution11",
+    "license": "MIT",
+    "author": {
+        "name": "Doug C. Hardester",
+        "url": "http://github.com/r3volution11"
+    },
+    "keywords": [
+        "svg icons",
+        "material design icons svg",
+        "mdi svg",
+        "material design icons"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/r3volution11/vscode-materialdesignicons-svg"
+    },
+    "homepage": "https://github.com/r3volution11/vscode-materialdesignicons-svg#readme",
+    "bugs": {
+        "url": "https://github.com/r3volution11/vscode-materialdesignicons-svg/issues"
+    },
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "xml",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "razor",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "vuew",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "@mdi/svg": "^3.8.95",
+        "@mdi/util": "^0.3.0",
+        "svgo": "^1.3.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "optsvg": "svgo -f node_modules/@mdi/svg/svg -o node_modules/@mdi/svg/svg",
+        "build": "node build.js"
+    }
+}
