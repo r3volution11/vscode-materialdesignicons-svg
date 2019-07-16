@@ -23,6 +23,7 @@
     "bugs": {
         "url": "https://github.com/r3volution11/vscode-materialdesignicons-svg/issues"
     },
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.36.0"
     },
