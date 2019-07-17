@@ -2,7 +2,7 @@
     "name": "material-design-icon-svg-snippets",
     "displayName": "Material Design Icon SVG Snippets",
     "description": "Easily insert full SVG icons from the Material Design Icon library.",
-    "version": "1.0.0",
+    "version": "3.8.95",
     "publisher": "r3volution11",
     "license": "MIT",
     "author": {
@@ -53,7 +53,19 @@
                 "path": "./snippets/snippets.json"
             },
             {
-                "language": "vuew",
+                "language": "vue",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "cshtml-tm",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "cshtml",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "csharp",
                 "path": "./snippets/snippets.json"
             }
         ]
