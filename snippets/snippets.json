@@ -240,39 +240,54 @@
     "prefix": "svg-mdi-account-minus-outline"
   },
   "mdi-account-multiple" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 13c-.29 0-.62 0-.97.05C16.19 13.89 17 15 17 16.5V19h6v-2.5c0-2.33-4.67-3.5-7-3.5m-8 0c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5m0-2a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m8 0a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 17v2H2v-2s0-4 7-4 7 4 7 4m-3.5-9.5A3.5 3.5 0 109 11a3.5 3.5 0 003.5-3.5m3.44 5.5A5.32 5.32 0 0118 17v2h4v-2s0-3.63-6.06-4M15 4a3.39 3.39 0 00-1.93.59 5 5 0 010 5.82A3.39 3.39 0 0015 11a3.5 3.5 0 000-7z\" /></svg>",
     "description": "mdi-account-multiple",
     "prefix": "svg-mdi-account-multiple"
   },
   "mdi-account-multiple-check" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M22.59 7.92l1.16 1.41L19 14.08l-2.75-3 1.16-1.16L19 11.5l3.59-3.58M6 5a3 3 0 013 3 3 3 0 01-3 3 3 3 0 01-3-3 3 3 0 013-3m5 0a3 3 0 013 3 3 3 0 01-3 3c-.32 0-.63-.05-.92-.15.57-.81.92-1.79.92-2.85s-.35-2.05-.92-2.86c.29-.09.6-.14.92-.14m-5 8c2 0 6 1 6 3v2H0v-2c0-2 4-3 6-3m6.62.16C14.63 13.5 17 14.46 17 16v2h-3v-2c0-1.18-.55-2.12-1.38-2.84z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 17v2H7v-2s0-4 6-4 6 4 6 4m-3-9a3 3 0 10-3 3 3 3 0 003-3m3.2 5.06A5.6 5.6 0 0121 17v2h3v-2s0-3.45-4.8-3.94M18 5a2.91 2.91 0 00-.89.14 5 5 0 010 5.72A2.91 2.91 0 0018 11a3 3 0 000-6M7.34 8.92l1.16 1.41-4.75 4.75-2.75-3 1.16-1.16 1.59 1.58 3.59-3.58\" /></svg>",
     "description": "mdi-account-multiple-check",
     "prefix": "svg-mdi-account-multiple-check"
   },
+  "mdi-account-multiple-check-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 11a3 3 0 10-3-3 3 3 0 003 3m0-4a1 1 0 11-1 1 1 1 0 011-1m4.11 3.86a5 5 0 000-5.72A2.91 2.91 0 0118 5a3 3 0 010 6 2.91 2.91 0 01-.89-.14M13 13c-6 0-6 4-6 4v2h12v-2s0-4-6-4m-4 4c0-.29.32-2 4-2 3.5 0 3.94 1.56 4 2m7 0v2h-3v-2a5.6 5.6 0 00-1.8-3.94C24 13.55 24 17 24 17M7.34 8.92l1.16 1.41-4.75 4.75-2.75-3 1.16-1.16 1.59 1.58 3.59-3.58\" /></svg>",
+    "description": "mdi-account-multiple-check-outline",
+    "prefix": "svg-mdi-account-multiple-check-outline"
+  },
   "mdi-account-multiple-minus" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 13c-2 0-6 1-6 3v2h12v-2c0-2-4-3-6-3m6.62.16c.83.72 1.38 1.66 1.38 2.84v2h3v-2c0-1.54-2.37-2.5-4.38-2.84M13 11a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m5 0a3 3 0 003-3 3 3 0 00-3-3c-.32 0-.63.05-.92.14.57.81.92 1.8.92 2.86 0 1.06-.35 2.04-.92 2.85.29.1.6.15.92.15M8 10H0v2h8v-2z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 17v2H7v-2s0-4 6-4 6 4 6 4m-3-9a3 3 0 10-3 3 3 3 0 003-3m3.2 5.06A5.6 5.6 0 0121 17v2h3v-2s0-3.45-4.8-3.94M18 5a2.91 2.91 0 00-.89.14 5 5 0 010 5.72A2.91 2.91 0 0018 11a3 3 0 000-6M8 10H0v2h8z\" /></svg>",
     "description": "mdi-account-multiple-minus",
     "prefix": "svg-mdi-account-multiple-minus"
   },
   "mdi-account-multiple-minus-outline" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 13.75c-2.34 0-6 1.17-6 3.5V19h12v-1.75c0-2.33-3.66-3.5-6-3.5M9.34 17c.84-.58 1.87-1.25 3.66-1.25s2.82.67 3.66 1.25M13 5a3.5 3.5 0 00-3.5 3.5A3.5 3.5 0 0013 12a3.5 3.5 0 003.5-3.5A3.5 3.5 0 0013 5m0 5a1.5 1.5 0 01-1.5-1.5A1.5 1.5 0 0113 7a1.5 1.5 0 011.5 1.5A1.5 1.5 0 0113 10m6 3.81c1.16.84 1.96 1.96 1.96 3.44V19H24v-1.75c0-2.02-2.54-3.17-5-3.44m2-5.31a3.5 3.5 0 01-3.5 3.5c-.08 0-.16 0-.24-.03.78-.94 1.24-2.15 1.24-3.47 0-1.32-.46-2.53-1.24-3.47.08-.03.16-.03.24-.03A3.5 3.5 0 0121 8.5M0 11h8v2H0\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 11a3 3 0 10-3-3 3 3 0 003 3m0-4a1 1 0 11-1 1 1 1 0 011-1m4.11 3.86a5 5 0 000-5.72A2.91 2.91 0 0118 5a3 3 0 010 6 2.91 2.91 0 01-.89-.14M13 13c-6 0-6 4-6 4v2h12v-2s0-4-6-4m-4 4c0-.29.32-2 4-2 3.5 0 3.94 1.56 4 2m7 0v2h-3v-2a5.6 5.6 0 00-1.8-3.94C24 13.55 24 17 24 17M8 12H0v-2h8z\" /></svg>",
     "description": "mdi-account-multiple-minus-outline",
     "prefix": "svg-mdi-account-multiple-minus-outline"
   },
   "mdi-account-multiple-outline" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M9 13.75c-2.34 0-7 1.17-7 3.5V19h14v-1.75c0-2.33-4.66-3.5-7-3.5M4.34 17c.84-.58 2.87-1.25 4.66-1.25s3.82.67 4.66 1.25M9 12a3.5 3.5 0 003.5-3.5A3.5 3.5 0 009 5a3.5 3.5 0 00-3.5 3.5A3.5 3.5 0 009 12m0-5a1.5 1.5 0 011.5 1.5A1.5 1.5 0 019 10a1.5 1.5 0 01-1.5-1.5A1.5 1.5 0 019 7m7.04 6.81c1.16.84 1.96 1.96 1.96 3.44V19h4v-1.75c0-2.02-3.5-3.17-5.96-3.44M15 12a3.5 3.5 0 003.5-3.5A3.5 3.5 0 0015 5c-.54 0-1.04.13-1.5.35.63.89 1 1.98 1 3.15s-.37 2.26-1 3.15c.46.22.96.35 1.5.35z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13.07 10.41a5 5 0 000-5.82A3.39 3.39 0 0115 4a3.5 3.5 0 010 7 3.39 3.39 0 01-1.93-.59M5.5 7.5A3.5 3.5 0 119 11a3.5 3.5 0 01-3.5-3.5m2 0A1.5 1.5 0 109 6a1.5 1.5 0 00-1.5 1.5M16 17v2H2v-2s0-4 7-4 7 4 7 4m-2 0c-.14-.78-1.33-2-5-2s-4.93 1.31-5 2m11.95-4A5.32 5.32 0 0118 17v2h4v-2s0-3.63-6.06-4z\" /></svg>",
     "description": "mdi-account-multiple-outline",
     "prefix": "svg-mdi-account-multiple-outline"
   },
   "mdi-account-multiple-plus" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 13c-2 0-6 1-6 3v2h12v-2c0-2-4-3-6-3m6.62.16c.83.72 1.38 1.66 1.38 2.84v2h3v-2c0-1.54-2.37-2.5-4.38-2.84M13 11a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m5 0a3 3 0 003-3 3 3 0 00-3-3c-.32 0-.63.05-.92.14.57.81.92 1.8.92 2.86 0 1.06-.35 2.04-.92 2.85.29.1.6.15.92.15M8 10H5V7H3v3H0v2h3v3h2v-3h3v-2z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 17v2H7v-2s0-4 6-4 6 4 6 4m-3-9a3 3 0 10-3 3 3 3 0 003-3m3.2 5.06A5.6 5.6 0 0121 17v2h3v-2s0-3.45-4.8-3.94M18 5a2.91 2.91 0 00-.89.14 5 5 0 010 5.72A2.91 2.91 0 0018 11a3 3 0 000-6M8 10H5V7H3v3H0v2h3v3h2v-3h3z\" /></svg>",
     "description": "mdi-account-multiple-plus",
     "prefix": "svg-mdi-account-multiple-plus"
   },
   "mdi-account-multiple-plus-outline" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 12a3.5 3.5 0 003.5-3.5A3.5 3.5 0 0013 5a3.5 3.5 0 00-3.5 3.5A3.5 3.5 0 0013 12m0-5a1.5 1.5 0 011.5 1.5A1.5 1.5 0 0113 10a1.5 1.5 0 01-1.5-1.5A1.5 1.5 0 0113 7m4.26 4.97c.78-.94 1.24-2.15 1.24-3.47 0-1.32-.46-2.53-1.24-3.47.08-.03.16-.03.24-.03A3.5 3.5 0 0121 8.5a3.5 3.5 0 01-3.5 3.5c-.08 0-.16 0-.24-.03M5 13v3H3v-3H0v-2h3V8h2v3h3v2m16 4.25V19h-3.04v-1.75c0-1.48-.8-2.6-1.96-3.44 2.46.27 5 1.42 5 3.44m-11-3.5c-2.34 0-6 1.17-6 3.5V19h12v-1.75c0-2.33-3.66-3.5-6-3.5M9.34 17c.84-.58 1.87-1.25 3.66-1.25s2.82.67 3.66 1.25\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 11a3 3 0 10-3-3 3 3 0 003 3m0-4a1 1 0 11-1 1 1 1 0 011-1m4.11 3.86a5 5 0 000-5.72A2.91 2.91 0 0118 5a3 3 0 010 6 2.91 2.91 0 01-.89-.14M13 13c-6 0-6 4-6 4v2h12v-2s0-4-6-4m-4 4c0-.29.32-2 4-2 3.5 0 3.94 1.56 4 2m7 0v2h-3v-2a5.6 5.6 0 00-1.8-3.94C24 13.55 24 17 24 17M8 12H5v3H3v-3H0v-2h3V7h2v3h3z\" /></svg>",
     "description": "mdi-account-multiple-plus-outline",
     "prefix": "svg-mdi-account-multiple-plus-outline"
+  },
+  "mdi-account-multiple-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M24 17v2h-3v-2c0-1.55-.7-2.94-1.82-3.94C24 13.55 24 17 24 17M18 5c1.66 0 3 1.34 3 3a2.996 2.996 0 01-3.9 2.86c.57-.81.9-1.79.9-2.86 0-1.06-.33-2.05-.9-2.86.28-.09.59-.14.9-.14m-5 0c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3m6 12v2H7v-2c0-2.21 2.69-4 6-4s6 1.79 6 4M.464 13.12L2.59 11 .464 8.88 1.88 7.46 4 9.59l2.12-2.13 1.42 1.42L5.41 11l2.13 2.12-1.42 1.42L4 12.41l-2.12 2.13z\" /></svg>",
+    "description": "mdi-account-multiple-remove",
+    "prefix": "svg-mdi-account-multiple-remove"
+  },
+  "mdi-account-multiple-remove-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M24 17v2h-3v-2c0-1.55-.7-2.94-1.82-3.94C24 13.55 24 17 24 17M18 5c1.66 0 3 1.34 3 3a2.996 2.996 0 01-3.9 2.86c.57-.81.9-1.79.9-2.86 0-1.06-.33-2.05-.9-2.86.28-.09.59-.14.9-.14m-5 0c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3m6 12v2H7v-2c0-2.21 2.69-4 6-4s6 1.79 6 4M13 7c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1m0 8c-2.21 0-4 .9-4 2h8c0-1.1-1.79-2-4-2M.464 13.12L2.59 11 .464 8.88 1.88 7.46 4 9.59l2.12-2.13 1.42 1.42L5.41 11l2.13 2.12-1.42 1.42L4 12.41l-2.12 2.13z\" /></svg>",
+    "description": "mdi-account-multiple-remove-outline",
+    "prefix": "svg-mdi-account-multiple-remove-outline"
   },
   "mdi-account-network" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 17v2h1a1 1 0 011 1h7v2h-7a1 1 0 01-1 1h-4a1 1 0 01-1-1H2v-2h7a1 1 0 011-1h1v-2H5v-1.5c0-1.93 3.13-3.5 7-3.5s7 1.57 7 3.5V17h-6M12 3a3.5 3.5 0 013.5 3.5A3.5 3.5 0 0112 10a3.5 3.5 0 01-3.5-3.5A3.5 3.5 0 0112 3z\" /></svg>",
@@ -668,6 +683,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18.6 6.62c-1.44 0-2.8.56-3.77 1.53L7.8 14.39c-.64.64-1.49.99-2.4.99C3.53 15.38 2 13.87 2 12c0-1.87 1.53-3.38 3.4-3.38.91 0 1.76.35 2.44 1.03l1.13 1 1.53-1.34L9.22 8.2A5.37 5.37 0 005.4 6.62C2.42 6.62 0 9.04 0 12s2.42 5.38 5.4 5.38c1.44 0 2.8-.56 3.77-1.53l7.03-6.24c.64-.64 1.49-.99 2.4-.99 1.87 0 3.4 1.51 3.4 3.38 0 1.87-1.53 3.38-3.4 3.38-.9 0-1.76-.35-2.44-1.03L15 13.34l-1.5 1.34 1.28 1.12a5.386 5.386 0 003.82 1.57c2.98 0 5.4-2.41 5.4-5.37 0-3-2.42-5.38-5.4-5.38z\" /></svg>",
     "description": "mdi-all-inclusive",
     "prefix": "svg-mdi-all-inclusive"
+  },
+  "mdi-allergy" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19.75 5.33a1.25 1.25 0 00-1.25 1.25v4.59h-.83V4.08a1.25 1.25 0 00-2.5 0v7.09h-.84V3.25a1.25 1.25 0 10-2.5 0v7.92H11V5.33a1.25 1.25 0 00-2.5 0v9.93l-3.59-2a1 1 0 00-.5-.14 1 1 0 00-.66.25l-1.08 1L9.21 21a3.29 3.29 0 002.37 1h6.09A3.33 3.33 0 0021 18.67V6.58a1.25 1.25 0 00-1.25-1.25M11 15a1 1 0 111-1 1 1 0 01-1 1m2 3a1 1 0 111-1 1 1 0 01-1 1m5-2a1 1 0 111-1 1 1 0 01-1 1m-1 3a1 1 0 111-1 1 1 0 01-1 1m-2-4a1 1 0 111-1 1 1 0 01-1 1z\" /></svg>",
+    "description": "mdi-allergy",
+    "prefix": "svg-mdi-allergy"
   },
   "mdi-alpha" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18.08 17.8c-.46.13-.87.2-1.23.2-1.2 0-2.01-.88-2.42-2.65h-.05c-.99 1.91-2.38 2.86-4.13 2.86-1.31 0-2.36-.49-3.15-1.48S5.92 14.5 5.92 13c0-1.75.45-3.15 1.34-4.24.89-1.09 2.1-1.64 3.63-1.64.82 0 1.56.23 2.2.68.64.46 1.13 1.1 1.47 1.93h.04l.71-2.4h2.56l-2.14 5.32c.24 1.24.49 2.09.77 2.54.24.45.58.68 1 .68.24 0 .43-.04.6-.11l-.02 2.04m-4.26-5.24c-.21-1.13-.55-2.01-1.01-2.61-.45-.61-1-.91-1.63-.91-.82 0-1.48.37-1.97 1.1-.49.74-.71 1.65-.71 2.72 0 .98.19 1.79.62 2.45.42.66.99.98 1.7.98.6 0 1.15-.29 1.64-.84.5-.57.91-1.4 1.24-2.49l.12-.4z\" /></svg>",
@@ -1494,6 +1514,11 @@
     "description": "mdi-api",
     "prefix": "svg-mdi-api"
   },
+  "mdi-api-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M7 11H5V9h2m7-2h-2.62l1.91 2H14v.75l1.87 1.96c.08-.21.13-.46.13-.71V9a2 2 0 00-2-2M4.45 2.62L3 4l2.86 3H5c-1.1 0-2 .9-2 2v8h2v-4h2v4h2v-6.7l1 1.04V17h2v-3.55l7.55 7.93L21 20m-.1-3h.1v-2h-1V9h1V7h-4v2h1v4.95z\" /></svg>",
+    "description": "mdi-api-off",
+    "prefix": "svg-mdi-api-off"
+  },
   "mdi-apple" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.81-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z\" /></svg>",
     "description": "mdi-apple",
@@ -1588,6 +1613,31 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 3h18v4H3V3m1 5h16v13H4V8m5.5 3a.5.5 0 00-.5.5V13h6v-1.5a.5.5 0 00-.5-.5h-5z\" /></svg>",
     "description": "mdi-archive",
     "prefix": "svg-mdi-archive"
+  },
+  "mdi-archive-arrow-down" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 3h18v4H3V3m1 18V8h16v13H4m10-7v-3h-4v3H7l5 5 5-5h-3z\" /></svg>",
+    "description": "mdi-archive-arrow-down",
+    "prefix": "svg-mdi-archive-arrow-down"
+  },
+  "mdi-archive-arrow-down-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 21H4V10h2v9h12v-9h2v11M3 3h18v6H3V3m2 2v2h14V5m-8.5 6v3H8l4 4 4-4h-2.5v-3\" /></svg>",
+    "description": "mdi-archive-arrow-down-outline",
+    "prefix": "svg-mdi-archive-arrow-down-outline"
+  },
+  "mdi-archive-arrow-up" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 21h16V8H4m10 7v3h-4v-3H7l5-5 5 5M3 3h18v4H3\" /></svg>",
+    "description": "mdi-archive-arrow-up",
+    "prefix": "svg-mdi-archive-arrow-up"
+  },
+  "mdi-archive-arrow-up-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 21H4V10h2v9h12v-9h2v11M3 3h18v6H3V3m2 2v2h14V5m-8.5 12v-3H8l4-4 4 4h-2.5v3\" /></svg>",
+    "description": "mdi-archive-arrow-up-outline",
+    "prefix": "svg-mdi-archive-arrow-up-outline"
+  },
+  "mdi-archive-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 21H4V10h2v9h12v-9h2v11M3 3h18v6H3V3m6.5 8h5c.28 0 .5.22.5.5V13H9v-1.5c0-.28.22-.5.5-.5M5 5v2h14V5H5z\" /></svg>",
+    "description": "mdi-archive-outline",
+    "prefix": "svg-mdi-archive-outline"
   },
   "mdi-arm-flex" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 18.34S4 7.09 7 3l5 1-1 3.09H9v7.16h1c2-3.07 6.14-4.19 8.64-3.07 3.3 1.53 3 6.14 0 8.18C16.24 21 9 22.43 3 18.34z\" /></svg>",
@@ -2549,6 +2599,11 @@
     "description": "mdi-barcode",
     "prefix": "svg-mdi-barcode"
   },
+  "mdi-barcode-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20.84 22.73L16 17.89V18h-2v-2.11l-2-2V18h-1v-5.11l-1-1V18H7V8.89l-1-1V18H5V6.89L1.11 3l1.28-1.27L7 6.34l3 3 1 1 1 1 2 2.01v-.01l2 2v.01l1 1v-.01L18.66 18h-.01l3.46 3.46-1.27 1.27M16 6h-2v4.8l2 2V6m-4 0h-1v1.8l1 1V6m8 0h-3v7.8l3 3V6m2 12V6h-1v11.8l.2.2h.8M10 6h-.8l.8.8V6M2 18h2V6H2v12z\" /></svg>",
+    "description": "mdi-barcode-off",
+    "prefix": "svg-mdi-barcode-off"
+  },
   "mdi-barcode-scan" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 6h2v12H4V6m3 0h1v12H7V6m2 0h3v12H9V6m4 0h1v12h-1V6m3 0h2v12h-2V6m3 0h1v12h-1V6M2 4v4H0V4a2 2 0 012-2h4v2H2m20-2a2 2 0 012 2v4h-2V4h-4V2h4M2 16v4h4v2H2a2 2 0 01-2-2v-4h2m20 4v-4h2v4a2 2 0 01-2 2h-4v-2h4z\" /></svg>",
     "description": "mdi-barcode-scan",
@@ -2814,6 +2869,21 @@
     "description": "mdi-battery-charging-90",
     "prefix": "svg-mdi-battery-charging-90"
   },
+  "mdi-battery-charging-high" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 20H4V6h8m.67-2H11V2H5v2H3.33C2.6 4 2 4.6 2 5.33v15.34C2 21.4 2.6 22 3.33 22h9.34c.74 0 1.33-.59 1.33-1.33V5.33C14 4.6 13.4 4 12.67 4M11 16H5v3h6v-3m0-9H5v3h6V7m0 4.5H5v3h6v-3M23 10h-3V3l-5 10h3v8\" /></svg>",
+    "description": "mdi-battery-charging-high",
+    "prefix": "svg-mdi-battery-charging-high"
+  },
+  "mdi-battery-charging-low" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 20H4V6h8m.67-2H11V2H5v2H3.33C2.6 4 2 4.6 2 5.33v15.34C2 21.4 2.6 22 3.33 22h9.34c.74 0 1.33-.59 1.33-1.33V5.33C14 4.6 13.4 4 12.67 4M11 16H5v3h6v-3m12-6h-3V3l-5 10h3v8\" /></svg>",
+    "description": "mdi-battery-charging-low",
+    "prefix": "svg-mdi-battery-charging-low"
+  },
+  "mdi-battery-charging-medium" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 20H4V6h8m.67-2H11V2H5v2H3.33C2.6 4 2 4.6 2 5.33v15.34C2 21.4 2.6 22 3.33 22h9.34c.74 0 1.33-.59 1.33-1.33V5.33C14 4.6 13.4 4 12.67 4M11 16H5v3h6v-3m0-4.5H5v3h6v-3M23 10h-3V3l-5 10h3v8\" /></svg>",
+    "description": "mdi-battery-charging-medium",
+    "prefix": "svg-mdi-battery-charging-medium"
+  },
   "mdi-battery-charging-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23.05 11h-3V4l-5 10h3v8M12 20H4l.05-14h8m.67-2h-1.67V2h-6v2H3.38a1.33 1.33 0 00-1.33 1.33v15.34c0 .73.6 1.33 1.33 1.33h9.34c.73 0 1.33-.6 1.33-1.33V5.33A1.33 1.33 0 0012.72 4z\" /></svg>",
     "description": "mdi-battery-charging-outline",
@@ -2879,6 +2949,36 @@
     "description": "mdi-battery-charging-wireless-outline",
     "prefix": "svg-mdi-battery-charging-wireless-outline"
   },
+  "mdi-battery-heart" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12.67 4H11V2H5v2H3.33A1.34 1.34 0 002 5.33v15.34A1.34 1.34 0 003.33 22h9.34A1.34 1.34 0 0014 20.67V5.33A1.34 1.34 0 0012.67 4M19 16.17l-.58-.53C16.36 13.77 15 12.54 15 11a2.18 2.18 0 012.2-2.2 2.4 2.4 0 011.8.83 2.4 2.4 0 011.8-.83A2.18 2.18 0 0123 11c0 1.5-1.36 2.74-3.42 4.61z\" /></svg>",
+    "description": "mdi-battery-heart",
+    "prefix": "svg-mdi-battery-heart"
+  },
+  "mdi-battery-heart-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 16.2l-.6-.5c-2-1.9-3.4-3.2-3.4-4.7 0-1.2 1-2.2 2.2-2.2.7 0 1.3.3 1.8.8.5-.5 1.1-.8 1.8-.8 1.2 0 2.2 1 2.2 2.2 0 1.5-1.4 2.7-3.4 4.6l-.6.6M12.7 4H11V2H5v2H3.3C2.6 4 2 4.6 2 5.3v15.3c0 .8.6 1.4 1.3 1.4h9.3c.7 0 1.3-.6 1.3-1.3V5.3c.1-.7-.5-1.3-1.2-1.3M12 20H4V6h8v14z\" /></svg>",
+    "description": "mdi-battery-heart-outline",
+    "prefix": "svg-mdi-battery-heart-outline"
+  },
+  "mdi-battery-heart-variant" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16.67 4H15V2H9v2H7.33A1.34 1.34 0 006 5.33v15.34A1.34 1.34 0 007.33 22h9.34A1.34 1.34 0 0018 20.67V5.33A1.34 1.34 0 0016.67 4m-4.09 11.64l-.58.53-.58-.53C9.36 13.77 8 12.54 8 11a2.18 2.18 0 012.2-2.2 2.4 2.4 0 011.8.83 2.4 2.4 0 011.8-.83A2.18 2.18 0 0116 11c0 1.54-1.36 2.77-3.42 4.64z\" /></svg>",
+    "description": "mdi-battery-heart-variant",
+    "prefix": "svg-mdi-battery-heart-variant"
+  },
+  "mdi-battery-high" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 20H8V6h8m.67-2H15V2H9v2H7.33C6.6 4 6 4.6 6 5.33v15.34C6 21.4 6.6 22 7.33 22h9.34c.74 0 1.33-.59 1.33-1.33V5.33C18 4.6 17.4 4 16.67 4M15 16H9v3h6v-3m0-9H9v3h6V7m0 4.5H9v3h6v-3z\" /></svg>",
+    "description": "mdi-battery-high",
+    "prefix": "svg-mdi-battery-high"
+  },
+  "mdi-battery-low" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 20H8V6h8m.67-2H15V2H9v2H7.33C6.6 4 6 4.6 6 5.33v15.34C6 21.4 6.6 22 7.33 22h9.34c.74 0 1.33-.59 1.33-1.33V5.33C18 4.6 17.4 4 16.67 4M15 16H9v3h6v-3\" /></svg>",
+    "description": "mdi-battery-low",
+    "prefix": "svg-mdi-battery-low"
+  },
+  "mdi-battery-medium" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 20H8V6h8m.67-2H15V2H9v2H7.33C6.6 4 6 4.6 6 5.33v15.34C6 21.4 6.6 22 7.33 22h9.34c.74 0 1.33-.59 1.33-1.33V5.33C18 4.6 17.4 4 16.67 4M15 16H9v3h6v-3m0-4.5H9v3h6v-3z\" /></svg>",
+    "description": "mdi-battery-medium",
+    "prefix": "svg-mdi-battery-medium"
+  },
   "mdi-battery-minus" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16.67 4C17.4 4 18 4.6 18 5.33v15.34A1.33 1.33 0 0116.67 22H7.33C6.6 22 6 21.4 6 20.67V5.33A1.33 1.33 0 017.33 4H9V2h6v2h1.67M8 12v2h8v-2\" /></svg>",
     "description": "mdi-battery-minus",
@@ -2888,6 +2988,16 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11.67 4A1.33 1.33 0 0113 5.33v15.34c0 .73-.6 1.33-1.33 1.33H2.33C1.6 22 1 21.4 1 20.67V5.33A1.33 1.33 0 012.33 4H4V2h6v2h1.67M15 12h8v2h-8v-2M3 13h8V6H3v7z\" /></svg>",
     "description": "mdi-battery-negative",
     "prefix": "svg-mdi-battery-negative"
+  },
+  "mdi-battery-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 14.8L7.21 4H9V2h6v2h1.67A1.34 1.34 0 0118 5.33m0 12.02L3.38 2.73 2.11 4 6 7.89v12.78A1.34 1.34 0 007.33 22h9.34A1.34 1.34 0 0018 20.67v-.78l2.84 2.84 1.27-1.27z\" /></svg>",
+    "description": "mdi-battery-off",
+    "prefix": "svg-mdi-battery-off"
+  },
+  "mdi-battery-off-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 17.35L3.38 2.73 2.11 4 6 7.89v12.78A1.34 1.34 0 007.33 22h9.34A1.34 1.34 0 0018 20.67v-.78l2.84 2.84 1.27-1.27M16 20H8V9.89l8 8M16 6v6.8l2 2V5.33A1.34 1.34 0 0016.67 4H15V2H9v2H7.21l2 2z\" /></svg>",
+    "description": "mdi-battery-off-outline",
+    "prefix": "svg-mdi-battery-off-outline"
   },
   "mdi-battery-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 20H8V6h8m.67-2H15V2H9v2H7.33A1.33 1.33 0 006 5.33v15.34C6 21.4 6.6 22 7.33 22h9.34A1.33 1.33 0 0018 20.67V5.33C18 4.6 17.4 4 16.67 4z\" /></svg>",
@@ -2929,10 +3039,70 @@
     "description": "mdi-beaker",
     "prefix": "svg-mdi-beaker"
   },
+  "mdi-beaker-alert" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 3h18v2c-1.1 0-2 .9-2 2v12c0 1.1-.9 2-2 2H7c-1.1 0-2-.9-2-2V7c0-1.1-.9-2-2-2V3m4 6v1h3V9H7m0 2v1h3v-1H7m3 5v-1H7v1h3m2-2v-1H7v1h5m0-6V7H7v1h5m9 5V8h2v5h-2m0 4v-2h2v2h-2z\" /></svg>",
+    "description": "mdi-beaker-alert",
+    "prefix": "svg-mdi-beaker-alert"
+  },
+  "mdi-beaker-alert-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 3h18v2c-1.1 0-2 .9-2 2v12c0 1.11-.89 2-2 2H7a2 2 0 01-2-2V7a2 2 0 00-2-2V3m4 2v2h5v1H7v1h3v1H7v1h3v1H7v1h5v1H7v1h3v1H7v3h10V5H7m14 8V8h2v5h-2m0 4v-2h2v2h-2z\" /></svg>",
+    "description": "mdi-beaker-alert-outline",
+    "prefix": "svg-mdi-beaker-alert-outline"
+  },
+  "mdi-beaker-check" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M17.75 21.16l-2.75-3L16.16 17l1.59 1.59L21.34 15l1.16 1.41-4.75 4.75M3 3h18v2c-1.1 0-2 .9-2 2v5a6.005 6.005 0 00-5.2 9H7c-1.1 0-2-.9-2-2V7c0-1.1-.9-2-2-2V3m4 6v1h3V9H7m0 2v1h3v-1H7m3 5v-1H7v1h3m2-2v-1H7v1h5m0-6V7H7v1h5z\" /></svg>",
+    "description": "mdi-beaker-check",
+    "prefix": "svg-mdi-beaker-check"
+  },
+  "mdi-beaker-check-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M17.75 21.16l-2.75-3L16.16 17l1.59 1.59L21.34 15l1.16 1.41-4.75 4.75M3 3h18v2c-1.1 0-2 .9-2 2v5c-.7 0-1.37.12-2 .34V5H7v2h5v1H7v1h3v1H7v1h3v1H7v1h5v1H7v1h3v1H7v3h6.08c.12.72.37 1.39.72 2H7a2 2 0 01-2-2V7a2 2 0 00-2-2V3z\" /></svg>",
+    "description": "mdi-beaker-check-outline",
+    "prefix": "svg-mdi-beaker-check-outline"
+  },
+  "mdi-beaker-minus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 17v2h-8v-2h8M3 3h18v2c-1.1 0-2 .9-2 2v5a6.005 6.005 0 00-5.2 9H7c-1.1 0-2-.9-2-2V7c0-1.1-.9-2-2-2V3m4 6v1h3V9H7m0 2v1h3v-1H7m3 5v-1H7v1h3m2-2v-1H7v1h5m0-6V7H7v1h5z\" /></svg>",
+    "description": "mdi-beaker-minus",
+    "prefix": "svg-mdi-beaker-minus"
+  },
+  "mdi-beaker-minus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 17v2h-8v-2h8M3 3h18v2c-1.1 0-2 .9-2 2v8h-2V5H7v2h5v1H7v1h3v1H7v1h3v1H7v1h5v1H7v1h3v1H7v3h6.08c.12.72.37 1.39.72 2H7a2 2 0 01-2-2V7a2 2 0 00-2-2V3z\" /></svg>",
+    "description": "mdi-beaker-minus-outline",
+    "prefix": "svg-mdi-beaker-minus-outline"
+  },
   "mdi-beaker-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 3h18v2a2 2 0 00-2 2v12a2 2 0 01-2 2H7a2 2 0 01-2-2V7a2 2 0 00-2-2V3m4 2v2h5v1H7v1h3v1H7v1h3v1H7v1h5v1H7v1h3v1H7v3h10V5H7z\" /></svg>",
     "description": "mdi-beaker-outline",
     "prefix": "svg-mdi-beaker-outline"
+  },
+  "mdi-beaker-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 14h2v3h3v2h-3v3h-2v-3h-3v-2h3v-3M3 3h18v2c-1.1 0-2 .9-2 2v5a6.005 6.005 0 00-5.2 9H7c-1.1 0-2-.9-2-2V7c0-1.1-.9-2-2-2V3m4 6v1h3V9H7m0 2v1h3v-1H7m3 5v-1H7v1h3m2-2v-1H7v1h5m0-6V7H7v1h5z\" /></svg>",
+    "description": "mdi-beaker-plus",
+    "prefix": "svg-mdi-beaker-plus"
+  },
+  "mdi-beaker-plus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 14h2v3h3v2h-3v3h-2v-3h-3v-2h3v-3M3 3h18v2c-1.1 0-2 .9-2 2v5c-.7 0-1.37.12-2 .34V5H7v2h5v1H7v1h3v1H7v1h3v1H7v1h5v1H7v1h3v1H7v3h6.08c.12.72.37 1.39.72 2H7a2 2 0 01-2-2V7a2 2 0 00-2-2V3z\" /></svg>",
+    "description": "mdi-beaker-plus-outline",
+    "prefix": "svg-mdi-beaker-plus-outline"
+  },
+  "mdi-beaker-question" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M0 3h18v2c-1.1 0-2 .9-2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V7c0-1.1-.9-2-2-2V3m4 6v1h3V9H4m0 2v1h3v-1H4m3 5v-1H4v1h3m2-2v-1H4v1h5m0-6V7H4v1h5m12.5 7.5V17H20v-1.5h1.5m-2-5H18V10c0-1.66 1.34-3 3-3s3 1.34 3 3c0 .97-.5 1.88-1.29 2.41l-.3.19c-.57.4-.91 1.02-.91 1.7v.2H20v-.2c0-1.19.6-2.3 1.59-2.95l.29-.19c.39-.26.62-.69.62-1.16 0-.82-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.5z\" /></svg>",
+    "description": "mdi-beaker-question",
+    "prefix": "svg-mdi-beaker-question"
+  },
+  "mdi-beaker-question-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M0 3h18v2c-1.1 0-2 .9-2 2v12c0 1.11-.89 2-2 2H4a2 2 0 01-2-2V7a2 2 0 00-2-2V3m4 2v2h5v1H4v1h3v1H4v1h3v1H4v1h5v1H4v1h3v1H4v3h10V5H4m17.5 10.5V17H20v-1.5h1.5m-2-5H18V10c0-1.66 1.34-3 3-3s3 1.34 3 3c0 .97-.5 1.88-1.29 2.41l-.3.19c-.57.4-.91 1.02-.91 1.7v.2H20v-.2c0-1.19.6-2.3 1.59-2.95l.29-.19c.39-.26.62-.69.62-1.16 0-.82-.67-1.5-1.5-1.5s-1.5.67-1.5 1.5v.5z\" /></svg>",
+    "description": "mdi-beaker-question-outline",
+    "prefix": "svg-mdi-beaker-question-outline"
+  },
+  "mdi-beaker-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.46 15.88l1.42-1.42L19 16.59l2.12-2.12 1.41 1.41L20.41 18l2.13 2.12-1.42 1.42L19 19.41l-2.12 2.12-1.41-1.41L17.59 18l-2.13-2.12M3 3h18v2c-1.1 0-2 .9-2 2v5a6.005 6.005 0 00-5.2 9H7c-1.1 0-2-.9-2-2V7c0-1.1-.9-2-2-2V3m4 6v1h3V9H7m0 2v1h3v-1H7m3 5v-1H7v1h3m2-2v-1H7v1h5m0-6V7H7v1h5z\" /></svg>",
+    "description": "mdi-beaker-remove",
+    "prefix": "svg-mdi-beaker-remove"
+  },
+  "mdi-beaker-remove-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.46 15.88l1.42-1.42L19 16.59l2.12-2.12 1.41 1.41L20.41 18l2.13 2.12-1.42 1.42L19 19.41l-2.12 2.12-1.41-1.41L17.59 18l-2.13-2.12M3 3h18v2c-1.1 0-2 .9-2 2v5c-.7 0-1.37.12-2 .34V5H7v2h5v1H7v1h3v1H7v1h3v1H7v1h5v1H7v1h3v1H7v3h6.08c.12.72.37 1.39.72 2H7a2 2 0 01-2-2V7a2 2 0 00-2-2V3z\" /></svg>",
+    "description": "mdi-beaker-remove-outline",
+    "prefix": "svg-mdi-beaker-remove-outline"
   },
   "mdi-beats" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M7 12a5 5 0 005 5 5 5 0 005-5 5 5 0 00-5-5c-1.13 0-2.16.37-3 1V2.46c.95-.3 1.95-.46 3-.46a10 10 0 0110 10 10 10 0 01-10 10A10 10 0 012 12c0-3.7 2-6.93 5-8.66V12m5-3a3 3 0 013 3 3 3 0 01-3 3 3 3 0 01-3-3 3 3 0 013-3z\" /></svg>",
@@ -3113,6 +3283,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 10c-.56 0-1.09.11-1.59.28L14.46 4.5H11V6h2.54l.88 1.72L12 13.13l-1.77-4.18c.27-.1.51-.37.51-.7 0-.41-.33-.75-.74-.75H8c-.42 0-.76.34-.76.75S7.58 9 8 9h.61l2.25 5.25h-.94C9.56 11.85 7.5 10 5 10c-2.76 0-5 2.24-5 5s2.24 5 5 5c2.5 0 4.56-1.85 4.92-4.25h2.58l2.79-6.32.79 1.53A4.976 4.976 0 0014 15c0 2.76 2.24 5 5 5s5-2.24 5-5-2.24-5-5-5M5 18.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5c1.67 0 3.07 1.18 3.41 2.75H4v1.5h4.41A3.495 3.495 0 015 18.5m14 0c-1.93 0-3.5-1.57-3.5-3.5 0-1.08.5-2.03 1.27-2.67l1.8 3.52 1.32-.72-1.79-3.5c.29-.07.59-.13.9-.13 1.93 0 3.5 1.57 3.5 3.5s-1.57 3.5-3.5 3.5z\" /></svg>",
     "description": "mdi-bicycle",
     "prefix": "svg-mdi-bicycle"
+  },
+  "mdi-bicycle-basket" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11.74 13.36l2.4-5.65-1.08-2.21H10.5V4H14l.73 1.5h7.02l-1 3.5h-4.31l.67 1.37A5.002 5.002 0 0124 15c0 2.76-2.24 5-5 5s-5-2.24-5-5c0-1.55.71-2.94 1.82-3.85L15 9.5 12.25 16H9.9A5 5 0 115 10c2.59 0 4.72 1.97 5 4.5h.58L8.3 9h-.8c-.41 0-.75-.34-.75-.75s.34-.75.75-.75h2.75c.41 0 .75.34.75.75s-.34.75-.75.75h-.28l1.77 4.36M5 11.5c-1.93 0-3.5 1.57-3.5 3.5a3.504 3.504 0 006.86 1H4v-1.5h4.47c-.25-1.7-1.71-3-3.47-3m14 0c-.43 0-.85.08-1.23.22l1.93 3.96-1.35.66-1.85-3.79c-.62.63-1 1.5-1 2.45 0 1.93 1.57 3.5 3.5 3.5s3.5-1.57 3.5-3.5-1.57-3.5-3.5-3.5z\" /></svg>",
+    "description": "mdi-bicycle-basket",
+    "prefix": "svg-mdi-bicycle-basket"
   },
   "mdi-bike" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 20.5A3.5 3.5 0 011.5 17 3.5 3.5 0 015 13.5 3.5 3.5 0 018.5 17 3.5 3.5 0 015 20.5M5 12a5 5 0 00-5 5 5 5 0 005 5 5 5 0 005-5 5 5 0 00-5-5m9.8-2H19V8.2h-3.2l-1.94-3.27c-.29-.5-.86-.83-1.46-.83-.47 0-.9.19-1.2.5L7.5 8.29C7.19 8.6 7 9 7 9.5c0 .63.33 1.16.85 1.47L11.2 13v5H13v-6.5l-2.25-1.65 2.32-2.35m5.93 13a3.5 3.5 0 01-3.5-3.5 3.5 3.5 0 013.5-3.5 3.5 3.5 0 013.5 3.5 3.5 3.5 0 01-3.5 3.5m0-8.5a5 5 0 00-5 5 5 5 0 005 5 5 5 0 005-5 5 5 0 00-5-5m-3-7.2c1 0 1.8-.8 1.8-1.8S17 1.2 16 1.2 14.2 2 14.2 3 15 4.8 16 4.8z\" /></svg>",
@@ -3463,6 +3638,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M17 3a2 2 0 012 2v16l-7-3-7 3V5a2 2 0 012-2h10M8.17 8.58L10.59 11l-2.42 2.41 1.42 1.42L12 12.41l2.41 2.42 1.42-1.42L13.41 11l2.42-2.42-1.42-1.41L12 9.58 9.59 7.17 8.17 8.58z\" /></svg>",
     "description": "mdi-bookmark-remove",
     "prefix": "svg-mdi-bookmark-remove"
+  },
+  "mdi-bookshelf" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M9 3v15h3V3H9m3 2l4 13 3-1-4-13-3 1M5 5v13h3V5H5M3 19v2h18v-2H3z\" /></svg>",
+    "description": "mdi-bookshelf",
+    "prefix": "svg-mdi-bookshelf"
   },
   "mdi-boom-gate" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 9H8.22A2.97 2.97 0 004 8.8c-.64.56-1 1.36-1 2.2v9a1 1 0 00-1 1v1h8v-1a1 1 0 00-1-1v-7h11a2 2 0 002-2 2 2 0 00-2-2M6 12.5A1.5 1.5 0 014.5 11 1.5 1.5 0 016 9.5 1.5 1.5 0 017.5 11 1.5 1.5 0 016 12.5m4.5-.5L9 10h1.5l1.5 2h-1.5m4 0L13 10h1.5l1.5 2h-1.5m4 0L17 10h1.5l1.5 2h-1.5z\" /></svg>",
@@ -3978,6 +4158,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 4c-1.11 0-2 .89-2 2v11h2a3 3 0 003 3 3 3 0 003-3h6a3 3 0 003 3 3 3 0 003-3h2v-3c0-1.11-.89-2-2-2h-2V9.5h4V6c0-1.11-.89-2-2-2H3m-.5 1.5h4V8h-4V5.5m5.5 0h4V8H8V5.5m5.5 0h4V8h-4V5.5m5.5 0h2.5V8H19V5.5m-5.5 4h4V12h-4V9.5m-11 0h4V12h-4V9.5m5.5 0h4V12H8V9.5m-2 6A1.5 1.5 0 017.5 17 1.5 1.5 0 016 18.5 1.5 1.5 0 014.5 17 1.5 1.5 0 016 15.5m12 0a1.5 1.5 0 011.5 1.5 1.5 1.5 0 01-1.5 1.5 1.5 1.5 0 01-1.5-1.5 1.5 1.5 0 011.5-1.5z\" /></svg>",
     "description": "mdi-bus-double-decker",
     "prefix": "svg-mdi-bus-double-decker"
+  },
+  "mdi-bus-marker" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2c-4.42 0-8 .5-8 4v10a3 3 0 001 2.22V20a1 1 0 001 1h1a1 1 0 001-1v-1h6a8 8 0 01-1-3.5 5.55 5.55 0 012.38-4.5H6V6h12v4a4.07 4.07 0 01.5 0 5.34 5.34 0 011.5.22V6c0-3.5-3.58-4-8-4M7.5 14A1.5 1.5 0 116 15.5 1.5 1.5 0 017.5 14m11-2a3.54 3.54 0 00-3.5 3.5c0 2.6 3.5 6.5 3.5 6.5s3.5-3.9 3.5-6.5a3.54 3.54 0 00-3.5-3.5m0 4.8a1.2 1.2 0 110-2.4 1.29 1.29 0 011.2 1.2 1.15 1.15 0 01-1.2 1.2z\" /></svg>",
+    "description": "mdi-bus-marker",
+    "prefix": "svg-mdi-bus-marker"
   },
   "mdi-bus-multiple" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M10 5c-4.42 0-8 .5-8 4v10c0 .85.37 1.66 1 2.22V23c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h8v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1.78c.63-.56 1-1.37 1-2.22V9c0-3.5-3.58-4-8-4M5.5 20c-.83 0-1.5-.67-1.5-1.5S4.67 17 5.5 17s1.5.67 1.5 1.5S6.33 20 5.5 20m9 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5m1.5-6H4V9h12v5m6-9v10c0 .85-.37 1.66-1 2.22V19c0 .55-.45 1-1 1h-.12c.07-.32.12-.65.12-1V9c0-6-7-6-10-6-.91 0-2.2 0-3.54.17C7.55 1.32 10.5 1 14 1c4.42 0 8 .5 8 4z\" /></svg>",
@@ -4734,6 +4919,16 @@
     "description": "mdi-card-outline",
     "prefix": "svg-mdi-card-outline"
   },
+  "mdi-card-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13.09 20H4a2 2 0 01-2-2V6a2 2 0 012-2h16c1.11 0 2 .89 2 2v7.81c-.88-.51-1.91-.81-3-.81-3.31 0-6 2.69-6 6 0 .34.04.67.09 1M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2z\" /></svg>",
+    "description": "mdi-card-plus",
+    "prefix": "svg-mdi-card-plus"
+  },
+  "mdi-card-plus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 15v3h3v2h-3v3h-2v-3h-3v-2h3v-3h2m-7 3H3V6h16v7h2V6c0-1.11-.89-2-2-2H3a2 2 0 00-2 2v12a2 2 0 002 2h11v-2z\" /></svg>",
+    "description": "mdi-card-plus-outline",
+    "prefix": "svg-mdi-card-plus-outline"
+  },
   "mdi-card-search" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11.5 9a2.5 2.5 0 000 5 2.5 2.5 0 000-5M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2m-3.21 14.21l-2.91-2.91c-.69.44-1.51.7-2.38.7C9 16 7 14 7 11.5S9 7 11.5 7a4.481 4.481 0 013.8 6.89l2.91 2.9-1.42 1.42z\" /></svg>",
     "description": "mdi-card-search",
@@ -4869,10 +5064,20 @@
     "description": "mdi-cash-marker",
     "prefix": "svg-mdi-cash-marker"
   },
+  "mdi-cash-minus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 15v2h8v-2m-8.03-3.39C14.85 10.28 13.59 8.97 12 9c-1.7.03-3 1.3-3 3s1.3 2.94 3 3c.38 0 .77-.08 1.14-.23.27-1.1.72-2.14 1.83-3.16M13 16H7a2 2 0 00-2-2v-4c1.11 0 2-.89 2-2h10a2 2 0 002 2v.06c.67 0 1.34.12 2 .34V6H3v12h10.32a6.38 6.38 0 01-.32-2z\" /></svg>",
+    "description": "mdi-cash-minus",
+    "prefix": "svg-mdi-cash-minus"
+  },
   "mdi-cash-multiple" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 6h18v12H5V6m9 3a3 3 0 013 3 3 3 0 01-3 3 3 3 0 01-3-3 3 3 0 013-3M9 8a2 2 0 01-2 2v4a2 2 0 012 2h10a2 2 0 012-2v-4a2 2 0 01-2-2H9m-8 2h2v10h16v2H1V10z\" /></svg>",
     "description": "mdi-cash-multiple",
     "prefix": "svg-mdi-cash-multiple"
+  },
+  "mdi-cash-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 15v2h3v3h2v-3h3v-2h-3v-3h-2v3m-3.03-3.39C14.85 10.28 13.59 8.97 12 9c-1.7.03-3 1.3-3 3s1.3 2.94 3 3c.38 0 .77-.08 1.14-.23.27-1.1.72-2.14 1.83-3.16M13 16H7a2 2 0 00-2-2v-4c1.11 0 2-.89 2-2h10a2 2 0 002 2v.06c.67 0 1.34.12 2 .34V6H3v12h10.32a6.38 6.38 0 01-.32-2z\" /></svg>",
+    "description": "mdi-cash-plus",
+    "prefix": "svg-mdi-cash-plus"
   },
   "mdi-cash-refund" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 11h18v12H3V11m9 4a2 2 0 012 2 2 2 0 01-2 2 2 2 0 01-2-2 2 2 0 012-2m-5-2a2 2 0 01-2 2v4a2 2 0 012 2h10a2 2 0 012-2v-4a2 2 0 01-2-2H7m10-8v5h-1.5V6.5H9.88l2.42 2.43L11.24 10 7 5.75l4.24-4.25 1.06 1.07L9.88 5H17z\" /></svg>",
@@ -4883,6 +5088,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 17h20v4H2v-4M6.25 7H9V6H6V3h8v3h-3v1h6.8c1 0 2 1 2.2 2l.5 7h-17l.55-7c0-1 1-2 2.2-2M13 9v2h5V9h-5M6 9v1h2V9H6m3 0v1h2V9H9m-3 2v1h2v-1H6m3 0v1h2v-1H9m-3 2v1h2v-1H6m3 0v1h2v-1H9M7 4v1h6V4H7z\" /></svg>",
     "description": "mdi-cash-register",
     "prefix": "svg-mdi-cash-register"
+  },
+  "mdi-cash-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.46 18.12l1.42 1.42L19 17.41l2.12 2.13 1.42-1.42L20.41 16l2.13-2.12-1.42-1.42L19 14.59l-2.12-2.13-1.42 1.42L17.59 16m-2.62-4.38C14.86 10.28 13.58 8.97 12 9c-1.7.04-3 1.3-3 3s1.3 2.94 3 3c.39 0 .77-.08 1.14-.23.27-1.1.72-2.14 1.83-3.15M13 16H7c0-1.1-.9-2-2-2v-4c1.1 0 2-.9 2-2h10c0 1.1.9 2 2 2v.05c.67.01 1.34.13 2 .35V6H3v12h10.32a6.38 6.38 0 01-.32-2z\" /></svg>",
+    "description": "mdi-cash-remove",
+    "prefix": "svg-mdi-cash-remove"
   },
   "mdi-cash-usd" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 4H4c-1.11 0-2 .89-2 2v12a2 2 0 002 2h16c1.11 0 2-.89 2-2V6a2 2 0 00-2-2m-5 6h-4v1h3c.55 0 1 .45 1 1v3c0 .55-.45 1-1 1h-1v1h-2v-1H9v-2h4v-1h-3c-.55 0-1-.45-1-1V9c0-.55.45-1 1-1h1V7h2v1h2v2z\" /></svg>",
@@ -5174,6 +5384,11 @@
     "description": "mdi-chart-multiline",
     "prefix": "svg-mdi-chart-multiline"
   },
+  "mdi-chart-multiple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M22 16v2H6V2h2v11.57l5.71-9 3.16 2.11 2.42-2.42 1.42 1.42-3.58 3.61-2.84-1.89L8.82 16M4 20V4H2v18h20v-2z\" /></svg>",
+    "description": "mdi-chart-multiple",
+    "prefix": "svg-mdi-chart-multiple"
+  },
   "mdi-chart-pie" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 2v20c-5.1-.5-9-4.8-9-10s3.9-9.5 9-10m2 0v9h9c-.5-4.8-4.2-8.5-9-9m0 11v9c4.7-.5 8.5-4.2 9-9h-9z\" /></svg>",
     "description": "mdi-chart-pie",
@@ -5395,9 +5610,29 @@
     "prefix": "svg-mdi-checkbox-multiple-marked-outline"
   },
   "mdi-checkerboard" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 3h18v18H3V3m2 2v7h7v7h7v-7h-7V5H5z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 2v20h20V2H2m18 10h-4v4h4v4h-4v-4h-4v4H8v-4H4v-4h4V8H4V4h4v4h4V4h4v4h4v4m-4-4v4h-4V8h4m-4 4v4H8v-4h4z\" /></svg>",
     "description": "mdi-checkerboard",
     "prefix": "svg-mdi-checkerboard"
+  },
+  "mdi-checkerboard-minus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M14 17v2h8v-2M8 16h4v-4H8v4m4-4h4V8h-4v4M2 2v20h11.5c-.5-.6-.9-1.3-1.2-2H8v-4H4v-4h4V8H4V4h4v4h4V4h4v4h4v4.4c.7.3 1.4.7 2 1.2V2H2z\" /></svg>",
+    "description": "mdi-checkerboard-minus",
+    "prefix": "svg-mdi-checkerboard-minus"
+  },
+  "mdi-checkerboard-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 17h3v2h-3v3h-2v-3h-3v-2h3v-3h2v3M8 16h4v-4H8v4m4-4h4V8h-4v4M2 2v20h11.54c-.54-.58-.91-1.26-1.18-2H8v-4H4v-4h4V8H4V4h4v4h4V4h4v4h4v4.36c.74.27 1.42.64 2 1.18V2H2z\" /></svg>",
+    "description": "mdi-checkerboard-plus",
+    "prefix": "svg-mdi-checkerboard-plus"
+  },
+  "mdi-checkerboard-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M8 16h4v-4H8v4m4-4h4V8h-4v4M2 2v20h11.5c-.5-.6-.9-1.3-1.2-2H8v-4H4v-4h4V8H4V4h4v4h4V4h4v4h4v4.4c.7.3 1.4.7 2 1.2V2H2m18.1 12.5L18 16.6l-2.1-2.1-1.4 1.4 2.1 2.1-2.1 2.1 1.4 1.4 2.1-2.1 2.1 2.1 1.4-1.4-2.1-2.1 2.1-2.1-1.4-1.4z\" /></svg>",
+    "description": "mdi-checkerboard-remove",
+    "prefix": "svg-mdi-checkerboard-remove"
+  },
+  "mdi-cheese" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 17.5c0-.83.67-1.5 1.5-1.5.29 0 .56.09.79.23l7.46-4.3c-.4-.71-.85-1.38-1.34-2.03a.92.92 0 01-.41.1c-.55 0-1-.45-1-1 0-.2.08-.38.18-.54A17.742 17.742 0 0012 4.25C11.85 5.24 11 6 10 6a2 2 0 01-2-2c0-.28.06-.55.16-.79C7.3 3.08 6.41 3 5.5 3c-.17 0-.33 0-.5.03v6.02a2.5 2.5 0 010 4.9V21l6-3.46v-.04M14 9a2 2 0 110 4c-1.11 0-2-.89-2-2s.9-2 2-2m-5 7c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1m0-6c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1z\" /></svg>",
+    "description": "mdi-cheese",
+    "prefix": "svg-mdi-cheese"
   },
   "mdi-chef-hat" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12.5 1.5c-1.77 0-3.33 1.17-3.83 2.87C8.14 4.13 7.58 4 7 4a4 4 0 00-4 4 4.01 4.01 0 003 3.87V19h13v-7.13c1.76-.46 3-2.05 3-3.87a4 4 0 00-4-4c-.58 0-1.14.13-1.67.37-.5-1.7-2.06-2.87-3.83-2.87m-.5 9h1v7h-1v-7m-3 2h1v5H9v-5m6 0h1v5h-1v-5M6 20v1a1 1 0 001 1h11a1 1 0 001-1v-1H6z\" /></svg>",
@@ -5794,10 +6029,30 @@
     "description": "mdi-clipboard-check",
     "prefix": "svg-mdi-clipboard-check"
   },
+  "mdi-clipboard-check-multiple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 7H2v14c0 1.1.9 2 2 2h14v-2H4M20 3h-3.2c-.4-1.2-1.5-2-2.8-2-1.3 0-2.4.8-2.8 2H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-6 0c.6 0 1 .5 1 1s-.5 1-1 1-1-.5-1-1 .4-1 1-1m-1.7 12.1L9 11.8l1.4-1.4 1.9 1.9L17.6 7 19 8.4\" /></svg>",
+    "description": "mdi-clipboard-check-multiple",
+    "prefix": "svg-mdi-clipboard-check-multiple"
+  },
+  "mdi-clipboard-check-multiple-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 7v14h14v2H4c-1.1 0-2-.9-2-2V7h2m8.8 8.35l-3.3-3.3 1.4-1.4 1.9 1.9 4.3-4.3 1.4 1.4-5.7 5.7M20 3c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H8c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h3.18C11.6 1.84 12.7 1 14 1c1.3 0 2.4.84 2.82 2H20m-6 0c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1m-4 4V5H8v12h12V5h-2v2h-8z\" /></svg>",
+    "description": "mdi-clipboard-check-multiple-outline",
+    "prefix": "svg-mdi-clipboard-check-multiple-outline"
+  },
   "mdi-clipboard-check-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2m-7 0a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1M7 7h10V5h2v14H5V5h2v2m.5 6.5L9 12l2 2 4.5-4.5L17 11l-6 6-3.5-3.5z\" /></svg>",
     "description": "mdi-clipboard-check-outline",
     "prefix": "svg-mdi-clipboard-check-outline"
+  },
+  "mdi-clipboard-file" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3c1.1 0 2 .9 2 2v4.17L19.83 8H15c-2.21 0-4 1.79-4 4v9H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h4.18C9.6 1.84 10.7 1 12 1c1.3 0 2.4.84 2.82 2H19m-7 0c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1m3 20a2 2 0 01-2-2v-9c0-1.1.9-2 2-2h4l4 4v7c0 1.11-.89 2-2 2h-6m6-8.17L18.17 12H18v3h3v-.17z\" /></svg>",
+    "description": "mdi-clipboard-file",
+    "prefix": "svg-mdi-clipboard-file"
+  },
+  "mdi-clipboard-file-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 23a2 2 0 01-2-2v-9c0-1.1.9-2 2-2h4l4 4v7c0 1.11-.89 2-2 2h-6m0-2h6v-6.17L18.17 12H15v9m4-18c1.1 0 2 .9 2 2v4.17L19.83 8H19V5h-2v2H7V5H5v14h6v2H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h4.18C9.6 1.84 10.7 1 12 1c1.3 0 2.4.84 2.82 2H19m-7 0c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z\" /></svg>",
+    "description": "mdi-clipboard-file-outline",
+    "prefix": "svg-mdi-clipboard-file-outline"
   },
   "mdi-clipboard-flow" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2m-7 0a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1m3 16l-4-4h3V8h2v7h3l-4 4m-5-3H8V9H5l4-4 4 4h-3v7\" /></svg>",
@@ -5819,6 +6074,16 @@
     "description": "mdi-clipboard-list-outline",
     "prefix": "svg-mdi-clipboard-list-outline"
   },
+  "mdi-clipboard-multiple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 7H2v14c0 1.1.9 2 2 2h14v-2H4M20 3h-3.2c-.4-1.2-1.5-2-2.8-2-1.3 0-2.4.8-2.8 2H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-6 0c.6 0 1 .5 1 1s-.5 1-1 1-1-.5-1-1 .4-1 1-1z\" /></svg>",
+    "description": "mdi-clipboard-multiple",
+    "prefix": "svg-mdi-clipboard-multiple"
+  },
+  "mdi-clipboard-multiple-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 7v14h14v2H4c-1.1 0-2-.9-2-2V7h2m16-4c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H8c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h3.18C11.6 1.84 12.7 1 14 1c1.3 0 2.4.84 2.82 2H20m-6 0c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1m-4 4V5H8v12h12V5h-2v2h-8z\" /></svg>",
+    "description": "mdi-clipboard-multiple-outline",
+    "prefix": "svg-mdi-clipboard-multiple-outline"
+  },
   "mdi-clipboard-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2m-7 0a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1M7 7h10V5h2v14H5V5h2v2z\" /></svg>",
     "description": "mdi-clipboard-outline",
@@ -5828,6 +6093,16 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3h-4.18C14.25 1.44 12.53.64 11 1.2c-.86.3-1.5.96-1.82 1.8H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2m-7 0a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1m-2 14V9l5 4-5 4z\" /></svg>",
     "description": "mdi-clipboard-play",
     "prefix": "svg-mdi-clipboard-play"
+  },
+  "mdi-clipboard-play-multiple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 21h14v2H4c-1.1 0-2-.9-2-2V7h2m18-2v12c0 1.1-.9 2-2 2H8c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h3.2c.4-1.2 1.5-2 2.8-2 1.3 0 2.4.8 2.8 2H20c1.1 0 2 .9 2 2m-9-1c0 .5.5 1 1 1s1-.5 1-1-.4-1-1-1-1 .5-1 1m4 8l-5-4v8\" /></svg>",
+    "description": "mdi-clipboard-play-multiple",
+    "prefix": "svg-mdi-clipboard-play-multiple"
+  },
+  "mdi-clipboard-play-multiple-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 7v14h14v2H4c-1.1 0-2-.9-2-2V7h2m16-4c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H8c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h3.2c.4-1.2 1.5-2 2.8-2 1.3 0 2.4.8 2.8 2H20m-6 0c-.6 0-1 .5-1 1s.4 1 1 1 1-.4 1-1-.4-1-1-1m-4 4V5H8v12h12V5h-2v2m-6 8V9l5 3\" /></svg>",
+    "description": "mdi-clipboard-play-multiple-outline",
+    "prefix": "svg-mdi-clipboard-play-multiple-outline"
   },
   "mdi-clipboard-play-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3h-4.18C14.25 1.44 12.53.64 11 1.2c-.86.3-1.5.96-1.82 1.8H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2m-7 0a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1M7 7h10V5h2v14H5V5h2v2m3 10V9l5 4-5 4z\" /></svg>",
@@ -5853,6 +6128,16 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M17 9H7V7h10m0 6H7v-2h10m-3 6H7v-2h7M12 3a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1m7 0h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2z\" /></svg>",
     "description": "mdi-clipboard-text",
     "prefix": "svg-mdi-clipboard-text"
+  },
+  "mdi-clipboard-text-multiple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 3h-3.2c-.4-1.2-1.5-2-2.8-2-1.3 0-2.4.8-2.8 2H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-6 0c.6 0 1 .5 1 1s-.5 1-1 1-1-.5-1-1 .4-1 1-1m2 11H9v-2h7m3-2H9V8h10M4 21h14v2H4c-1.1 0-2-.9-2-2V7h2\" /></svg>",
+    "description": "mdi-clipboard-text-multiple",
+    "prefix": "svg-mdi-clipboard-text-multiple"
+  },
+  "mdi-clipboard-text-multiple-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 7v14h14v2H4c-1.1 0-2-.9-2-2V7h2m16-4c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H8c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h3.18C11.6 1.84 12.7 1 14 1c1.3 0 2.4.84 2.82 2H20m-6 0c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1m-4 4V5H8v12h12V5h-2v2m-3 8h-5v-2h5m3-2h-8V9h8v2z\" /></svg>",
+    "description": "mdi-clipboard-text-multiple-outline",
+    "prefix": "svg-mdi-clipboard-text-multiple-outline"
   },
   "mdi-clipboard-text-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3h-4.18C14.25 1.44 12.53.64 11 1.2c-.86.3-1.5.96-1.82 1.8H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2m-7 0a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1M7 7h10V5h2v14H5V5h2v2m10 4H7V9h10v2m-2 4H7v-2h8v2z\" /></svg>",
@@ -7384,6 +7669,11 @@
     "description": "mdi-delta",
     "prefix": "svg-mdi-delta"
   },
+  "mdi-desk" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 6h18c.55 0 1 .45 1 1s-.45 1-1 1v11h-2v-2h-4v2h-2V8H5v11H3V8c-.55 0-1-.45-1-1s.45-1 1-1m13 4.5v.5h2v-.5c0-.28-.22-.5-.5-.5h-1c-.28 0-.5.22-.5.5m0 4v.5h2v-.5c0-.28-.22-.5-.5-.5h-1c-.28 0-.5.22-.5.5z\" /></svg>",
+    "description": "mdi-desk",
+    "prefix": "svg-mdi-desk"
+  },
   "mdi-desk-lamp" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M10.85 2L9.18 4.5l1.14.75L7.14 10H7a2 2 0 00-2 2 2 2 0 001.58 1.95L10.62 20H7v2h10v-2h-4l-4.47-6.72A2 2 0 009 12c0-.3-.07-.6-.2-.87L12 6.37c-.22 1.68.75 3.52 2.45 4.63l4.44-6.63c-1.69-1.13-3.77-1.33-5.24-.5L10.85 2m7.48 5l-1.66 2.5c.68.45 1.62.27 2.08-.42.46-.69.25-1.62-.42-2.08z\" /></svg>",
     "description": "mdi-desk-lamp",
@@ -7618,6 +7908,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5.81 2C4.83 2.09 4 3 4 4v16c0 1.05.95 2 2 2h12c1.05 0 2-.95 2-2V4a2 2 0 00-2-2h-6v7L9.5 7.5 7 9V2H5.81M12 13h1a1 1 0 011 1v4h-1v-2h-1v2h-1v-4a1 1 0 011-1m0 1v1h1v-1h-1m3 1h3v1l-2 3h2v1h-3v-1l2-3h-2v-1z\" /></svg>",
     "description": "mdi-dictionary",
     "prefix": "svg-mdi-dictionary"
+  },
+  "mdi-digital-ocean" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6 12H2C2 6.5 6.5 2 12 2s10 4.5 10 10-4.5 10-10 10v-4H8v-4h4v4c3.32 0 6-2.69 6-6s-2.69-6-6-6-6 2.69-6 6m2 6v3H5v-3h3m-5-2h2v2H3v-2z\" /></svg>",
+    "description": "mdi-digital-ocean",
+    "prefix": "svg-mdi-digital-ocean"
   },
   "mdi-dip-switch" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 4h4a1 1 0 011 1v14a1 1 0 01-1 1H3a1 1 0 01-1-1V5a1 1 0 011-1m7 0h4a1 1 0 011 1v14a1 1 0 01-1 1h-4a1 1 0 01-1-1V5a1 1 0 011-1m7 0h4a1 1 0 011 1v14a1 1 0 01-1 1h-4a1 1 0 01-1-1V5a1 1 0 011-1M4 18h2v-5H4v5m7-7h2V6h-2v5m7 7h2v-5h-2v5z\" /></svg>",
@@ -8090,9 +8385,14 @@
     "prefix": "svg-mdi-earth-off"
   },
   "mdi-edge" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2.74 10.81C3.83-1.36 22.5-1.36 21.2 13.56H8.61c0 4.29 5.81 5.65 10.93 2.75v4.22C13.25 23.88 5 21.43 5 14.09c0-5.51 4.97-7.28 4.97-7.28s-1.39 1.77-1.43 3.24h7.16c0-7.12-9.8-4.48-12.96.76z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M22 10.25c0 2.81-2.09 5.08-4.67 5.08-1.83 0-2.9-.33-3.36-.7-.47-.37-.36-.63-.16-.85a2.5 2.5 0 00.69-1.74c0-1.38-1.11-2.51-2.5-2.51s-2.5 1.13-2.5 2.51c0 2.72 2.75 5.76 6.9 5.76 2.06 0 2.97-.62 3.75-.94.29-.04.41.37.29.55A10.044 10.044 0 0112 21.96C6.5 21.96 2 17.5 2 12c0-5.5 4.5-9.96 10-9.96 6.88 0 10 5.19 10 8.21z\" /></svg>",
     "description": "mdi-edge",
     "prefix": "svg-mdi-edge"
+  },
+  "mdi-edge-legacy" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2.737 10.808c1.092-12.17 19.779-12.17 18.46 2.75H8.614c0 4.295 5.802 5.651 10.925 2.75v4.22c-6.291 3.353-14.542.904-14.542-6.443 0-5.5 4.973-7.27 4.973-7.27s-1.394 1.77-1.431 3.24h7.158c0-7.121-9.796-4.484-12.96.753z\" /></svg>",
+    "description": "mdi-edge-legacy",
+    "prefix": "svg-mdi-edge-legacy"
   },
   "mdi-egg" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19.5 14.5A7.5 7.5 0 0112 22a7.5 7.5 0 01-7.5-7.5C4.5 10.36 7.86 2 12 2c4.14 0 7.5 8.36 7.5 12.5z\" /></svg>",
@@ -8419,6 +8719,16 @@
     "description": "mdi-emoticon-kiss-outline",
     "prefix": "svg-mdi-emoticon-kiss-outline"
   },
+  "mdi-emoticon-lol" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.07 8.93v-4a4.06 4.06 0 01.66-2.21 10 10 0 00-13 13 4.06 4.06 0 012.21-.66h4v4a4.06 4.06 0 01-.66 2.21 10 10 0 0013-13 4.06 4.06 0 01-2.21.66M11 6h1.5v1.5H14V9h-3m-3.5 5v-1.5H6V11h3v3m6.89 1.9A5.5 5.5 0 019.8 17L17 9.8a5.5 5.5 0 01-1.11 6.09m-11 5.19a2 2 0 01-2-2 2 2 0 012-2h2v2a2 2 0 01-1.96 1.99M19.07 2.93a2 2 0 012 2 2 2 0 01-2 2h-2v-2a2 2 0 012-2z\" /></svg>",
+    "description": "mdi-emoticon-lol",
+    "prefix": "svg-mdi-emoticon-lol"
+  },
+  "mdi-emoticon-lol-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6 11v1.5h1.5V14H9v-3m3.5-5H11v3h3V7.5h-1.5M9.8 17A5.5 5.5 0 0017 9.8M6.34 6.34a8 8 0 018.74-1.72 4.11 4.11 0 01.65-1.9 10 10 0 00-13 13 4.11 4.11 0 011.9-.65 8 8 0 011.71-8.73m11.32 11.32a8 8 0 01-8.74 1.72 4.11 4.11 0 01-.65 1.9 10 10 0 0013-13 4.11 4.11 0 01-1.9.65 8 8 0 01-1.71 8.73M6 11v1.5h1.5V14H9v-3m.8 6A5.5 5.5 0 0017 9.8M12.5 6H11v3h3V7.5h-1.5M6 11v1.5h1.5V14H9v-3m3.5-5H11v3h3V7.5h-1.5M9.8 17A5.5 5.5 0 0017 9.8M4.93 21a2 2 0 01-2-2 2 2 0 012-2h2v2a2 2 0 01-2 2.07M19.07 2.93a2 2 0 012 2 2 2 0 01-2 2h-2v-2a2 2 0 012-2z\" /></svg>",
+    "description": "mdi-emoticon-lol-outline",
+    "prefix": "svg-mdi-emoticon-lol-outline"
+  },
   "mdi-emoticon-neutral" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2A10 10 0 002 12a10 10 0 0010 10 10 10 0 0010-10A10 10 0 0012 2M7 9.5A1.5 1.5 0 018.5 8 1.5 1.5 0 0110 9.5 1.5 1.5 0 018.5 11 1.5 1.5 0 017 9.5m9 6.5H8v-2h8v2m-.5-5A1.5 1.5 0 0114 9.5 1.5 1.5 0 0115.5 8 1.5 1.5 0 0117 9.5a1.5 1.5 0 01-1.5 1.5z\" /></svg>",
     "description": "mdi-emoticon-neutral",
@@ -8590,9 +8900,14 @@
     "prefix": "svg-mdi-excavator"
   },
   "mdi-exclamation" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 4.5h2v11h-2v-11m2 13v2h-2v-2h2z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 4h2v11h-2V4zm2 14v2h-2v-2h2z\" /></svg>",
     "description": "mdi-exclamation",
     "prefix": "svg-mdi-exclamation"
+  },
+  "mdi-exclamation-thick" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M10 3h4v11h-4V3m0 18v-4h4v4h-4z\" /></svg>",
+    "description": "mdi-exclamation-thick",
+    "prefix": "svg-mdi-exclamation-thick"
   },
   "mdi-exit-run" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13.34 8.17c-.93 0-1.69-.77-1.69-1.7a1.69 1.69 0 011.69-1.69c.94 0 1.7.76 1.7 1.69 0 .93-.76 1.7-1.7 1.7M10.3 19.93l-5.93-1.18.34-1.7 4.15.85 1.35-6.86-1.52.6v2.86H7v-3.96l4.4-1.87.67-.08c.6 0 1.1.34 1.43.85l.86 1.35c.68 1.21 2.03 2.03 3.64 2.03v1.68c-1.86 0-3.56-.83-4.66-2.1l-.5 2.54 1.77 1.69V23h-1.69v-5.1l-1.78-1.69-.84 3.72M21 23h-2V3H6v13.11l-2-.42V1h17v22M6 23H4v-3.22l2 .42V23z\" /></svg>",
@@ -8620,7 +8935,7 @@
     "prefix": "svg-mdi-expansion-card"
   },
   "mdi-expansion-card-variant" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 8h2.5v10H3V9.5H2M22 8v9h-8v1H7v-1H6V8m4 2H8v3h2m3-3h-2v3h2m7-3h-5v5h5z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 7h2.5v10H3V8.5H2M22 7v9h-8v1H7v-1H6V7m4 2H8v3h2m3-3h-2v3h2m7-3h-5v5h5V9z\" /></svg>",
     "description": "mdi-expansion-card-variant",
     "prefix": "svg-mdi-expansion-card-variant"
   },
@@ -8813,6 +9128,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11.5 3c-4.65 0-8.58 3.03-9.97 7.22L3.9 11c1.05-3.19 4.06-5.5 7.6-5.5 1.96 0 3.73.72 5.12 1.88L14 10h7V3l-2.6 2.6C16.55 4 14.15 3 11.5 3M19 14v6c0 1.11-.89 2-2 2h-2a2 2 0 01-2-2v-6a2 2 0 012-2h2a2 2 0 012 2m-4 0v6h2v-6h-2m-4 6a2 2 0 01-2 2H5v-2h4v-2H7v-2h2v-2H5v-2h4a2 2 0 012 2v1.5A1.5 1.5 0 019.5 17a1.5 1.5 0 011.5 1.5V20z\" /></svg>",
     "description": "mdi-fast-forward-30",
     "prefix": "svg-mdi-fast-forward-30"
+  },
+  "mdi-fast-forward-5" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11.5 3c2.65 0 5.05 1 6.9 2.6L21 3v7h-7l2.62-2.62C15.23 6.22 13.46 5.5 11.5 5.5c-3.54 0-6.55 2.31-7.6 5.5l-2.37-.78C2.92 6.03 6.85 3 11.5 3M9 12h6v2h-4v2h2a2 2 0 012 2v2c0 1.11-.89 2-2 2H9v-2h4v-2H9v-6z\" /></svg>",
+    "description": "mdi-fast-forward-5",
+    "prefix": "svg-mdi-fast-forward-5"
   },
   "mdi-fast-forward-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 9.9l3 2.1-3 2.1V9.9m-9 0L9 12l-3 2.1V9.9M13 6v12l8.5-6L13 6M4 6v12l8.5-6L4 6z\" /></svg>",
@@ -9394,6 +9714,16 @@
     "description": "mdi-file-swap-outline",
     "prefix": "svg-mdi-file-swap-outline"
   },
+  "mdi-file-sync" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 17.5c0-3.6 2.9-6.5 6.5-6.5.9 0 1.7.2 2.5.5V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h6.8c-1.1-1.2-1.8-2.8-1.8-4.5m2-14L18.5 9H13V3.5m4 8.5v1.5c2.2 0 4 1.8 4 4 0 .8-.2 1.6-.7 2.2l-1.1-1.1c.2-.3.3-.7.3-1.1 0-1.4-1.1-2.5-2.5-2.5v1.5l-2.2-2.2L17 12m0 11v-1.5c-2.2 0-4-1.8-4-4 0-.8.2-1.6.7-2.2l1.1 1.1c-.2.3-.3.7-.3 1.1 0 1.4 1.1 2.5 2.5 2.5v-1.5l2.2 2.2L17 23z\" /></svg>",
+    "description": "mdi-file-sync",
+    "prefix": "svg-mdi-file-sync"
+  },
+  "mdi-file-sync-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12.8 22H6c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h8l6 6v3.5c-.6-.3-1.3-.4-2-.5V9h-5V4H6v16h5.5c.3.7.8 1.4 1.3 2M17 12l-2.2 2.2 2.2 2.2V15c1.4 0 2.5 1.1 2.5 2.5 0 .4-.1.8-.3 1.1l1.1 1.1c.4-.6.7-1.4.7-2.2 0-2.2-1.8-4-4-4V12m2.2 8.8L17 18.5V20c-1.4 0-2.5-1.1-2.5-2.5 0-.4.1-.8.3-1.1l-1.1-1.1c-.4.6-.7 1.4-.7 2.2 0 2.2 1.8 4 4 4V23l2.2-2.2z\" /></svg>",
+    "description": "mdi-file-sync-outline",
+    "prefix": "svg-mdi-file-sync-outline"
+  },
   "mdi-file-table" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8l-6-6m-4 17H7v-2h3v2m0-3H7v-2h3v2m0-3H7v-2h3v2m4 6h-3v-2h3v2m0-3h-3v-2h3v2m0-3h-3v-2h3v2m-1-4V3.5L18.5 9H13z\" /></svg>",
     "description": "mdi-file-table",
@@ -9620,7 +9950,7 @@
     "prefix": "svg-mdi-firebase"
   },
   "mdi-firefox" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 11.7c0-.4-.1-1-.2-1.4-.3-1.7-1.2-3.2-2.3-4.4-.2-.3-.6-.6-1-.9-1.1-.9-2.4-1.5-3.9-1.8-3-.5-6 .5-8 2.6v-.1c-.1-.2-.1-.2-.2-.2-.1-.2-.1-.3-.2-.4 0-.2-.1-.4-.1-.6-.3.1-.3.4-.4.6-.2.2-.4.5-.4.8-.1.2-.3 1.1-.1 1.2h.1v.3c-.2.2-.3.3-.3.4-.3.6-.6 1.1-.7 1.7V9.8c-.2.2-.2.5-.3.7.1 0 .1-.1.2-.1-.5 2.6.2 5.3 1.8 7.3 2.4 2.9 6.5 4.1 10.1 2.8 3.5-1.3 5.9-4.7 5.9-8.5v-.3m-7.5-7.6c1.5.3 2.9 1 4 2 .1.1.2.3.2.3-.3-.3-1-.8-1.4-.6.1.3 1.3 1.8 1.4 1.9 0 0 .3 1.3.4 1.4 0 .2-.7 2.8-.7 3.2 0 .1-.9 1.9-.8 1.9-.3.7-.6.7-.7.8-.1 0-.7.2-1.4.4-.6.1-1.3.3-1.8.2-.3 0-.7 0-1-.2-.1-.1-.9-.5-1.1-.6-.3-.1-.5-.3-.7-.5H11c.6-.1 3.2-1 3.1-1.4 0-.3-.5-.5-.7-.7-.3-.1-1.5.1-2 .3 0 0-1.9-.5-2.4-.9 0-.1-.1-.7-.1-.8-.1-.1.3-.4.3-.4s1-1 1-1.1c.2 0 .4-.2.5-.3-.1 0 .1-.1.4-.3.3-.2.5-.2.5-.5 0 0 .5-.9-.1-.8 0 0-.9-.1-1.2-.1-.3.2-.4.1-.7 0 0 0-.2-.2-.2-.3.1-.2.8-1.7 1.1-1.8-.2-.4-1.2-.1-1.4.2 0 0-.8.6-1.2.7 0-.1-.5-.2-1-.2 1.8-1.5 4.2-2.2 6.6-1.8z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6.85 6.74c.01 0 .01 0 0 0M21.28 8.6c-.43-1.05-1.32-2.18-2.01-2.54.56 1.11.89 2.22 1.02 3.04v.02c-1.13-2.82-3.05-3.96-4.62-6.44-.08-.12-.17-.25-.24-.38-.04-.07-.07-.14-.11-.21-.06-.13-.12-.26-.15-.4 0-.01-.01-.02-.02-.02h-.03c-2.22 1.3-3.15 3.59-3.38 5.04-.69.04-1.37.21-1.99.51-.12.05-.17.19-.13.31.05.14.21.21.34.15.54-.26 1.14-.41 1.74-.45h.05c.08-.01.17-.01.25-.01.5-.01.97.06 1.44.2l.06.02c.1.02.17.06.25.06.05.04.11.06.16.08l.14.06c.07.03.14.06.2.09.03.02.06.03.09.05.07.04.16.07.2.11.04.02.08.05.12.07.73.45 1.34 1.07 1.75 1.81-.53-.37-1.49-.74-2.41-.58 3.6 1.81 2.63 8-2.36 7.76-.44-.01-.88-.1-1.3-.25-.1-.03-.2-.07-.29-.12-.05-.02-.12-.05-.17-.08-1.23-.63-2.24-1.82-2.38-3.27 0 0 .5-1.73 3.33-1.73.31 0 1.17-.86 1.2-1.1 0-.09-1.74-.78-2.42-1.45-.37-.36-.54-.53-.69-.66-.08-.07-.17-.13-.26-.19a4.63 4.63 0 01-.03-2.45C7.6 6.12 6.8 6.86 6.22 7.5c-.4-.5-.37-2.15-.35-2.5-.01 0-.3.16-.33.18-.35.25-.68.53-.98.82-.35.37-.66.74-.94 1.14-.62.91-1.12 1.95-1.34 3.04 0 .01-.1.41-.17.92l-.03.23c-.02.17-.04.32-.08.58v.41c0 5.53 4.5 10.01 10 10.01 4.97 0 9.08-3.59 9.88-8.33.02-.11.03-.24.05-.37.2-1.72-.02-3.52-.65-5.03z\" /></svg>",
     "description": "mdi-firefox",
     "prefix": "svg-mdi-firefox"
   },
@@ -9789,15 +10119,95 @@
     "description": "mdi-flask-empty",
     "prefix": "svg-mdi-flask-empty"
   },
+  "mdi-flask-empty-minus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 17v2h-8v-2h8M6 22c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37C14.92 12.84 13 15.2 13 18c0 1.54.58 2.94 1.53 4H6z\" /></svg>",
+    "description": "mdi-flask-empty-minus",
+    "prefix": "svg-mdi-flask-empty-minus"
+  },
+  "mdi-flask-empty-minus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 17v2h-8v-2h8M5 19c0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-.64.17-1.26.45-1.81.82L13 8.35V4h-2v4.35L5.18 18.43c-.11.16-.18.36-.18.57z\" /></svg>",
+    "description": "mdi-flask-empty-minus-outline",
+    "prefix": "svg-mdi-flask-empty-minus-outline"
+  },
   "mdi-flask-empty-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 19a1 1 0 001 1h12a1 1 0 001-1c0-.21-.07-.41-.18-.57L13 8.35V4h-2v4.35L5.18 18.43c-.11.16-.18.36-.18.57m1 3a3 3 0 01-3-3c0-.6.18-1.16.5-1.63L9 7.81V6a1 1 0 01-1-1V4a2 2 0 012-2h4a2 2 0 012 2v1a1 1 0 01-1 1v1.81l5.5 9.56c.32.47.5 1.03.5 1.63a3 3 0 01-3 3H6z\" /></svg>",
     "description": "mdi-flask-empty-outline",
     "prefix": "svg-mdi-flask-empty-outline"
   },
+  "mdi-flask-empty-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 14h2v3h3v2h-3v3h-2v-3h-3v-2h3v-3M6 22c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37C14.92 12.84 13 15.2 13 18c0 1.54.58 2.94 1.53 4H6z\" /></svg>",
+    "description": "mdi-flask-empty-plus",
+    "prefix": "svg-mdi-flask-empty-plus"
+  },
+  "mdi-flask-empty-plus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 14h2v3h3v2h-3v3h-2v-3h-3v-2h3v-3M5 19c0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-.64.17-1.26.45-1.81.82L13 8.35V4h-2v4.35L5.18 18.43c-.11.16-.18.36-.18.57z\" /></svg>",
+    "description": "mdi-flask-empty-plus-outline",
+    "prefix": "svg-mdi-flask-empty-plus-outline"
+  },
+  "mdi-flask-empty-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.46 15.88l1.42-1.42L19 16.59l2.12-2.12 1.41 1.41L20.41 18l2.13 2.12-1.42 1.42L19 19.41l-2.12 2.12-1.41-1.41L17.59 18l-2.13-2.12M6 22c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37C14.92 12.84 13 15.2 13 18c0 1.54.58 2.94 1.53 4H6z\" /></svg>",
+    "description": "mdi-flask-empty-remove",
+    "prefix": "svg-mdi-flask-empty-remove"
+  },
+  "mdi-flask-empty-remove-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.46 15.88l1.42-1.42L19 16.59l2.12-2.12 1.41 1.41L20.41 18l2.13 2.12-1.42 1.42L19 19.41l-2.12 2.12-1.41-1.41L17.59 18l-2.13-2.12M5 19c0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-.64.17-1.26.45-1.81.82L13 8.35V4h-2v4.35L5.18 18.43c-.11.16-.18.36-.18.57z\" /></svg>",
+    "description": "mdi-flask-empty-remove-outline",
+    "prefix": "svg-mdi-flask-empty-remove-outline"
+  },
+  "mdi-flask-minus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 17v2h-8v-2h8M6 22c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-2 .52-3.64 2.08-4.24 4.08l-4.33-4.33-3.75 6.5c-.11.16-.18.36-.18.57 0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6m7-12c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z\" /></svg>",
+    "description": "mdi-flask-minus",
+    "prefix": "svg-mdi-flask-minus"
+  },
+  "mdi-flask-minus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 17v2h-8v-2h8M5 19c0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-.64.17-1.26.45-1.81.82L13 8.35V4h-2v4.35L5.18 18.43c-.11.16-.18.36-.18.57m8-3l.58-.58c-.37.78-.58 1.66-.58 2.58H7.73l2.66-4.61L13 16m-.5-4c.28 0 .5.22.5.5s-.22.5-.5.5-.5-.22-.5-.5.22-.5.5-.5z\" /></svg>",
+    "description": "mdi-flask-minus-outline",
+    "prefix": "svg-mdi-flask-minus-outline"
+  },
   "mdi-flask-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 19a1 1 0 001 1h12a1 1 0 001-1c0-.21-.07-.41-.18-.57L13 8.35V4h-2v4.35L5.18 18.43c-.11.16-.18.36-.18.57m1 3a3 3 0 01-3-3c0-.6.18-1.16.5-1.63L9 7.81V6a1 1 0 01-1-1V4a2 2 0 012-2h4a2 2 0 012 2v1a1 1 0 01-1 1v1.81l5.5 9.56c.32.47.5 1.03.5 1.63a3 3 0 01-3 3H6m7-6l1.34-1.34L16.27 18H7.73l2.66-4.61L13 16m-.5-4a.5.5 0 01.5.5.5.5 0 01-.5.5.5.5 0 01-.5-.5.5.5 0 01.5-.5z\" /></svg>",
     "description": "mdi-flask-outline",
     "prefix": "svg-mdi-flask-outline"
+  },
+  "mdi-flask-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 14h2v3h3v2h-3v3h-2v-3h-3v-2h3v-3M6 22c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-2 .52-3.64 2.08-4.24 4.08l-4.33-4.33-3.75 6.5c-.11.16-.18.36-.18.57 0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6m7-12c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z\" /></svg>",
+    "description": "mdi-flask-plus",
+    "prefix": "svg-mdi-flask-plus"
+  },
+  "mdi-flask-plus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 14h2v3h3v2h-3v3h-2v-3h-3v-2h3v-3M5 19c0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-.64.17-1.26.45-1.81.82L13 8.35V4h-2v4.35L5.18 18.43c-.11.16-.18.36-.18.57m8-3l.58-.58c-.37.78-.58 1.66-.58 2.58H7.73l2.66-4.61L13 16m-.5-4c.28 0 .5.22.5.5s-.22.5-.5.5-.5-.22-.5-.5.22-.5.5-.5z\" /></svg>",
+    "description": "mdi-flask-plus-outline",
+    "prefix": "svg-mdi-flask-plus-outline"
+  },
+  "mdi-flask-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.46 15.88l1.42-1.42L19 16.59l2.12-2.12 1.41 1.41L20.41 18l2.13 2.12-1.42 1.42L19 19.41l-2.12 2.12-1.41-1.41L17.59 18l-2.13-2.12M6 22c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-2 .52-3.64 2.08-4.24 4.08l-4.33-4.33-3.75 6.5c-.11.16-.18.36-.18.57 0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6m7-12c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z\" /></svg>",
+    "description": "mdi-flask-remove",
+    "prefix": "svg-mdi-flask-remove"
+  },
+  "mdi-flask-remove-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.46 15.88l1.42-1.42L19 16.59l2.12-2.12 1.41 1.41L20.41 18l2.13 2.12-1.42 1.42L19 19.41l-2.12 2.12-1.41-1.41L17.59 18l-2.13-2.12M5 19c0 .55.45 1 1 1h7.34c.27.75.66 1.42 1.19 2H6c-1.66 0-3-1.34-3-3 0-.6.18-1.16.5-1.64L9 7.81V6c-.55 0-1-.45-1-1V4c0-1.1.9-2 2-2h4a2 2 0 012 2v1c0 .55-.45 1-1 1v1.81l2.5 4.37c-.64.17-1.26.45-1.81.82L13 8.35V4h-2v4.35L5.18 18.43c-.11.16-.18.36-.18.57m8-3l.58-.58c-.37.78-.58 1.66-.58 2.58H7.73l2.66-4.61L13 16m-.5-4c.28 0 .5.22.5.5s-.22.5-.5.5-.5-.22-.5-.5.22-.5.5-.5z\" /></svg>",
+    "description": "mdi-flask-remove-outline",
+    "prefix": "svg-mdi-flask-remove-outline"
+  },
+  "mdi-flask-round-bottom" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 15c0 3.87-3.13 7-7 7s-7-3.13-7-7c0-2.79 1.64-5.2 4-6.33V5c0-.55.45-1 1-1h.5l-1-2h5l-1 2h.5c.55 0 1 .45 1 1v3.67c2.36 1.13 4 3.54 4 6.33m-8-9v4.1A5 5 0 007 15l.08.91L9 13.93 13.07 18l3.86-3.86A5.013 5.013 0 0013 10.1V6h-2m2.07 6c.55 0 1 .45 1 1s-.45 1-1 1c-.57 0-1-.45-1-1s.43-1 1-1z\" /></svg>",
+    "description": "mdi-flask-round-bottom",
+    "prefix": "svg-mdi-flask-round-bottom"
+  },
+  "mdi-flask-round-bottom-empty" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 15c0 3.87-3.13 7-7 7s-7-3.13-7-7c0-2.79 1.64-5.2 4-6.33V5c0-.55.45-1 1-1h.5l-1-2h5l-1 2h.5c.55 0 1 .45 1 1v3.67c2.36 1.13 4 3.54 4 6.33z\" /></svg>",
+    "description": "mdi-flask-round-bottom-empty",
+    "prefix": "svg-mdi-flask-round-bottom-empty"
+  },
+  "mdi-flask-round-bottom-empty-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 15c0 3.87-3.13 7-7 7s-7-3.13-7-7c0-2.79 1.64-5.2 4-6.33V5c0-.55.45-1 1-1h.5l-1-2h5l-1 2h.5c.55 0 1 .45 1 1v3.67c2.36 1.13 4 3.54 4 6.33m-8-9v4.1a5 5 0 102 0V6h-2z\" /></svg>",
+    "description": "mdi-flask-round-bottom-empty-outline",
+    "prefix": "svg-mdi-flask-round-bottom-empty-outline"
+  },
+  "mdi-flask-round-bottom-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 15c0 1.66-1.34 3-3 3s-3-1.34-3-3v-1h2v1c0 .55.45 1 1 1s1-.45 1-1v-1h2v1m4 0c0 3.87-3.13 7-7 7s-7-3.13-7-7c0-2.79 1.64-5.2 4-6.33V5c0-.55.45-1 1-1h.5l-1-2h5l-1 2h.5c.55 0 1 .45 1 1v3.67c2.36 1.13 4 3.54 4 6.33m-8-9v4.1a5 5 0 102 0V6h-2z\" /></svg>",
+    "description": "mdi-flask-round-bottom-outline",
+    "prefix": "svg-mdi-flask-round-bottom-outline"
   },
   "mdi-flattr" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 12a9 9 0 01-9 9H4.5l5.24-5.24 1.42 1.41L9.33 19H12a7 7 0 007-7V7l2-2v7M3 12a9 9 0 019-9h7.5l-5.24 5.24-1.42-1.41L14.67 5H12a7 7 0 00-7 7v5l-2 2v-7z\" /></svg>",
@@ -10029,10 +10439,25 @@
     "description": "mdi-folder-lock-open",
     "prefix": "svg-mdi-folder-lock-open"
   },
+  "mdi-folder-marker" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M10 4l2 2h8a2 2 0 012 2v3.34c-.96-.84-2.18-1.34-3.5-1.34-3 0-5.5 2.65-5.5 5.5 0 1.47.65 3.05 1.5 4.5H4a2 2 0 01-2-2V6c0-1.11.89-2 2-2h6m8.5 8c1.9 0 3.5 1.6 3.5 3.5 0 2.6-3.5 6.5-3.5 6.5S15 18.1 15 15.5c0-1.9 1.6-3.5 3.5-3.5m0 4.8c.7 0 1.3-.6 1.2-1.2 0-.6-.6-1.2-1.2-1.2s-1.2.5-1.2 1.2c0 .6.5 1.2 1.2 1.2z\" /></svg>",
+    "description": "mdi-folder-marker",
+    "prefix": "svg-mdi-folder-marker"
+  },
+  "mdi-folder-marker-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18.5 12c1.9 0 3.5 1.6 3.5 3.5 0 2.6-3.5 6.5-3.5 6.5S15 18.1 15 15.5c0-1.9 1.6-3.5 3.5-3.5m0 4.8c.7 0 1.3-.6 1.2-1.2 0-.6-.6-1.2-1.2-1.2s-1.2.5-1.2 1.2c0 .6.5 1.2 1.2 1.2M20 8H4v10h9.5c.29.68.63 1.35 1 2H4a2 2 0 01-2-2V6c0-1.11.89-2 2-2h6l2 2h8a2 2 0 012 2v3.34c-.58-.5-1.26-.89-2-1.11V8z\" /></svg>",
+    "description": "mdi-folder-marker-outline",
+    "prefix": "svg-mdi-folder-marker-outline"
+  },
   "mdi-folder-move" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M14 18v-3h-4v-4h4V8l5 5m1-7h-8l-2-2H4c-1.11 0-2 .89-2 2v12a2 2 0 002 2h16a2 2 0 002-2V8a2 2 0 00-2-2z\" /></svg>",
     "description": "mdi-folder-move",
     "prefix": "svg-mdi-folder-move"
+  },
+  "mdi-folder-move-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 18H4V8h16v10M12 6l-2-2H4a2 2 0 00-2 2v12a2 2 0 002 2h16c1.11 0 2-.89 2-2V8a2 2 0 00-2-2h-8m-1 8v-2h4V9l4 4-4 4v-3h-4z\" /></svg>",
+    "description": "mdi-folder-move-outline",
+    "prefix": "svg-mdi-folder-move-outline"
   },
   "mdi-folder-multiple" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M22 4h-8l-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2M2 6H0v14a2 2 0 002 2h18v-2H2V6z\" /></svg>",
@@ -10533,6 +10958,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 13v-2h14v2H3m0 6v-2h14v2H3M3 7V5h14v2H3m17 1V5h-1V4h2v4h-1m-1 9v-1h3v4h-3v-1h2v-.5h-1v-1h1V17h-2m2.25-7a.749.749 0 01.54 1.27L20.12 13H22v1h-3v-.92L21 11h-2v-1h2.25z\" /></svg>",
     "description": "mdi-format-list-numbered-rtl",
     "prefix": "svg-mdi-format-list-numbered-rtl"
+  },
+  "mdi-format-list-text" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 14h6v6H2M16 8h-6v2h6M2 10h6V4H2m8 0v2h12V4M10 20h6v-2h-6m0-2h12v-2H10\" /></svg>",
+    "description": "mdi-format-list-text",
+    "prefix": "svg-mdi-format-list-text"
   },
   "mdi-format-overline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 5h14V3H5v2m4.62 11L12 9.67 14.37 16M11 7L5.5 21h2.25l1.12-3h6.25l1.13 3h2.25L13 7h-2z\" /></svg>",
@@ -11219,6 +11649,16 @@
     "description": "mdi-gesture-tap",
     "prefix": "svg-mdi-gesture-tap"
   },
+  "mdi-gesture-tap-box" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.11 0-2 .89-2 2v16c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V4c0-1.11-.89-2-2-2m-9 2c2.21 0 4 1.79 4 4 0 1.5-.8 2.77-2 3.46v-1.22c.61-.55 1-1.35 1-2.24 0-1.66-1.34-3-3-3S8 6.34 8 8c0 .89.39 1.69 1 2.24v1.22C7.8 10.77 7 9.5 7 8c0-2.21 1.79-4 4-4m7 14.5c-.03.82-.68 1.47-1.5 1.5H11c-.38 0-.74-.15-1-.43l-4-4.2.74-.77c.19-.21.46-.32.76-.32h.2L10 16V8c0-.55.45-1 1-1s1 .45 1 1v4.47l1.21.13 3.94 2.19c.53.24.85.77.85 1.35v2.36z\" /></svg>",
+    "description": "mdi-gesture-tap-box",
+    "prefix": "svg-mdi-gesture-tap-box"
+  },
+  "mdi-gesture-tap-button" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 5c2.21 0 4 1.79 4 4 0 1.5-.8 2.77-2 3.46v-1.22c.61-.55 1-1.35 1-2.24 0-1.66-1.34-3-3-3s-3 1.34-3 3c0 .89.39 1.69 1 2.24v1.22C9.8 11.77 9 10.5 9 9c0-2.21 1.79-4 4-4m7 15.5c-.03.82-.68 1.47-1.5 1.5H13c-.38 0-.74-.15-1-.43l-4-4.2.74-.77c.19-.21.46-.32.76-.32h.2L12 18V9c0-.55.45-1 1-1s1 .45 1 1v4.47l1.21.13 3.94 2.19c.53.24.85.77.85 1.35v3.36M20 2H4c-1.1 0-2 .9-2 2v8a2 2 0 002 2h4v-2H4V4h16v8h-2v2h2v-.04l.04.04c1.09 0 1.96-.91 1.96-2V4a2 2 0 00-2-2z\" /></svg>",
+    "description": "mdi-gesture-tap-button",
+    "prefix": "svg-mdi-gesture-tap-button"
+  },
   "mdi-gesture-tap-hold" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M10 9a1 1 0 011-1 1 1 0 011 1v4.47l1.21.13 4.94 2.19c.53.24.85.77.85 1.35v4.36c-.03.82-.68 1.47-1.5 1.5H11c-.38 0-.74-.15-1-.43l-4.9-4.2.74-.77c.19-.21.46-.32.74-.32h.22L10 19V9m-1 3.44V9a2 2 0 012-2 2 2 0 012 2v3.44c1.19-.69 2-1.97 2-3.44a4 4 0 00-4-4 4 4 0 00-4 4c0 1.47.81 2.75 2 3.44z\" /></svg>",
     "description": "mdi-gesture-tap-hold",
@@ -11359,6 +11799,11 @@
     "description": "mdi-gog",
     "prefix": "svg-mdi-gog"
   },
+  "mdi-gold" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 22l1.5-5h7l1.5 5H1m12 0l1.5-5h7l1.5 5H13m-7-7l1.5-5h7l1.5 5H6m17-8.95l-3.86 1.09L18.05 11l-1.09-3.86-3.86-1.09 3.86-1.09 1.09-3.86 1.09 3.86L23 6.05z\" /></svg>",
+    "description": "mdi-gold",
+    "prefix": "svg-mdi-gold"
+  },
   "mdi-golf" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19.5 18a1.5 1.5 0 011.5 1.5 1.5 1.5 0 01-1.5 1.5 1.5 1.5 0 01-1.5-1.5 1.5 1.5 0 011.5-1.5M17 5.92L11 9v9.03c2.84.16 5 .97 5 1.97 0 1.1-2.69 2-6 2s-6-.9-6-2c0-.74 1.21-1.38 3-1.73V20h2V2l8 3.92z\" /></svg>",
     "description": "mdi-golf",
@@ -11438,6 +11883,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 2H1a1 1 0 00-1 1v18a1 1 0 001 1h22a1 1 0 001-1V3a1 1 0 00-1-1m-1 18h-2v-1h-5v1H2V4h20v16M10.29 9.71A1.71 1.71 0 0112 8c.95 0 1.71.77 1.71 1.71 0 .95-.76 1.72-1.71 1.72s-1.71-.77-1.71-1.72m-4.58 1.58c0-.71.58-1.29 1.29-1.29a1.29 1.29 0 011.29 1.29c0 .71-.58 1.28-1.29 1.28-.71 0-1.29-.57-1.29-1.28m10 0A1.29 1.29 0 0117 10a1.29 1.29 0 011.29 1.29c0 .71-.58 1.28-1.29 1.28-.71 0-1.29-.57-1.29-1.28M20 15.14V16H4v-.86c0-.94 1.55-1.71 3-1.71.55 0 1.11.11 1.6.3.75-.69 2.1-1.16 3.4-1.16 1.3 0 2.65.47 3.4 1.16.49-.19 1.05-.3 1.6-.3 1.45 0 3 .77 3 1.71z\" /></svg>",
     "description": "mdi-google-classroom",
     "prefix": "svg-mdi-google-classroom"
+  },
+  "mdi-google-cloud" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 14.75C23 18.2 20.2 21 16.75 21h-9.5C3.8 21 1 18.2 1 14.75c0-2.14 1.08-4.03 2.71-5.15C4.58 5.82 7.96 3 12 3c4.04 0 7.42 2.82 8.29 6.6A6.22 6.22 0 0123 14.75M16.63 17c1.31 0 2.37-1.06 2.37-2.37 0-1.28-1-2.33-2.28-2.38l.03-.5a4.754 4.754 0 00-8.32-3.14c1.5.29 2.8 1.11 3.71 2.25L9.5 13.5c-.42-.73-1.21-1.25-2.12-1.25-1.32 0-2.38 1.06-2.38 2.38 0 1.27 1 2.3 2.25 2.37h9.38z\" /></svg>",
+    "description": "mdi-google-cloud",
+    "prefix": "svg-mdi-google-cloud"
   },
   "mdi-google-controller" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M7.97 16L5 19c-.33.3-.77.5-1.25.5A1.75 1.75 0 012 17.75v-.25l1-7.38A4.524 4.524 0 017.5 6h9c2.36 0 4.29 1.81 4.5 4.12l1 7.38v.25a1.75 1.75 0 01-1.75 1.75c-.48 0-.92-.2-1.25-.5l-2.97-3H7.97M7 8v2H5v1h2v2h1v-2h2v-1H8V8H7m9.5 0a.75.75 0 00-.75.75.75.75 0 00.75.75.75.75 0 00.75-.75.75.75 0 00-.75-.75m-1.75 1.75a.75.75 0 00-.75.75.75.75 0 00.75.75.75.75 0 00.75-.75.75.75 0 00-.75-.75m3.5 0a.75.75 0 00-.75.75.75.75 0 00.75.75.75.75 0 00.75-.75.75.75 0 00-.75-.75M16.5 11.5a.75.75 0 00-.75.75.75.75 0 00.75.75.75.75 0 00.75-.75.75.75 0 00-.75-.75z\" /></svg>",
@@ -11759,6 +12209,11 @@
     "description": "mdi-handcuffs",
     "prefix": "svg-mdi-handcuffs"
   },
+  "mdi-handshake" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 6h3l3.29-3.3a1 1 0 011.42 0l2.58 2.59a1 1 0 010 1.41L19 9h-8v2a1 1 0 01-1 1 1 1 0 01-1-1V8a2 2 0 012-2m-6 5v4l-2.29 2.29a1 1 0 000 1.41l2.58 2.59a1 1 0 001.42 0L11 17h4a1 1 0 001-1v-1h1a1 1 0 001-1v-1h1a1 1 0 001-1v-1h-7v1a2 2 0 01-2 2H9a2 2 0 01-2-2V9z\" /></svg>",
+    "description": "mdi-handshake",
+    "prefix": "svg-mdi-handshake"
+  },
   "mdi-hanger" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20.76 16.34h-.01c.75.43 1.25 1.24 1.25 2.16a2.5 2.5 0 01-2.5 2.5h-15A2.5 2.5 0 012 18.5c0-.92.5-1.73 1.25-2.16h-.01L11 11.86S11 11 12 10c1 0 2-.9 2-2a2 2 0 00-2-2 2 2 0 00-2 2H8a4 4 0 014-4 4 4 0 014 4 4 4 0 01-3 3.87l7.76 4.47M4.5 19h15c.17 0 .34-.09.43-.25.14-.25.07-.54-.18-.68L12 13.59l-7.75 4.48c-.25.14-.32.43-.18.68.09.16.26.25.43.25z\" /></svg>",
     "description": "mdi-hanger",
@@ -11968,6 +12423,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21.5 10.8l-8.3-8.3c-.7-.7-1.7-.7-2.4 0l-8.3 8.3c-.7.7-.7 1.7 0 2.4l8.3 8.3c.7.7 1.7.7 2.4 0l8.3-8.3c.6-.7.6-1.7 0-2.4M20.3 12L12 20.3 3.7 12 12 3.7l8.3 8.3M11 15.5h1.5V17H11v-1.5m1-8.55c2.7.11 3.87 2.83 2.28 4.86-.42.5-1.09.83-1.43 1.26-.35.43-.35.93-.35 1.43H11c0-.85 0-1.56.35-2.06.33-.5 1-.8 1.42-1.13 1.23-1.13.91-2.72-.77-2.85-.82 0-1.5.67-1.5 1.51H9c0-1.67 1.35-3.02 3-3.02z\" /></svg>",
     "description": "mdi-help-rhombus-outline",
     "prefix": "svg-mdi-help-rhombus-outline"
+  },
+  "mdi-hexadecimal" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M7 7c-1.1 0-2 .9-2 2v6a2 2 0 002 2h2c1.11 0 2-.89 2-2V9a2 2 0 00-2-2H7m0 2h2v6H7V9m10.6 8l-2.1-2.1-2.1 2.1-1.4-1.4 2.1-2.1-2.1-2.1 1.4-1.4 2.1 2.1 2.1-2.1 1.4 1.4-2.1 2.1 2.1 2.1-1.4 1.4z\" /></svg>",
+    "description": "mdi-hexadecimal",
+    "prefix": "svg-mdi-hexadecimal"
   },
   "mdi-hexagon" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 16.5c0 .38-.21.71-.53.88l-7.9 4.44c-.16.12-.36.18-.57.18-.21 0-.41-.06-.57-.18l-7.9-4.44A.991.991 0 013 16.5v-9c0-.38.21-.71.53-.88l7.9-4.44c.16-.12.36-.18.57-.18.21 0 .41.06.57.18l7.9 4.44c.32.17.53.5.53.88v9z\" /></svg>",
@@ -12209,6 +12669,16 @@
     "description": "mdi-home-import-outline",
     "prefix": "svg-mdi-home-import-outline"
   },
+  "mdi-home-lightbulb" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 3L2 12h3v8h14v-8h3m-9 6h-2v-1h2m.5-2.42V16h-3v-1.42a3 3 0 113 0z\" /></svg>",
+    "description": "mdi-home-lightbulb",
+    "prefix": "svg-mdi-home-lightbulb"
+  },
+  "mdi-home-lightbulb-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2L2 12h2v8.91h16V12h2M12 4.82l6 6v8.09H6v-8.09m7.5 3.76V16h-3v-1.42a3 3 0 113 0M13 17h-2v1h2z\" /></svg>",
+    "description": "mdi-home-lightbulb-outline",
+    "prefix": "svg-mdi-home-lightbulb-outline"
+  },
   "mdi-home-lock" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 3L2 12h3v8h14v-8h3L12 3m0 6a3 3 0 013 3v1h1v4H8v-4h1v-1a3 3 0 013-3m0 2a1 1 0 00-1 1v1h2v-1c0-.5-.4-1-1-1z\" /></svg>",
     "description": "mdi-home-lock",
@@ -12243,6 +12713,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 3L2 12h3v8h14v-8h3L12 3m-1 7h2v3h3v2h-3v3h-2v-3H8v-2h3v-3z\" /></svg>",
     "description": "mdi-home-plus",
     "prefix": "svg-mdi-home-plus"
+  },
+  "mdi-home-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 3L2 12h3v8h14v-8h3L12 3m3.54 13.12l-1.42 1.42L12 15.41l-2.12 2.13-1.41-1.42L10.59 14l-2.12-2.12 1.41-1.41L12 12.59l2.12-2.12 1.42 1.41L13.41 14l2.13 2.12z\" /></svg>",
+    "description": "mdi-home-remove",
+    "prefix": "svg-mdi-home-remove"
   },
   "mdi-home-roof" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 16h3L12 7 2 16h3l7-6.31L19 16M7 8.81V7H4v4.5l3-2.69z\" /></svg>",
@@ -12694,10 +13169,30 @@
     "description": "mdi-inbox-arrow-down",
     "prefix": "svg-mdi-inbox-arrow-down"
   },
+  "mdi-inbox-arrow-down-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2M5 19v-2h3.13a4.13 4.13 0 001.27 2m9.6 0h-4.4a4.13 4.13 0 001.27-2H19m0-2h-5v1a2 2 0 01-4 0v-1H5V5h14m-3 5h-2V7h-4v3H8l4 4\" /></svg>",
+    "description": "mdi-inbox-arrow-down-outline",
+    "prefix": "svg-mdi-inbox-arrow-down-outline"
+  },
   "mdi-inbox-arrow-up" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M14 14h-4v-3H8l4-4 4 4h-2v3m-9 1V5h14v10h-4a3 3 0 01-3 3 3 3 0 01-3-3H5M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2\" /></svg>",
     "description": "mdi-inbox-arrow-up",
     "prefix": "svg-mdi-inbox-arrow-up"
+  },
+  "mdi-inbox-arrow-up-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2M5 19v-2h3.13a4.13 4.13 0 001.27 2m9.6 0h-4.4a4.13 4.13 0 001.27-2H19m0-2h-5v1a2 2 0 01-4 0v-1H5V5h14M8 11h2v3h4v-3h2l-4-4\" /></svg>",
+    "description": "mdi-inbox-arrow-up-outline",
+    "prefix": "svg-mdi-inbox-arrow-up-outline"
+  },
+  "mdi-inbox-full" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 15V5H5v10h4c0 1.66 1.34 3 3 3s3-1.34 3-3h4m0-12c1.1 0 2 .9 2 2v14c0 1.1-.9 2-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h14M7 13v-2h10v2H7m0-4V7h10v2H7z\" /></svg>",
+    "description": "mdi-inbox-full",
+    "prefix": "svg-mdi-inbox-full"
+  },
+  "mdi-inbox-full-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3c1.1 0 2 .9 2 2v14c0 1.1-.9 2-2 2H5c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h14M5 19h4.4a4.126 4.126 0 01-1.27-2H5v2m14 0v-2h-3.13c-.22.78-.66 1.47-1.27 2H19m0-4V5H5v10h5v1c0 2.67 4 2.67 4 0v-1h5M7 7h10v2H7V7m10 4v2H7v-2h10z\" /></svg>",
+    "description": "mdi-inbox-full-outline",
+    "prefix": "svg-mdi-inbox-full-outline"
   },
   "mdi-inbox-multiple" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 8V5H5v3h4a3 3 0 003 3 3 3 0 003-3h4m0-5a2 2 0 012 2v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h14M3 15h6a3 3 0 003 3 3 3 0 003-3h6v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4z\" /></svg>",
@@ -12708,6 +13203,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3a2 2 0 012 2v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h14M5 10v2h4.4c-.6-.53-1.06-1.22-1.27-2H5m14 2v-2h-3.13c-.21.78-.67 1.47-1.27 2H19m0-4V5H5v3h5v1c0 1.07.93 2 2 2 1.07 0 2-.93 2-2V8h5m2 11a2 2 0 01-2 2H5a2 2 0 01-2-2v-4h7v1c0 1.07.93 2 2 2 1.07 0 2-.93 2-2v-1h7v4M5 17v2h4.4c-.6-.53-1.06-1.22-1.27-2H5m14 2v-2h-3.13c-.21.78-.67 1.47-1.27 2H19z\" /></svg>",
     "description": "mdi-inbox-multiple-outline",
     "prefix": "svg-mdi-inbox-multiple-outline"
+  },
+  "mdi-inbox-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2M5 19v-2h3.13a4.13 4.13 0 001.27 2m9.6 0h-4.4a4.13 4.13 0 001.27-2H19m0-2h-5v1a2 2 0 01-4 0v-1H5V5h14z\" /></svg>",
+    "description": "mdi-inbox-outline",
+    "prefix": "svg-mdi-inbox-outline"
   },
   "mdi-incognito" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 3C9.31 3 7.41 4.22 7.41 4.22L6 9h12l-1.41-4.78S14.69 3 12 3m0 8c-2.73 0-6.61.54-6.87.59-1.04.28-1.88.56-2.54.82C1.58 12.75 1 13 1 13h22s-.58-.25-1.59-.59c-.66-.26-1.52-.54-2.57-.82 0 0-4.02-.59-6.84-.59m-4.5 3A3.5 3.5 0 004 17.5 3.5 3.5 0 007.5 21a3.5 3.5 0 003.5-3.5c0-.16 0-.32-.03-.47.32-.07.66-.13 1.03-.12.37 0 .71.05 1.03.12-.03.15-.03.31-.03.47a3.5 3.5 0 003.5 3.5 3.5 3.5 0 003.5-3.5 3.5 3.5 0 00-3.5-3.5c-1.47 0-2.73.9-3.25 2.19-.32-.1-.7-.19-1.25-.19s-.93.09-1.25.19A3.498 3.498 0 007.5 14m0 1a2.5 2.5 0 012.5 2.5A2.5 2.5 0 017.5 20 2.5 2.5 0 015 17.5 2.5 2.5 0 017.5 15m9 0a2.5 2.5 0 012.5 2.5 2.5 2.5 0 01-2.5 2.5 2.5 2.5 0 01-2.5-2.5 2.5 2.5 0 012.5-2.5z\" /></svg>",
@@ -12944,6 +13444,71 @@
     "description": "mdi-keyboard-close",
     "prefix": "svg-mdi-keyboard-close"
   },
+  "mdi-keyboard-esc" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 7h6v2H3v2h4v2H3v2h4v2H1V7m10 0h4v2h-4v2h2a2 2 0 012 2v2c0 1.11-.89 2-2 2H9v-2h4v-2h-2a2 2 0 01-2-2V9c0-1.1.9-2 2-2m8 0h2a2 2 0 012 2v1h-2V9h-2v6h2v-1h2v1c0 1.11-.89 2-2 2h-2a2 2 0 01-2-2V9c0-1.1.9-2 2-2z\" /></svg>",
+    "description": "mdi-keyboard-esc",
+    "prefix": "svg-mdi-keyboard-esc"
+  },
+  "mdi-keyboard-f1" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6 7h6v2H8v2h3v2H8v4H6V7m8 0h4v10h-2V9h-2V7z\" /></svg>",
+    "description": "mdi-keyboard-f1",
+    "prefix": "svg-mdi-keyboard-f1"
+  },
+  "mdi-keyboard-f10" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 7h6v2H4v2h3v2H4v4H2V7m8 0h4v10h-2V9h-2V7m8 0h2a2 2 0 012 2v6c0 1.11-.89 2-2 2h-2a2 2 0 01-2-2V9c0-1.1.9-2 2-2m0 2v6h2V9h-2z\" /></svg>",
+    "description": "mdi-keyboard-f10",
+    "prefix": "svg-mdi-keyboard-f10"
+  },
+  "mdi-keyboard-f11" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 7h6v2H5v2h3v2H5v4H3V7m8 0h4v10h-2V9h-2V7m6 0h4v10h-2V9h-2V7z\" /></svg>",
+    "description": "mdi-keyboard-f11",
+    "prefix": "svg-mdi-keyboard-f11"
+  },
+  "mdi-keyboard-f12" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 7h6v2H4v2h3v2H4v4H2V7m14 0h4a2 2 0 012 2v2c0 1.11-.89 2-2 2h-2v2h4v2h-6v-4c0-1.1.9-2 2-2h2V9h-4V7m-6 0h4v10h-2V9h-2V7z\" /></svg>",
+    "description": "mdi-keyboard-f12",
+    "prefix": "svg-mdi-keyboard-f12"
+  },
+  "mdi-keyboard-f2" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 7h6v2H7v2h3v2H7v4H5V7m8 0h4a2 2 0 012 2v2c0 1.11-.89 2-2 2h-2v2h4v2h-6v-4c0-1.1.9-2 2-2h2V9h-4V7z\" /></svg>",
+    "description": "mdi-keyboard-f2",
+    "prefix": "svg-mdi-keyboard-f2"
+  },
+  "mdi-keyboard-f3" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 7h6v2H7v2h3v2H7v4H5V7m14 8c0 1.11-.89 2-2 2h-4v-2h4v-2h-2v-2h2V9h-4V7h4a2 2 0 012 2v1.5c0 .83-.67 1.5-1.5 1.5.83 0 1.5.67 1.5 1.5V15z\" /></svg>",
+    "description": "mdi-keyboard-f3",
+    "prefix": "svg-mdi-keyboard-f3"
+  },
+  "mdi-keyboard-f4" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 7h6v2H7v2h3v2H7v4H5V7m8 0h2v4h2V7h2v10h-2v-4h-4V7z\" /></svg>",
+    "description": "mdi-keyboard-f4",
+    "prefix": "svg-mdi-keyboard-f4"
+  },
+  "mdi-keyboard-f5" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 7h6v2H7v2h3v2H7v4H5V7m8 0h6v2h-4v2h2a2 2 0 012 2v2c0 1.11-.89 2-2 2h-4v-2h4v-2h-4V7z\" /></svg>",
+    "description": "mdi-keyboard-f5",
+    "prefix": "svg-mdi-keyboard-f5"
+  },
+  "mdi-keyboard-f6" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 7h6v2H7v2h3v2H7v4H5V7m10 0h4v2h-4v2h2a2 2 0 012 2v2c0 1.11-.89 2-2 2h-2a2 2 0 01-2-2V9c0-1.1.9-2 2-2m0 6v2h2v-2h-2z\" /></svg>",
+    "description": "mdi-keyboard-f6",
+    "prefix": "svg-mdi-keyboard-f6"
+  },
+  "mdi-keyboard-f7" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 7h6v2H7v2h3v2H7v4H5V7m10 10h-2l4-8h-4V7h6v2l-4 8z\" /></svg>",
+    "description": "mdi-keyboard-f7",
+    "prefix": "svg-mdi-keyboard-f7"
+  },
+  "mdi-keyboard-f8" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 7h6v2H7v2h3v2H7v4H5V7m10 6v2h2v-2h-2m0-4v2h2V9h-2m0 8a2 2 0 01-2-2v-1.5c0-.83.67-1.5 1.5-1.5-.83 0-1.5-.67-1.5-1.5V9c0-1.1.9-2 2-2h2a2 2 0 012 2v1.5c0 .83-.67 1.5-1.5 1.5.83 0 1.5.67 1.5 1.5V15c0 1.11-.89 2-2 2h-2z\" /></svg>",
+    "description": "mdi-keyboard-f8",
+    "prefix": "svg-mdi-keyboard-f8"
+  },
+  "mdi-keyboard-f9" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 7h6v2H7v2h3v2H7v4H5V7m12 10h-4v-2h4v-2h-2a2 2 0 01-2-2V9c0-1.1.9-2 2-2h2a2 2 0 012 2v6c0 1.11-.89 2-2 2m0-6V9h-2v2h2z\" /></svg>",
+    "description": "mdi-keyboard-f9",
+    "prefix": "svg-mdi-keyboard-f9"
+  },
   "mdi-keyboard-off" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 4.27L2.28 3 20 20.72 18.73 22l-3-3H4a2 2 0 01-2-2V7c0-.5.18-.93.46-1.27L1 4.27M19 10V8h-2v2h2m0 3v-2h-2v2h2m-3-3V8h-2v2h2m0 3v-2h-2v1.18L11.82 10H13V8h-2v1.18L9.82 8l-3-3H20a2 2 0 012 2v10c0 .86-.54 1.59-1.3 1.87L14.82 13H16m-8 2v2h5.73l-2-2H8m-3-5h1.73L5 8.27V10m2 3v-2H5v2h2m1 0h1.73L8 11.27V13z\" /></svg>",
     "description": "mdi-keyboard-off",
@@ -13014,6 +13579,11 @@
     "description": "mdi-kodi",
     "prefix": "svg-mdi-kodi"
   },
+  "mdi-kotlin" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 2h20L12 12l10 10H2z\" /></svg>",
+    "description": "mdi-kotlin",
+    "prefix": "svg-mdi-kotlin"
+  },
   "mdi-kubernetes" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13.95 13.5h-.23c-.18.11-.26.32-.18.5l.86 2.11c.83-.53 1.46-1.32 1.79-2.25l-2.23-.36h-.01m-3.45.29a.415.415 0 00-.38-.29h-.08l-2.22.37c.33.92.96 1.7 1.79 2.23l.85-2.07V14c.04-.05.04-.14.04-.21m1.83.81a.378.378 0 00-.51-.15c-.07.05-.12.08-.15.15h-.01l-1.09 1.97c.78.26 1.62.31 2.43.12.14-.03.29-.07.43-.12l-1.09-1.97h-.01m3.45-4.57L14.1 11.5l.01.03a.37.37 0 00-.04.53c.05.06.11.1.18.12l.01.01 2.17.62c.07-.97-.14-1.95-.65-2.78m-3.11.16c.01.21.18.37.39.36.08 0 .15-.02.21-.05h.01l1.83-1.31a4.45 4.45 0 00-2.57-1.24l.13 2.24m-1.94.31c.17.11.4.08.52-.09.05-.06.07-.13.08-.21h.01l.12-2.25c-.15.02-.3.05-.46.08-.8.18-1.54.58-2.12 1.16l1.84 1.31h.01m-.99 1.69c.2-.05.32-.26.26-.46 0-.08-.05-.14-.11-.19v-.01L8.21 10c-.52.86-.74 1.84-.63 2.82l2.16-.62v-.01m1.64.66l.62.3.62-.3.15-.67-.43-.53h-.69l-.43.53.16.67m10.89 1.32L20.5 6.5c-.09-.42-.37-.76-.74-.94l-7.17-3.43c-.37-.17-.81-.17-1.19 0L4.24 5.56c-.37.18-.65.52-.74.94l-1.77 7.67c-.05.2-.05.4 0 .59.01.06.03.12.05.18.03.09.08.19.13.27.03.04.05.08.09.11l4.95 6.18c.02 0 .05.04.05.06.1.09.19.16.28.22.12.08.26.14.4.17.11.05.23.05.32.05h8.12c.07 0 .14-.03.2-.05.05-.01.1-.03.14-.04.04-.02.07-.03.11-.05.05-.02.1-.05.15-.08.12-.08.23-.18.33-.28l.15-.2 4.8-5.98c.1-.12.17-.25.22-.38.02-.06.04-.12.05-.18.05-.19.05-.4 0-.59m-7.43 2.99c.02.06.04.12.07.17-.04.08-.06.17-.03.26.12.24.23.46.38.68.08.11.16.23.24.34 0 .03.03.08.04.12.12.2.06.46-.15.59s-.47.05-.59-.15c-.01-.03-.02-.05-.03-.08-.02-.03-.04-.09-.06-.09-.05-.15-.09-.28-.12-.41-.09-.25-.17-.49-.3-.72a.375.375 0 00-.21-.14l-.08-.16c-1.29.48-2.7.48-3.97-.01l-.1.18c-.07.01-.14.04-.19.09-.14.24-.24.49-.33.77-.03.13-.07.26-.12.4-.02 0-.04.07-.06.1a.43.43 0 01-.81-.29c.01-.03.03-.05.04-.08.04-.03.04-.08.04-.11.09-.12.16-.23.24-.35.16-.21.29-.45.39-.69a.54.54 0 00-.03-.25l.07-.18a5.611 5.611 0 01-2.47-3.09l-.2.03a.388.388 0 00-.23-.09c-.27.05-.51.13-.77.22-.11.06-.24.11-.37.15-.03.01-.07.02-.13.03a.438.438 0 01-.54-.27c-.07-.23.04-.47.28-.55.02 0 .05-.01.08-.01v-.01h.01l.11-.02c.14-.04.28-.04.41-.04.26 0 .52-.06.77-.12.08-.05.14-.11.19-.19l.19-.05c-.21-1.36.1-2.73.86-3.87l-.14-.12c0-.09-.03-.18-.08-.25-.2-.17-.41-.32-.64-.45-.12-.06-.24-.13-.36-.21-.02-.02-.06-.05-.08-.07l-.01-.01c-.2-.16-.25-.42-.11-.63.09-.1.21-.15.35-.15.11.01.21.05.3.12l.09.07c.1.09.19.2.28.3.18.19.37.37.58.52.08.04.17.05.26.03l.15.11c.75-.8 1.73-1.36 2.8-1.6.25-.06.52-.1.78-.12l.01-.18a.45.45 0 00.14-.23c.01-.26-.01-.52-.05-.77-.03-.13-.05-.27-.06-.41V5.1c-.02-.24.15-.45.39-.48s.44.15.47.38v.22c-.01.14-.03.28-.06.41-.04.25-.06.51-.05.77.02.1.07.17.14.22l.01.19c1.36.12 2.62.73 3.56 1.72l.16-.12c.09.02.18.01.26-.03.21-.15.41-.33.58-.52.09-.1.18-.2.28-.3.03-.02.07-.06.1-.06.17-.18.44-.18.59 0 .19.16.18.43 0 .6 0 .02-.03.04-.06.06a2.495 2.495 0 01-.44.28c-.23.13-.45.28-.64.45-.06.07-.09.15-.08.24l-.16.14a5.44 5.44 0 01.88 3.86l.19.05c.04.08.11.14.19.18.25.07.51.11.77.14h.41c.03.03.08.04.12.05.24.03.4.25.37.49-.05.23-.24.4-.48.37-.03-.01-.07-.01-.07-.02v-.01c-.06 0-.1-.01-.14-.02-.13-.04-.25-.09-.36-.15-.26-.1-.5-.17-.77-.21-.09 0-.17 0-.23.08-.07-.01-.13-.02-.19-.03-.41 1.31-1.31 2.41-2.47 3.11z\" /></svg>",
     "description": "mdi-kubernetes",
@@ -13069,6 +13639,11 @@
     "description": "mdi-lan",
     "prefix": "svg-mdi-lan"
   },
+  "mdi-lan-check" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 1c-1.11 0-2 .89-2 2v4c0 1.11.89 2 2 2H1v2h12V9h-3c1.11 0 2-.89 2-2V3c0-1.11-.89-2-2-2H4m0 2h6v4H4V3m10 10c-1.11 0-2 .89-2 2v4c0 1.11.89 2 2 2h-3v2h12v-2h-3c1.11 0 2-.89 2-2v-4c0-1.11-.89-2-2-2h-6m0 2h6v4h-6v-4m-8.5 5.5l5-5L9 14l-3.5 3.5-2-2L2 17l3.5 3.5z\" /></svg>",
+    "description": "mdi-lan-check",
+    "prefix": "svg-mdi-lan-check"
+  },
   "mdi-lan-connect" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 1c-1.11 0-2 .89-2 2v4c0 1.11.89 2 2 2H1v2h12V9h-3c1.11 0 2-.89 2-2V3c0-1.11-.89-2-2-2H4m0 2h6v4H4V3M3 13v7h7v-2H5v-5H3m11 0c-1.11 0-2 .89-2 2v4c0 1.11.89 2 2 2h-3v2h12v-2h-3c1.11 0 2-.89 2-2v-4c0-1.11-.89-2-2-2h-6m0 2h6v4h-6v-4z\" /></svg>",
     "description": "mdi-lan-connect",
@@ -13103,6 +13678,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 3l-.65 3.34h13.59L17.5 8.5H3.92l-.66 3.33h13.59l-.76 3.81-5.48 1.81-4.75-1.81.33-1.64H2.85l-.79 4 7.85 3 9.05-3 1.2-6.03.24-1.21L21.94 3H5z\" /></svg>",
     "description": "mdi-language-css3",
     "prefix": "svg-mdi-language-css3"
+  },
+  "mdi-language-fortran" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 4v2h1c.55 0 1 .45 1 1v10c0 .55-.45 1-1 1H5v2h9v-2h-2c-.55 0-1-.45-1-1v-4h2c.55 0 1 .45 1 1v2h2V8h-2v2c0 .55-.45 1-1 1h-2V6h5c1.11 0 2 1.34 2 3v1h2V4z\" /></svg>",
+    "description": "mdi-language-fortran",
+    "prefix": "svg-mdi-language-fortran"
   },
   "mdi-language-go" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2.64 10.33l-.02-.06.22-.27.12-.08H6.8l.03.08-.18.26-.11.06-3.9.01m-1.61.98L1 11.26l.22-.29.12-.06h4.9l.05.09-.08.24-.1.07H1.03m2.6.99l-.04-.06.16-.28.1-.06H6l.07.07-.02.25-.08.08H3.63m11.15-2.16l-1.78.47c-.19.04-.2.05-.34-.11-.16-.18-.27-.29-.5-.4-.66-.34-1.33-.24-1.94.15-.72.48-1.11 1.17-1.1 2.05.01.86.6 1.57 1.45 1.7.73.09 1.34-.17 1.83-.72l.29-.39h-2.07c-.22 0-.27-.14-.2-.32l.55-1.18c.03-.06.11-.17.27-.17h3.44c.15-.5.41-.96.75-1.41.78-1.03 1.73-1.57 3-1.81 1.07-.18 2.13-.07 3.07.57.84.58 1.37 1.36 1.5 2.39.19 1.45-.24 2.63-1.24 3.65-.71.72-1.58 1.17-2.57 1.39l-.86.08c-.98-.02-1.87-.3-2.62-.95-.52-.45-.88-.99-1.06-1.63-.15.24-.27.47-.44.7-.77 1.02-1.78 1.65-3.06 1.8-1.05.16-2.03-.05-2.89-.69-.79-.6-1.26-1.4-1.36-2.39-.14-1.17.2-2.22.91-3.14.76-1 1.77-1.63 3.01-1.86 1-.18 1.97-.06 2.84.52.57.38.97.9 1.24 1.52.04.09 0 .15-.12.18m6.11 1.6l-.03-.36c-.19-1.06-1.17-1.66-2.19-1.43-1.01.22-1.67.85-1.88 1.86-.19.84.21 1.69.98 2.03.59.26 1.19.22 1.76-.06.84-.43 1.31-1.12 1.36-2.04z\" /></svg>",
@@ -13264,6 +13844,16 @@
     "description": "mdi-layers-remove",
     "prefix": "svg-mdi-layers-remove"
   },
+  "mdi-layers-search" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19.31 18.9c.44-.69.69-1.52.69-2.4 0-2.5-2-4.5-4.5-4.5S11 14 11 16.5s2 4.5 4.5 4.5c.87 0 1.69-.25 2.38-.68L21 23.39 22.39 22l-3.08-3.1m-3.81.1a2.5 2.5 0 010-5 2.5 2.5 0 010 5m-5.91.2L3 14.07l1.62-1.26L9 16.22v.28c0 .96.22 1.88.59 2.7m-4.96-8.93L3 9l9-7 9 7-1.64 1.27-.71.55c-.93-.52-2.01-.82-3.15-.82-2.71 0-5.04 1.68-6 4.05l-4.87-3.78z\" /></svg>",
+    "description": "mdi-layers-search",
+    "prefix": "svg-mdi-layers-search"
+  },
+  "mdi-layers-search-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19.31 18.9c.44-.69.69-1.52.69-2.4 0-2.5-2-4.5-4.5-4.5S11 14 11 16.5s2 4.5 4.5 4.5c.87 0 1.69-.25 2.38-.68L21 23.39 22.39 22l-3.08-3.1m-3.81.1a2.5 2.5 0 010-5 2.5 2.5 0 010 5m-5.91.2L3 14.07l1.62-1.26L9 16.22v.28c0 .96.22 1.88.59 2.7m-.09-5.16L3 9l9-7 9 7-2.34 1.82a6.64 6.64 0 00-2.29-.75L17.74 9 12 4.53 6.26 9l4.27 3.32c-.43.52-.79 1.1-1.03 1.72z\" /></svg>",
+    "description": "mdi-layers-search-outline",
+    "prefix": "svg-mdi-layers-search-outline"
+  },
   "mdi-layers-triple" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 0L3 7l1.63 1.27L12 14l7.36-5.73L21 7l-9-7m7.37 10.73L12 16.47l-7.38-5.73L3 12l9 7 9-7-1.63-1.27m0 5L12 21.47l-7.38-5.73L3 17l9 7 9-7-1.63-1.27z\" /></svg>",
     "description": "mdi-layers-triple",
@@ -13408,6 +13998,41 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2a7 7 0 00-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 001 1h6a1 1 0 001-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 00-7-7M9 21a1 1 0 001 1h4a1 1 0 001-1v-1H9v1z\" /></svg>",
     "description": "mdi-lightbulb",
     "prefix": "svg-mdi-lightbulb"
+  },
+  "mdi-lightbulb-cfl" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M10.5 2A2.5 2.5 0 0113 4.5V14h1V4.47c0-.91-.37-1.77-1-2.42.17-.05.33-.05.5-.05A2.5 2.5 0 0116 4.5V14h1v3c0 .55-.45 1-1 1H8c-.55 0-1-.45-1-1v-3h1V4.5A2.5 2.5 0 0110.5 2m0 2c-.28 0-.5.22-.5.5V14h1V4.5c0-.28-.22-.5-.5-.5M9 20h6v1c0 .55-.45 1-1 1h-4c-.55 0-1-.45-1-1v-1z\" /></svg>",
+    "description": "mdi-lightbulb-cfl",
+    "prefix": "svg-mdi-lightbulb-cfl"
+  },
+  "mdi-lightbulb-cfl-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M14 4.47c0-.91-.37-1.77-1-2.42.17-.05.33-.05.5-.05A2.5 2.5 0 0116 4.5V14h1v1.18l-3-3V4.47m-4 .03c0-.28.22-.5.5-.5s.5.22.5.5v4.68l2 2V4.5a2.5 2.5 0 00-5 0v1.68l2 2V4.5M9 21c0 .55.45 1 1 1h4c.55 0 1-.45 1-1v-1H9v1m11-.28L18.73 22l-4-4H8c-.55 0-1-.45-1-1v-3h1v-2.73l-6-6L3.28 4 20 20.72z\" /></svg>",
+    "description": "mdi-lightbulb-cfl-off",
+    "prefix": "svg-mdi-lightbulb-cfl-off"
+  },
+  "mdi-lightbulb-cfl-spiral" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 2c-.16 0-.31.03-.45.1l-2 1C7.56 3.66 8 5 9 5c.16 0 .32-.05.45-.1l2-1C12.43 3.36 12 2 11 2m4 2a.96.96 0 00-.45.1l-6 3C7.56 7.68 8 9 9 9c.18 0 .32-.05.45-.1l6-3C16.41 5.43 16 4 15 4m0 4c-.16 0-.31.03-.45.1L8.7 11.03c-.5.22-.7.57-.7.97v2H7v3c0 .55.44 1 1 1h8c.55 0 1-.45 1-1v-3h-1v-1c0-.56-.45-1-1-1s-1 .45-1 1v1h-4v-1.38l5.45-2.72C16.42 9.34 16 8 15 8M9 20v1c0 .57.46 1 1 1h4c.56 0 1-.45 1-1v-1\" /></svg>",
+    "description": "mdi-lightbulb-cfl-spiral",
+    "prefix": "svg-mdi-lightbulb-cfl-spiral"
+  },
+  "mdi-lightbulb-group" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 14v2a1 1 0 01-1 1h-4a1 1 0 01-1-1v-2a5 5 0 116 0m-1 4h-4v1a1 1 0 001 1h2a1 1 0 001-1m-7 0v-1H5v1a1 1 0 001 1h1.17A2.93 2.93 0 017 19m-2-9a6.79 6.79 0 01.68-3A4 4 0 004 14.45V16a1 1 0 001 1h2v-2.12A6.92 6.92 0 015 10m12 8v1a2.93 2.93 0 01-.17 1H18a1 1 0 001-1v-1m-.68-11a6.79 6.79 0 01.68 3 6.92 6.92 0 01-2 4.88V17h2a1 1 0 001-1v-1.55A4 4 0 0018.32 7z\" /></svg>",
+    "description": "mdi-lightbulb-group",
+    "prefix": "svg-mdi-lightbulb-group"
+  },
+  "mdi-lightbulb-group-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M7 19a2.93 2.93 0 00.17 1H6a1 1 0 01-1-1v-1h2m3 1a1 1 0 001 1h2a1 1 0 001-1v-1h-4m-6-2a1 1 0 001 1h2v-2.12A6.92 6.92 0 015 10a6.79 6.79 0 01.68-3A4 4 0 004 14.45M17 19a2.93 2.93 0 01-.17 1H18a1 1 0 001-1v-1h-2m0-8a5 5 0 01-2 4v2a1 1 0 01-1 1h-4a1 1 0 01-1-1v-2a5 5 0 118-4m-2 0a3 3 0 10-4 2.82V15h2v-2.18A3 3 0 0015 10m3.32-3a6.79 6.79 0 01.68 3 6.92 6.92 0 01-2 4.88V17h2a1 1 0 001-1v-1.55A4 4 0 0018.32 7z\" /></svg>",
+    "description": "mdi-lightbulb-group-outline",
+    "prefix": "svg-mdi-lightbulb-group-outline"
+  },
+  "mdi-lightbulb-multiple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 16v2a1 1 0 01-1 1h-4a1 1 0 01-1-1v-2a5 5 0 116 0m-1 4h-4v1a1 1 0 001 1h2a1 1 0 001-1m-8.32-6H6v1a1 1 0 001 1h1v-.12A7 7 0 016.68 15M12.6 5A5 5 0 105 11v2a1 1 0 001 1h.3a6.68 6.68 0 01-.3-2 7 7 0 016.6-7z\" /></svg>",
+    "description": "mdi-lightbulb-multiple",
+    "prefix": "svg-mdi-lightbulb-multiple"
+  },
+  "mdi-lightbulb-multiple-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 21a1 1 0 001 1h2a1 1 0 001-1v-1h-4m2-13a5 5 0 00-3 9v2a1 1 0 001 1h4a1 1 0 001-1v-2a5 5 0 00-3-9m1 7.82V17h-2v-2.18a3 3 0 112 0M6.68 15H6v1a1 1 0 001 1h1v-.12A7 7 0 016.68 15M12.6 5A5 5 0 105 11v2a1 1 0 001 1h.3a6.68 6.68 0 01-.3-2 7 7 0 016.6-7z\" /></svg>",
+    "description": "mdi-lightbulb-multiple-outline",
+    "prefix": "svg-mdi-lightbulb-multiple-outline"
   },
   "mdi-lightbulb-off" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2C9.76 2 7.78 3.05 6.5 4.68l9.81 9.82C17.94 13.21 19 11.24 19 9a7 7 0 00-7-7M3.28 4L2 5.27 5.04 8.3C5 8.53 5 8.76 5 9c0 2.38 1.19 4.47 3 5.74V17a1 1 0 001 1h5.73l4 4L20 20.72 3.28 4M9 20v1a1 1 0 001 1h4a1 1 0 001-1v-1H9z\" /></svg>",
@@ -13724,6 +14349,21 @@
     "description": "mdi-magnify-plus-outline",
     "prefix": "svg-mdi-magnify-plus-outline"
   },
+  "mdi-magnify-remove-cursor" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 1v7l7-7H1m17 15h-.58l-.81-.81A7.07 7.07 0 0018 11c0-3.87-3.13-7-7-7-1.5 0-3 .5-4.21 1.4-3.09 2.32-3.72 6.71-1.4 9.8 2.32 3.09 6.71 3.72 9.8 1.4l.81.81V18l5 5 2-2-5-5m-3.4-2.84l-1.42 1.42-2.12-2.13-2.12 2.13-1.44-1.42 2.15-2.12L7.5 8.92 8.94 7.5l2.12 2.13 2.12-2.13 1.42 1.42-2.13 2.12 2.13 2.12z\" /></svg>",
+    "description": "mdi-magnify-remove-cursor",
+    "prefix": "svg-mdi-magnify-remove-cursor"
+  },
+  "mdi-magnify-remove-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 5 1.5-1.5-5-5m-6 0C7 14 5 12 5 9.5S7 5 9.5 5 14 7 14 9.5 12 14 9.5 14m1.41-2.38L9.5 10.21l-1.41 1.41-.71-.71L8.79 9.5 7.38 8.09l.71-.71L9.5 8.79l1.41-1.41.71.71-1.41 1.41 1.41 1.41-.71.71z\" /></svg>",
+    "description": "mdi-magnify-remove-outline",
+    "prefix": "svg-mdi-magnify-remove-outline"
+  },
+  "mdi-magnify-scan" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M17 22v-2h3v-3h2v3.5c0 .39-.16.74-.46 1.04-.3.3-.65.46-1.04.46H17M7 22H3.5c-.39 0-.74-.16-1.04-.46-.3-.3-.46-.65-.46-1.04V17h2v3h3v2M17 2h3.5c.39 0 .74.16 1.04.46.3.3.46.65.46 1.04V7h-2V4h-3V2M7 2v2H4v3H2V3.5c0-.39.16-.74.46-1.04.3-.3.65-.46 1.04-.46H7m3.5 4C13 6 15 8 15 10.5c0 .88-.25 1.7-.69 2.4l3.26 3.26-1.41 1.41-3.26-3.26c-.7.44-1.52.69-2.4.69C8 15 6 13 6 10.5S8 6 10.5 6m0 2a2.5 2.5 0 000 5 2.5 2.5 0 000-5z\" /></svg>",
+    "description": "mdi-magnify-scan",
+    "prefix": "svg-mdi-magnify-scan"
+  },
   "mdi-mail" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 4H4c-1.11 0-2 .89-2 2v12a2 2 0 002 2h16a2 2 0 002-2V6a2 2 0 00-2-2m-3 13H7v-2h10m0-2H7v-2h10m3-2h-3V6h3\" /></svg>",
     "description": "mdi-mail",
@@ -13848,6 +14488,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M14 11.5A2.5 2.5 0 0016.5 9 2.5 2.5 0 0014 6.5 2.5 2.5 0 0011.5 9a2.5 2.5 0 002.5 2.5M14 2c3.86 0 7 3.13 7 7 0 5.25-7 13-7 13S7 14.25 7 9a7 7 0 017-7M5 9c0 4.5 5.08 10.66 6 11.81L10 22S3 14.25 3 9c0-3.17 2.11-5.85 5-6.71C6.16 3.94 5 6.33 5 9z\" /></svg>",
     "description": "mdi-map-marker-multiple",
     "prefix": "svg-mdi-map-marker-multiple"
+  },
+  "mdi-map-marker-multiple-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11.5 9A2.5 2.5 0 0114 6.5c1.1 0 2.03.71 2.37 1.69.08.26.13.53.13.81a2.5 2.5 0 01-2.5 2.5c-1.09 0-2-.69-2.36-1.66-.09-.26-.14-.55-.14-.84M5 9c0 4.5 5.08 10.66 6 11.81L10 22S3 14.25 3 9c0-3.17 2.11-5.85 5-6.71C6.16 3.94 5 6.33 5 9m9-7c3.86 0 7 3.13 7 7 0 5.25-7 13-7 13S7 14.25 7 9c0-3.87 3.14-7 7-7m0 2c-2.76 0-5 2.24-5 5 0 1 0 3 5 9.71C19 12 19 10 19 9c0-2.76-2.24-5-5-5z\" /></svg>",
+    "description": "mdi-map-marker-multiple-outline",
+    "prefix": "svg-mdi-map-marker-multiple-outline"
   },
   "mdi-map-marker-off" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16.37 16.1l-4.62-4.63-.11-.11L3.27 3 2 4.27l3.18 3.18C5.06 7.95 5 8.46 5 9c0 5.25 7 13 7 13s1.67-1.85 3.37-4.35L18.73 21 20 19.72M12 6.5A2.5 2.5 0 0114.5 9c0 .73-.33 1.39-.83 1.85l3.63 3.65c.98-1.88 1.7-3.82 1.7-5.5a7 7 0 00-7-7c-2 0-3.76.82-5.04 2.14l3.19 3.19c.46-.51 1.11-.83 1.85-.83z\" /></svg>",
@@ -14443,6 +15088,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 20a1 1 0 00-1-1h-1v-2h4a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2h4v2h-1a1 1 0 00-1 1H2v2h7a1 1 0 001 1h4a1 1 0 001-1h7v-2h-7m-8-5V5h10v10H7m8-4V9H9v2h6\" /></svg>",
     "description": "mdi-minus-network-outline",
     "prefix": "svg-mdi-minus-network-outline"
+  },
+  "mdi-mirror" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 1c4.69 0 8.5 4.93 8.5 11 0 6.08-3.81 11-8.5 11-4.69 0-8.5-4.92-8.5-11C3.5 5.93 7.31 1 12 1m0 2c-3.59 0-6.5 4.03-6.5 9s2.91 9 6.5 9 6.5-4.03 6.5-9-2.91-9-6.5-9m-3.71 7.28l3.24-3.25 1.06 1.06-3.24 3.25-1.06-1.06m.41 4.33l5.66-5.66L15.42 10l-5.66 5.67-1.06-1.06z\" /></svg>",
+    "description": "mdi-mirror",
+    "prefix": "svg-mdi-mirror"
   },
   "mdi-mixcloud" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21.11 18.5c-.14 0-.28-.06-.4-.14a.74.74 0 01-.21-1.02c.68-1 1.04-2.18 1.04-3.41 0-1.22-.36-2.4-1.04-3.43a.72.72 0 01.21-1c.33-.22.79-.13 1.01.2A7.545 7.545 0 0123 13.93c0 1.52-.44 2.98-1.28 4.23-.14.21-.37.34-.61.34M19 17.29c-.12 0-.26-.04-.39-.12a.734.734 0 01-.19-1.02c.44-.65.68-1.42.68-2.22 0-.79-.24-1.56-.68-2.22a.736.736 0 01.19-1.02c.34-.22.79-.14 1.02.2a5.44 5.44 0 010 6.08c-.13.21-.38.32-.63.32m-4.1-1.56a1.8 1.8 0 00.65-3.48c-.05.3-.12.6-.21.89-.11.3-.39.5-.7.5-.07 0-.14-.02-.23-.04a.734.734 0 01-.46-.93c.14-.43.22-.89.22-1.35C14.17 8.93 12.22 7 9.82 7 8.1 7 6.56 8 5.87 9.5c.67.2 1.29.54 1.79 1.04.29.29.29.75 0 1.04-.28.28-.75.28-1.03 0-.46-.46-1.07-.72-1.73-.72a2.45 2.45 0 00-2.44 2.44c0 1.34 1.1 2.43 2.44 2.43h10m.7-4.98c1.46.32 2.57 1.62 2.57 3.18 0 1.8-1.47 3.26-3.27 3.26h-10c-2.15 0-3.9-1.74-3.9-3.89 0-1.96 1.45-3.57 3.33-3.85.79-2.33 3-3.95 5.49-3.95 3.01 0 5.49 2.32 5.78 5.25z\" /></svg>",
@@ -15694,6 +16344,11 @@
     "description": "mdi-odnoklassniki",
     "prefix": "svg-mdi-odnoklassniki"
   },
+  "mdi-offer" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 13c.6 0 1.1.2 1.4.6.4.4.6.9.6 1.4l-8 3-7-2V7h1.9l7.3 2.7c.5.2.8.6.8 1.1 0 .3-.1.6-.3.8-.2.2-.5.4-.9.4H14l-1.7-.7-.3.9 2 .8h7M2 7h4v11H2V7z\" /></svg>",
+    "description": "mdi-offer",
+    "prefix": "svg-mdi-offer"
+  },
   "mdi-office" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 18l4-1.25V7l7-2v14.5L3.5 18.25 14 22l6-1.25V3.5L13.95 2 3 5.75V18z\" /></svg>",
     "description": "mdi-office",
@@ -16299,6 +16954,11 @@
     "description": "mdi-percent",
     "prefix": "svg-mdi-percent"
   },
+  "mdi-percent-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18.5 3.5l2 2-15 15-2-2 15-15M7 4c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3m10 10c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3M7 6c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1m10 10c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z\" /></svg>",
+    "description": "mdi-percent-outline",
+    "prefix": "svg-mdi-percent-outline"
+  },
   "mdi-periodic-table" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 4v2h2V4H2m18 0v2h2V4h-2M2 7v2h2V7H2m3 0v2h2V7H5m9 0v2h2V7h-2m3 0v2h2V7h-2m3 0v2h2V7h-2M2 10v2h2v-2H2m3 0v2h2v-2H5m3 0v2h2v-2H8m3 0v2h2v-2h-2m3 0v2h2v-2h-2m3 0v2h2v-2h-2m3 0v2h2v-2h-2M2 13v2h2v-2H2m3 0v2h2v-2H5m3 0v2h2v-2H8m3 0v2h2v-2h-2m3 0v2h2v-2h-2m3 0v2h2v-2h-2m3 0v2h2v-2h-2M5 17v2h2v-2H5m3 0v2h2v-2H8m3 0v2h2v-2h-2m3 0v2h2v-2h-2m3 0v2h2v-2h-2z\" /></svg>",
     "description": "mdi-periodic-table",
@@ -16378,6 +17038,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 3C7.46 3 3.34 4.78.29 7.67c-.18.18-.29.43-.29.71 0 .28.11.53.29.71l2.48 2.48a1.01 1.01 0 001.41.01c.79-.74 1.69-1.36 2.66-1.85.33-.16.56-.5.56-.9v-3.1C8.85 5.25 10.39 5 12 5c1.59 0 3.14.25 4.59.72v3.1c0 .39.23.74.56.9.98.49 1.85 1.12 2.67 1.85.18.18.43.28.68.28.3 0 .55-.11.73-.29l2.48-2.48c.18-.18.29-.43.29-.71 0-.28-.12-.52-.3-.7A16.965 16.965 0 0012 3M9 7v3s-6 5-6 8v4h18v-4c0-3-6-8-6-8V7h-2v2h-2V7H9m3 5a4 4 0 014 4 4 4 0 01-4 4 4 4 0 01-4-4 4 4 0 014-4m0 1.5A2.5 2.5 0 009.5 16a2.5 2.5 0 002.5 2.5 2.5 2.5 0 002.5-2.5 2.5 2.5 0 00-2.5-2.5z\" /></svg>",
     "description": "mdi-phone-classic",
     "prefix": "svg-mdi-phone-classic"
+  },
+  "mdi-phone-classic-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 3c4.53 0 8.65 1.78 11.7 4.67.18.18.3.42.3.7 0 .28-.11.53-.29.71l-2.48 2.48c-.18.18-.43.29-.73.29-.25 0-.5-.1-.68-.28-.82-.73-1.69-1.36-2.67-1.85-.33-.16-.56-.51-.56-.9v-3.1C15.14 5.25 13.59 5 12 5c-1.56 0-3.07.24-4.5.69L5.94 4.11C7.82 3.4 9.86 3 12 3M9 7h2v2h2V7h2v3s6 5 6 8v1.18l-12-12V7M1 4.27L2.28 3 21.5 22.22l-1.27 1.28-1.5-1.5H3v-4c0-2.14 3.05-5.29 4.8-6.93L6.59 9.86c-.88.47-1.69 1.04-2.41 1.72a1.015 1.015 0 01-1.41-.01L.29 9.09A.997.997 0 010 8.38c0-.28.11-.53.29-.71C.996 7 2.58 5.85 2.58 5.85L1 4.27M8 16a3.999 3.999 0 007.17 2.44l-1.07-1.08A2.5 2.5 0 019.5 16c0-.88.45-1.65 1.14-2.09l-1.08-1.08C8.61 13.56 8 14.71 8 16z\" /></svg>",
+    "description": "mdi-phone-classic-off",
+    "prefix": "svg-mdi-phone-classic-off"
   },
   "mdi-phone-forward" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 15.5c-1.25 0-2.45-.2-3.57-.57-.35-.11-.74-.03-1.02.25l-2.2 2.2a15.097 15.097 0 01-6.59-6.59l2.2-2.2c.28-.28.36-.67.25-1.02A11.36 11.36 0 018.5 4a1 1 0 00-1-1H4a1 1 0 00-1 1 17 17 0 0017 17 1 1 0 001-1v-3.5a1 1 0 00-1-1M18 11l5-5-5-5v3h-4v4h4v3z\" /></svg>",
@@ -16729,6 +17394,11 @@
     "description": "mdi-play",
     "prefix": "svg-mdi-play"
   },
+  "mdi-play-box" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 3H5c-1.11 0-2 .89-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5a2 2 0 00-2-2m-9 13V8l5 4\" /></svg>",
+    "description": "mdi-play-box",
+    "prefix": "svg-mdi-play-box"
+  },
   "mdi-play-box-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 19H5V5h14m0-2H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2m-9 5v8l5-4-5-4z\" /></svg>",
     "description": "mdi-play-box-outline",
@@ -16978,6 +17648,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M17 17h-2v-4h2m-4 4h-2V7h2M9 17H7v-7h2m10-7H5c-1.11 0-2 .89-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2z\" /></svg>",
     "description": "mdi-poll-box",
     "prefix": "svg-mdi-poll-box"
+  },
+  "mdi-poll-box-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M9 17H7v-7h2m4 7h-2V7h2m4 10h-2v-4h2m2.5 6.1h-15V5h15m0-2h-15c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h15c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z\" /></svg>",
+    "description": "mdi-poll-box-outline",
+    "prefix": "svg-mdi-poll-box-outline"
   },
   "mdi-polymer" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 4h-4L7.1 16.63 4.5 12 9 4H5L.5 12 5 20h4l7.89-12.63L19.5 12 15 20h4l4.5-8L19 4z\" /></svg>",
@@ -17424,6 +18099,11 @@
     "description": "mdi-radio-handheld",
     "prefix": "svg-mdi-radio-handheld"
   },
+  "mdi-radio-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 4.27l2 2c-.6.34-1 .99-1 1.73v12a2 2 0 002 2h14.73l2 2L22 22.72 2.28 3 1 4.27M20 6H8.83l7.64-3.17L15.71 1 6.59 4.76 9.82 8H20v4h-2v-2h-2v2h-2.18L22 20.18V8a2 2 0 00-2-2M4 8h.73l4 4H4V8m3 6c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3z\" /></svg>",
+    "description": "mdi-radio-off",
+    "prefix": "svg-mdi-radio-off"
+  },
   "mdi-radio-tower" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 10a2 2 0 012 2 2 2 0 01-.47 1.29L16.7 22h-2.13L12 14.93 9.43 22H7.3l3.17-8.71A2 2 0 0110 12a2 2 0 012-2m0-2a4 4 0 00-4 4c0 .5.1 1 .28 1.46l-.88 2.4A6.026 6.026 0 016 12a6 6 0 016-6 6 6 0 016 6c0 1.47-.53 2.81-1.4 3.86l-.88-2.4C15.9 13 16 12.5 16 12a4 4 0 00-4-4m0-4a8 8 0 00-8 8c0 2.36 1 4.5 2.64 5.94l-.72 2A10.005 10.005 0 012 12 10 10 0 0112 2a10 10 0 0110 10c0 3.23-1.54 6.11-3.92 7.94l-.72-2C19 16.5 20 14.36 20 12a8 8 0 00-8-8z\" /></svg>",
     "description": "mdi-radio-tower",
@@ -17774,6 +18454,11 @@
     "description": "mdi-rewind-30",
     "prefix": "svg-mdi-rewind-30"
   },
+  "mdi-rewind-5" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12.5 3c4.65 0 8.58 3.03 9.97 7.22L20.1 11c-1.05-3.19-4.06-5.5-7.6-5.5-1.96 0-3.73.72-5.12 1.88L10 10H3V3l2.6 2.6C7.45 4 9.85 3 12.5 3M9 12h6v2h-4v2h2a2 2 0 012 2v2c0 1.11-.89 2-2 2H9v-2h4v-2H9v-6z\" /></svg>",
+    "description": "mdi-rewind-5",
+    "prefix": "svg-mdi-rewind-5"
+  },
   "mdi-rewind-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M10 9.9L7 12l3 2.1V9.9m9 0L16 12l3 2.1V9.9M12 6v12l-8.5-6L12 6m9 0v12l-8.5-6L21 6z\" /></svg>",
     "description": "mdi-rewind-outline",
@@ -17844,8 +18529,13 @@
     "description": "mdi-robot-industrial",
     "prefix": "svg-mdi-robot-industrial"
   },
+  "mdi-robot-mower" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 14V5h12c5.5 0 10 4.5 10 10v2h-2.17A2.99 2.99 0 0118 19a2.99 2.99 0 01-2.83-2H10a5.002 5.002 0 01-9-3m5-3c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3m9-1v2h5.25c-.33-.73-.75-1.4-1.25-2h-4z\" /></svg>",
+    "description": "mdi-robot-mower",
+    "prefix": "svg-mdi-robot-mower"
+  },
   "mdi-robot-mower-outline" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M23 14a5.002 5.002 0 01-9 3H8.83A2.99 2.99 0 016 19a2.99 2.99 0 01-2.83-2H1v-2C1 9.5 5.5 5 11 5h12v9M3 15h10.1a5.002 5.002 0 017.9-5V7h-9.5C8.9 7 6.58 8.16 5 10h4v2H3.75c-.42.92-.67 1.94-.75 3m15-4c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 14a5.002 5.002 0 009 3h5.17A3 3 0 0018 19c1.31 0 2.42-.83 2.83-2H23v-2c0-5.5-4.5-10-10-10H1v9m20 1H10.9A5.002 5.002 0 003 10V7h9.5c2.6 0 4.92 1.16 6.5 3h-4v2h5.25c.42.92.67 1.94.75 3M6 11c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3z\" /></svg>",
     "description": "mdi-robot-mower-outline",
     "prefix": "svg-mdi-robot-mower-outline"
   },
@@ -18079,6 +18769,16 @@
     "description": "mdi-safe",
     "prefix": "svg-mdi-safe"
   },
+  "mdi-safe-square" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 2c1.1 0 2 .9 2 2v16c0 1.1-.9 2-2 2h-1v1h-4v-1H9v1H5v-1H4c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h16m-3 10c0-1-.3-2-.8-2.8l1.5-1.5-1.4-1.4-1.5 1.5C14 7.3 13 7 12 7c-1 0-2 .3-2.8.8L7.8 6.3 6.3 7.8l1.5 1.5C7.3 10 7 11 7 12c0 1 .3 2 .8 2.8l-1.5 1.5 1.5 1.4 1.5-1.5c.7.5 1.7.8 2.7.8 1 0 2-.3 2.8-.8l1.5 1.5 1.4-1.4-1.5-1.5c.5-.8.8-1.8.8-2.8m-5-3c1.7 0 3 1.3 3 3s-1.3 3-3 3-3-1.3-3-3 1.3-3 3-3m0 5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2z\" /></svg>",
+    "description": "mdi-safe-square",
+    "prefix": "svg-mdi-safe-square"
+  },
+  "mdi-safe-square-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M10 12c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2m-2.2 5.7l-1.5-1.4 1.5-1.5C7.3 14 7 13 7 12c0-1 .3-2 .8-2.7L6.3 7.8l1.5-1.5 1.4 1.5C10 7.3 11 7 12 7c1 0 2 .3 2.8.8l1.5-1.5 1.4 1.4-1.5 1.5c.5.8.8 1.8.8 2.8 0 1-.3 2-.8 2.8l1.5 1.5-1.4 1.4-1.5-1.5c-.8.5-1.8.8-2.8.8-1 0-2-.3-2.7-.8l-1.5 1.5M12 9c-1.7 0-3 1.3-3 3s1.3 3 3 3 3-1.3 3-3-1.3-3-3-3m8-7c1.1 0 2 .9 2 2v16c0 1.1-.9 2-2 2h-1v1h-4v-1H9v1H5v-1H4c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h16m0 18V4H4v16h16z\" /></svg>",
+    "description": "mdi-safe-square-outline",
+    "prefix": "svg-mdi-safe-square-outline"
+  },
   "mdi-safety-goggles" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 9c1.11 0 2 .89 2 2v3c0 1.11-.89 2-2 2h-2.23l-1.24-1.23c-.75-.77-1.76-1.17-2.83-1.17s-2.07.4-2.83 1.17L7.64 16H6c-1.11 0-2-.89-2-2v-3c0-1.11.89-2 2-2h12m0-2H6a4 4 0 00-4 4H1v3h1a4 4 0 004 4h2.5c.04-.06.09-.12 1.79-1.82.39-.39.9-.58 1.41-.58.52 0 1.03.19 1.42.58L14.91 18H18a4 4 0 004-4h1v-3h-1a4 4 0 00-4-4z\" /></svg>",
     "description": "mdi-safety-goggles",
@@ -18193,6 +18893,16 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16.5 2.25c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5M20 18a2 2 0 012 2c0 1.11-.89 2-2 2-.74 0-1.39-.4-1.73-1H8.73A2 2 0 117 18c.74 0 1.39.4 1.73 1H13v-5.5l-3.27-2.27L6.77 14c-.41.37-1.04.34-1.42-.06l-3.07-3.29c-.37-.41-.35-1.04.05-1.42.41-.37 1.04-.35 1.41.05l2.39 2.56 7.13-6.64.04-.02a1 1 0 011.41.12L16.97 8H20c.55 0 1 .45 1 1s-.45 1-1 1h-3.5c-.35 0-.65-.18-.83-.44l-1.5-1.79-2.53 2.36 2.93 2.05c.26.18.43.48.43.82v6h.61c.43-1.87 2.02-3.3 3.97-3.5l-.77-4.5h1.5l1.08 6.34A3.004 3.004 0 0017.17 19h1.1c.34-.6.99-1 1.73-1z\" /></svg>",
     "description": "mdi-scooter",
     "prefix": "svg-mdi-scooter"
+  },
+  "mdi-scoreboard" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6 9h2v6H6V9m10 0h2v6h-2V9m5-6c1.1 0 2 .9 2 2v14c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V5c0-1.1.9-2 2-2h18M5 7c-.6 0-1 .4-1 1v8c0 .6.4 1 1 1h4c.6 0 1-.4 1-1V8c0-.6-.4-1-1-1H5m10 0c-.6 0-1 .4-1 1v8c0 .6.4 1 1 1h4c.6 0 1-.4 1-1V8c0-.6-.4-1-1-1h-4m-3 4c.6 0 1-.4 1-1s-.4-1-1-1-1 .4-1 1 .4 1 1 1m0 4c.6 0 1-.4 1-1s-.4-1-1-1-1 .4-1 1 .4 1 1 1z\" /></svg>",
+    "description": "mdi-scoreboard",
+    "prefix": "svg-mdi-scoreboard"
+  },
+  "mdi-scoreboard-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 3H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m0 16H3V5h18M5 7h4c.6 0 1 .4 1 1v8c0 .6-.4 1-1 1H5c-.6 0-1-.4-1-1V8c0-.6.4-1 1-1m1 2v6h2V9m7-2h4c.6 0 1 .4 1 1v8c0 .6-.4 1-1 1h-4c-.6 0-1-.4-1-1V8c0-.6.4-1 1-1m1 2v6h2V9m-6 2c.6 0 1-.4 1-1s-.4-1-1-1-1 .4-1 1 .4 1 1 1m0 4c.6 0 1-.4 1-1s-.4-1-1-1-1 .4-1 1 .4 1 1 1z\" /></svg>",
+    "description": "mdi-scoreboard-outline",
+    "prefix": "svg-mdi-scoreboard-outline"
   },
   "mdi-screen-rotation" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M7.5 21.5c-3.25-1.56-5.59-4.74-5.95-8.5H.05C.56 19.16 5.71 24 12 24l.66-.03-3.81-3.81m5.98 1.03L2.81 9.17l6.36-6.36 12.02 12.02M10.23 1.75a1.49 1.49 0 00-2.12 0L1.75 8.11a1.49 1.49 0 000 2.12l12.02 12.02c.59.59 1.54.59 2.12 0l6.36-6.36c.59-.59.59-1.54 0-2.12L10.23 1.75m6.27.75c3.25 1.57 5.59 4.74 5.95 8.5h1.5C23.44 4.84 18.29 0 12 0l-.66.03 3.81 3.81L16.5 2.5z\" /></svg>",
@@ -18314,6 +19024,11 @@
     "description": "mdi-seat-outline",
     "prefix": "svg-mdi-seat-outline"
   },
+  "mdi-seat-passenger" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M9 19h6v2H9c-2.76 0-5-2.24-5-5V7h2v9c0 1.66 1.34 3 3 3m1.42-13.59c.78-.78.78-2.05 0-2.83-.78-.78-2.05-.78-2.83 0-.78.78-.78 2.05 0 2.83.78.79 2.04.79 2.83 0M11.5 9c0-1.1-.9-2-2-2H9c-1.1 0-2 .9-2 2v6c0 1.66 1.34 3 3 3h5.07l3.5 3.5L20 20.07 14.93 15H11.5V9z\" /></svg>",
+    "description": "mdi-seat-passenger",
+    "prefix": "svg-mdi-seat-passenger"
+  },
   "mdi-seat-recline-extra" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5.35 5.64c-.9-.64-1.12-1.88-.49-2.79.64-.9 1.88-1.12 2.79-.49.9.64 1.12 1.88.49 2.79-.64.9-1.88 1.12-2.79.49M16 19H8.93c-1.48 0-2.74-1.08-2.96-2.54L4 7H2l2 9.76A4.992 4.992 0 008.94 21H16m.23-6h-4.88l-1.03-4.1c1.58.89 3.28 1.54 5.15 1.22V10c-1.63.3-3.44-.28-4.69-1.26L9.14 7.47c-.23-.18-.49-.3-.76-.38a2.21 2.21 0 00-.99-.06h-.02a2.268 2.268 0 00-1.84 2.61l1.35 5.92A2.989 2.989 0 009.83 18h6.85l3.82 3 1.5-1.5\" /></svg>",
     "description": "mdi-seat-recline-extra",
@@ -18389,6 +19104,21 @@
     "description": "mdi-select-inverse",
     "prefix": "svg-mdi-select-inverse"
   },
+  "mdi-select-marker" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 3h1v2H3V4c0-.55.45-1 1-1m16 0c.55 0 1 .45 1 1v1h-2V3h1m-5 2V3h2v2h-2m-4 0V3h2v2h-2M7 5V3h2v2H7m4 16v-2h2v2h-2m-4 0v-2h2v2H7m-3 0c-.55 0-1-.45-1-1v-1h2v2H4m-1-6h2v2H3v-2m0-4h2v2H3v-2m0-4h2v2H3V7m18 0v2h-2V7h2m-1.5 6c1.9 0 3.5 1.6 3.5 3.5 0 2.6-3.5 6.5-3.5 6.5S16 19.1 16 16.5c0-1.9 1.6-3.5 3.5-3.5m0 4.8c.7 0 1.3-.6 1.2-1.2 0-.6-.6-1.2-1.2-1.2s-1.2.5-1.2 1.2c0 .6.5 1.2 1.2 1.2z\" /></svg>",
+    "description": "mdi-select-marker",
+    "prefix": "svg-mdi-select-marker"
+  },
+  "mdi-select-multiple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 12h2v2h-2v-2m-4 4h2v2h-2v-2m6 1c0 .55-.45 1-1 1h-1v-2h2v1M7 4h1v2H6V5c0-.55.45-1 1-1m12 0c.55 0 1 .45 1 1v1h-2V4h1m-5 2V4h2v2h-2m-4 0V4h2v2h-2m0 12v-2h2v2h-2m-3 0c-.55 0-1-.45-1-1v-1h2v2H7m-1-6h2v2H6v-2m0-4h2v2H6V8m14 0v2h-2V8h2M3 8h1v12h12v1c0 .54-.43 1-.97 1H3c-.55 0-1-.45-1-1V9c0-.55.45-1 1-1z\" /></svg>",
+    "description": "mdi-select-multiple",
+    "prefix": "svg-mdi-select-multiple"
+  },
+  "mdi-select-multiple-marker" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M7 4h1v2H6V5c0-.55.45-1 1-1m12 0c.55 0 1 .45 1 1v1h-2V4h1m-5 2V4h2v2h-2m-4 0V4h2v2h-2m0 12v-2h2v2h-2m-3 0c-.55 0-1-.45-1-1v-1h2v2H7m-1-6h2v2H6v-2m0-4h2v2H6V8m14 0v2h-2V8h2M3 8h1v12h10.58l1.45 2H3c-.55 0-1-.45-1-1V9c0-.55.45-1 1-1m15.5 4c1.9 0 3.5 1.6 3.5 3.5 0 2.6-3.5 6.5-3.5 6.5S15 18.1 15 15.5c0-1.9 1.6-3.5 3.5-3.5m0 4.8c.7 0 1.3-.6 1.2-1.2 0-.6-.6-1.2-1.2-1.2s-1.2.5-1.2 1.2c0 .6.5 1.2 1.2 1.2z\" /></svg>",
+    "description": "mdi-select-multiple-marker",
+    "prefix": "svg-mdi-select-multiple-marker"
+  },
   "mdi-select-off" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 4.27L2.28 3 21 21.72 19.73 23 17 20.27V21h-2v-2h.73L5 8.27V9H3V7h.73L1 4.27M20 3a1 1 0 011 1v1h-2V3h1m-5 2V3h2v2h-2m-4 0V3h2v2h-2M7 5V3h2v2H7m4 16v-2h2v2h-2m-4 0v-2h2v2H7m-3 0a1 1 0 01-1-1v-1h2v2H4m-1-6h2v2H3v-2m18 0v2h-2v-2h2M3 11h2v2H3v-2m18 0v2h-2v-2h2m0-4v2h-2V7h2z\" /></svg>",
     "description": "mdi-select-off",
@@ -18398,6 +19128,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 3h1v2H3V4c0-.5.5-1 1-1m16 0c.5 0 1 .5 1 1v1h-2V3h1m-5 2V3h2v2h-2m-4 0V3h2v2h-2M7 5V3h2v2H7m14 7c0 .5-.5 1-1 1h-1v-2h2v1m-6 1v-2h2v2h-2m-4 0v-2h2v2h-2m-4 0v-2h2v2H7m-3 0c-.5 0-1-.5-1-1v-1h2v2H4M3 7h2v2H3V7m18 0v2h-2V7h2M7 16l5 5 5-5H7z\" /></svg>",
     "description": "mdi-select-place",
     "prefix": "svg-mdi-select-place"
+  },
+  "mdi-select-search" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19.31 18.9c.44-.69.69-1.52.69-2.4 0-2.5-2-4.5-4.5-4.5S11 14 11 16.5s2 4.5 4.5 4.5c.87 0 1.69-.25 2.38-.68L21 23.39 22.39 22l-3.08-3.1m-3.81.1a2.5 2.5 0 010-5 2.5 2.5 0 010 5M21 9h-2V7h2v2m0-4h-2V3h1c.55 0 1 .45 1 1v1m-2 6.03V11h2v2h-.03A6.608 6.608 0 0019 11.03M17 5h-2V3h2v2m-4 0h-2V3h2v2M3 7h2v2H3V7m4 12h2v2H7v-2m-4-8h2v2H3v-2m1-8h1v2H3V4c0-.55.45-1 1-1m5 2H7V3h2v2M3 19h2v2H4c-.55 0-1-.45-1-1v-1m0-4h2v2H3v-2z\" /></svg>",
+    "description": "mdi-select-search",
+    "prefix": "svg-mdi-select-search"
   },
   "mdi-selection" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 4a2 2 0 012-2h3v2H4v3H2V4m20 0v3h-2V4h-3V2h3a2 2 0 012 2m-2 16v-3h2v3a2 2 0 01-2 2h-3v-2h3M2 20v-3h2v3h3v2H4a2 2 0 01-2-2m8-18h4v2h-4V2m0 18h4v2h-4v-2m10-10h2v4h-2v-4M2 10h2v4H2v-4z\" /></svg>",
@@ -18419,10 +19154,30 @@
     "description": "mdi-selection-ellipse-arrow-inside",
     "prefix": "svg-mdi-selection-ellipse-arrow-inside"
   },
+  "mdi-selection-marker" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 4a2 2 0 012-2h3v2H4v3H2V4m20 0v3h-2V4h-3V2h3a2 2 0 012 2M2 20v-3h2v3h3v2H4a2 2 0 01-2-2m8-18h4v2h-4V2m0 18h4v2h-4v-2M2 10h2v4H2v-4m16.5 3c1.9 0 3.5 1.6 3.5 3.5 0 2.6-3.5 6.5-3.5 6.5S15 19.1 15 16.5c0-1.9 1.6-3.5 3.5-3.5m0 4.8c.7 0 1.3-.6 1.2-1.2 0-.6-.6-1.2-1.2-1.2s-1.2.5-1.2 1.2c0 .6.5 1.2 1.2 1.2M20 10h2v2.34c-.58-.5-1.26-.89-2-1.11V10z\" /></svg>",
+    "description": "mdi-selection-marker",
+    "prefix": "svg-mdi-selection-marker"
+  },
+  "mdi-selection-multiple-marker" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M7 4h2v2H8v1H6V5c0-.55.45-1 1-1m12 0c.55 0 1 .45 1 1v2h-2V6h-1V4h2m-8 2V4h4v2h-4M7 18c-.55 0-1-.45-1-1v-2h2v1h1v2H7M6 9h2v4H6V9M3 8h1v12h10.58l1.45 2H3c-.55 0-1-.45-1-1V9c0-.55.45-1 1-1m15.5 4c1.9 0 3.5 1.6 3.5 3.5 0 2.6-3.5 6.5-3.5 6.5S15 18.1 15 15.5c0-1.9 1.6-3.5 3.5-3.5m0 4.8c.7 0 1.3-.6 1.2-1.2 0-.6-.6-1.2-1.2-1.2s-1.2.5-1.2 1.2c0 .6.5 1.2 1.2 1.2M11 18v-2h2c.09.66.27 1.33.5 2H11m9-9v1.23c-.5-.15-1-.23-1.5-.23l-.5.03V9h2z\" /></svg>",
+    "description": "mdi-selection-multiple-marker",
+    "prefix": "svg-mdi-selection-multiple-marker"
+  },
+  "mdi-selection-mutliple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 6V4h4v2h-4M6 9h2v4H6V9m0-3a2 2 0 012-2h1v2H8v1H6V6m2 12a2 2 0 01-2-2v-1h2v1h1v2H8M18 4a2 2 0 012 2v1h-2V6h-1V4h1m-3 12v2h-4v-2h4m5-3h-2V9h2v4m0 3a2 2 0 01-2 2h-1v-2h1v-1h2v1M3 8h1v12h12v1c0 .54-.43 1-.97 1H3c-.55 0-1-.45-1-1V9c0-.55.45-1 1-1z\" /></svg>",
+    "description": "mdi-selection-mutliple",
+    "prefix": "svg-mdi-selection-mutliple"
+  },
   "mdi-selection-off" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M.5 3.77L1.78 2.5 21.5 22.22l-1.27 1.28-1.5-1.5H17v-1.73L3.73 7H2V5.27L.5 3.77M4 2h3v2H5.82L3.83 2H4m18 2v3h-2V4h-3V2h3a2 2 0 012 2m-2 13h2v3.17l-2-1.99V17M2 20v-3h2v3h3v2H4a2 2 0 01-2-2m8-18h4v2h-4V2m0 18h4v2h-4v-2m10-10h2v4h-2v-4M2 10h2v4H2v-4z\" /></svg>",
     "description": "mdi-selection-off",
     "prefix": "svg-mdi-selection-off"
+  },
+  "mdi-selection-search" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19.27 18.9c.43-.69.68-1.52.68-2.4 0-2.5-2-4.5-4.49-4.5s-4.5 2-4.5 4.5 2 4.5 4.5 4.5c.87 0 1.69-.25 2.38-.68l3.12 3.07L22.35 22l-3.08-3.1m-3.81.1c-1.39 0-2.5-1.12-2.5-2.5s1.11-2.5 2.5-2.5 2.49 1.12 2.49 2.5-1.11 2.5-2.49 2.5M22 14h-.55c-.33-.81-.83-1.53-1.45-2.14V10h2v4M20 4h-3V2h3a2 2 0 012 2v3h-2V4m-6 0h-4V2h4v2M4 2h3v2H4v3H2V4a2 2 0 012-2m8 20h-2v-2c.5.82 1.2 1.5 2 2m-8-2h3v2H4a2 2 0 01-2-2v-3h2v3m0-6H2v-4h2v4z\" /></svg>",
+    "description": "mdi-selection-search",
+    "prefix": "svg-mdi-selection-search"
   },
   "mdi-send" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 21l21-9L2 3v7l15 2-15 2v7z\" /></svg>",
@@ -18619,6 +19374,11 @@
     "description": "mdi-shape-outline",
     "prefix": "svg-mdi-shape-outline"
   },
+  "mdi-shape-oval-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 5h3v2h-3v3h-2V7h-3V5h3V2h2v3m-8-1l1 .09v2.05c-.32-.09-.66-.14-1-.14-2.76 0-5 3.13-5 7s2.24 7 5 7 5-3.13 5-7l-.05-1h2.01l.04 1c0 4.97-3.13 9-7 9s-7-4.03-7-9 3.13-9 7-9z\" /></svg>",
+    "description": "mdi-shape-oval-plus",
+    "prefix": "svg-mdi-shape-oval-plus"
+  },
   "mdi-shape-plus" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 2h9v9H2V2m15.5 0C20 2 22 4 22 6.5S20 11 17.5 11 13 9 13 6.5 15 2 17.5 2m-11 12l4.5 8H2l4.5-8M19 17h3v2h-3v3h-2v-3h-3v-2h3v-3h2v3z\" /></svg>",
     "description": "mdi-shape-plus",
@@ -18643,6 +19403,16 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 12l-7-7v4C7 10 4 15 3 20c2.5-3.5 6-5.1 11-5.1V19l7-7z\" /></svg>",
     "description": "mdi-share",
     "prefix": "svg-mdi-share"
+  },
+  "mdi-share-all" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 9V5l7 7-7 7v-4.1c-5 0-8.5 1.6-11 5.1 1-5 4-10 11-11m6-1V5l7 7-7 7v-3l4-4-4-4z\" /></svg>",
+    "description": "mdi-share-all",
+    "prefix": "svg-mdi-share-all"
+  },
+  "mdi-share-all-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M13 9.8v.9l-1.7.2c-2.6.4-4.5 1.4-5.9 2.7 1.7-.5 3.5-.8 5.6-.8h2v1.3l2.2-2.1L13 9.8M11 5l7 7-7 7v-4.1c-5 0-8.5 1.6-11 5.1 1-5 4-10 11-11m6-1V5l7 7-7 7v-3l4-4\" /></svg>",
+    "description": "mdi-share-all-outline",
+    "prefix": "svg-mdi-share-all-outline"
   },
   "mdi-share-circle" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m2 14v-3c-3.61 0-6.19 1.43-8 4 .72-3.67 2.94-7.27 8-8V6l5 5-5 5z\" /></svg>",
@@ -19759,6 +20529,16 @@
     "description": "mdi-star-box",
     "prefix": "svg-mdi-star-box"
   },
+  "mdi-star-box-multiple" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 6v14h14v2H3c-.6 0-1-.4-1-1V6h2m4-4h12a2 2 0 012 2v12c0 1.11-.89 2-2 2H8a2 2 0 01-2-2V4c0-1.1.9-2 2-2m8.3 11.3l-.4-2.6 1.9-1.9-2.6-.4L14 6l-1.2 2.4-2.6.4 1.9 1.8-.5 2.6L14 12l2.3 1.3z\" /></svg>",
+    "description": "mdi-star-box-multiple",
+    "prefix": "svg-mdi-star-box-multiple"
+  },
+  "mdi-star-box-multiple-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 6v14h14v2H3c-.6 0-1-.4-1-1V6h2m8.1 4.6l-1.9-1.8 2.6-.4L14 6l1.2 2.4 2.6.4-1.9 1.9.4 2.6L14 12l-2.4 1.2.5-2.6M8 2h12a2 2 0 012 2v12c0 1.11-.89 2-2 2H8a2 2 0 01-2-2V4c0-1.1.9-2 2-2m0 2v12h12V4H8z\" /></svg>",
+    "description": "mdi-star-box-multiple-outline",
+    "prefix": "svg-mdi-star-box-multiple-outline"
+  },
   "mdi-star-box-outline" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15.58 17L12 14.84 8.42 17l.95-4.07-3.16-2.73 4.17-.36L12 6l1.62 3.83 4.17.36-3.16 2.73.95 4.08M19 3a2 2 0 012 2v14a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h14M5 5v14h14V5H5z\" /></svg>",
     "description": "mdi-star-box-outline",
@@ -19938,6 +20718,16 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 2H4c-1.11 0-2 .89-2 2v16c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V4c0-1.11-.89-2-2-2m0 18H4V4h16M8.83 10.25L7.29 8.71 6 10V6h4L8.71 7.29l1.54 1.54m3.5 0l1.54-1.54L14 6h4v4l-1.29-1.29-1.54 1.54m0 3.5l1.54 1.54L18 14v4h-4l1.29-1.29-1.54-1.54m-3.5 0l-1.54 1.54L10 18H6v-4l1.29 1.29 1.54-1.54\" /></svg>",
     "description": "mdi-stretch-to-page-outline",
     "prefix": "svg-mdi-stretch-to-page-outline"
+  },
+  "mdi-string-lights" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M22.56 11.39c-.2-.8-.74-1.54-1.51-1.95l-.42-1.7c.48-.16.94-.33 1.37-.51V5c-2 1.07-5.47 2.03-10 2.03S4 6.07 2 5v2.23c.43.18.89.35 1.37.51l-.42 1.7a3.07 3.07 0 00-1.51 1.95c-.535 2.18-1.055 5.92 1.48 6.54C4 18.2 6 17.89 7.27 12.82c.19-.82.06-1.7-.43-2.43l.42-1.72c.88.14 1.79.23 2.74.29v1.78c-.65.59-1 1.43-1 2.26 0 2.24.39 6 3 6 1.12 0 3-.78 3-6 0-.83-.35-1.67-1-2.26V8.96c.95-.06 1.86-.15 2.74-.29l.42 1.72a3.09 3.09 0 00-.43 2.43C18 17.89 20 18.2 21.08 17.93c2.53-.62 2.01-4.36 1.48-6.54M5.81 12.47s-1.07 4.37-2.53 4.03c-1.46-.38-.38-4.75-.38-4.75s.36-1.46 1.81-1.1 1.1 1.82 1.1 1.82M12 17.5c-1.5 0-1.5-4.5-1.5-4.5s0-1.5 1.5-1.5 1.5 1.5 1.5 1.5 0 4.5-1.5 4.5m8.72-1c-1.45.34-2.53-4.03-2.53-4.03s-.36-1.47 1.1-1.82 1.81 1.1 1.81 1.1 1.08 4.37-.38 4.75z\" /></svg>",
+    "description": "mdi-string-lights",
+    "prefix": "svg-mdi-string-lights"
+  },
+  "mdi-string-lights-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M14 10.74V8.96c.95-.06 1.86-.15 2.74-.29l.42 1.72a3.09 3.09 0 00-.43 2.43c.09.35.18.68.27.98l4.12 4.12c2.49-.66 1.97-4.37 1.44-6.53-.2-.8-.74-1.54-1.51-1.95l-.42-1.7c.48-.16.94-.33 1.37-.51V5c-2 1.07-5.47 2.03-10 2.03-.63 0-1.24-.03-1.83-.06m10.55 9.53c-1.45.34-2.53-4.03-2.53-4.03s-.36-1.47 1.1-1.82 1.81 1.1 1.81 1.1 1.08 4.37-.38 4.75m-5.77-2.21l-1.45-1.46-1.32-1.33L10 9.34l-.42-.41h.01L7.32 6.66 2.39 1.73 1.11 3l2.8 2.8C3.19 5.55 2.53 5.28 2 5v2.23c.43.18.89.35 1.37.51l-.42 1.7a3.07 3.07 0 00-1.51 1.95c-.535 2.18-1.055 5.92 1.48 6.54C4 18.2 6 17.89 7.27 12.82c.19-.82.06-1.7-.43-2.43l.33-1.33 2.33 2.32c-.32.49-.5 1.06-.5 1.62 0 2.24.39 6 3 6 .8 0 1.97-.41 2.59-2.5l6.25 6.23 1.27-1.27-7.16-7.16v-.01m-9.14-1.82s-1.07 4.37-2.53 4.03c-1.46-.38-.38-4.75-.38-4.75s.36-1.46 1.81-1.1 1.1 1.82 1.1 1.82M12 17.5c-1.5 0-1.5-4.5-1.5-4.5s0-.23.1-.5l2.72 2.71c-.19 1.14-.56 2.29-1.32 2.29z\" /></svg>",
+    "description": "mdi-string-lights-off",
+    "prefix": "svg-mdi-string-lights-off"
   },
   "mdi-subdirectory-arrow-left" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M11 9l1.42 1.42L8.83 14H18V4h2v12H8.83l3.59 3.58L11 21l-6-6 6-6z\" /></svg>",
@@ -20179,6 +20969,16 @@
     "description": "mdi-table-eye",
     "prefix": "svg-mdi-table-eye"
   },
+  "mdi-table-headers-eye" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M1 6v13a2 2 0 002 2h6V11h12V6a2 2 0 00-2-2H3a2 2 0 00-2 2m2 0h4v3H3m4 10H3v-3h4m0-2H3v-3h4m2-2V6h4v3m6 0h-4V6h4m-2 10a1 1 0 11-1 1 1 1 0 011-1m0-3a6.45 6.45 0 016 4 6.5 6.5 0 01-12 0 6.45 6.45 0 016-4m0 1.5a2.5 2.5 0 102.5 2.5 2.5 2.5 0 00-2.5-2.5\" /></svg>",
+    "description": "mdi-table-headers-eye",
+    "prefix": "svg-mdi-table-headers-eye"
+  },
+  "mdi-table-headers-eye-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2.38 1.73L1.11 3l1.15 1.15A2 2 0 001 6v13a2 2 0 002 2h6V11h.11l3.61 3.61A6.21 6.21 0 0011 17a6.45 6.45 0 006 4 6.55 6.55 0 001.84-.27l2 2 1.27-1.27-1.53-1.53M7 19H3v-3h4m0-2H3v-3h4m0-2H3V6h1.11L7 8.89M17 19.5a2.5 2.5 0 01-2.44-3.05l3 3a2.5 2.5 0 01-.56.05m-.76-6.5l1.61 1.61a2.5 2.5 0 011.5 1.5l2.59 2.59A6.44 6.44 0 0023 17a6.45 6.45 0 00-6-4h-.76M13 6v3h-.8l2 2H21V6a2 2 0 00-2-2H7.2l2 2M15 6h4v3h-4z\" /></svg>",
+    "description": "mdi-table-headers-eye-off",
+    "prefix": "svg-mdi-table-headers-eye-off"
+  },
   "mdi-table-large" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 3h16a2 2 0 012 2v15a2 2 0 01-2 2H4a2 2 0 01-2-2V5a2 2 0 012-2m0 4v3h4V7H4m6 0v3h4V7h-4m10 3V7h-4v3h4M4 12v3h4v-3H4m0 8h4v-3H4v3m6-8v3h4v-3h-4m0 8h4v-3h-4v3m10 0v-3h-4v3h4m0-8h-4v3h4v-3z\" /></svg>",
     "description": "mdi-table-large",
@@ -20309,13 +21109,28 @@
     "description": "mdi-tag-minus",
     "prefix": "svg-mdi-tag-minus"
   },
+  "mdi-tag-minus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6.5 5A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m0 0A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m14.91 6.58l-9-9A2 2 0 0011 2H4a2 2 0 00-2 2v7a2 2 0 00.59 1.42L5.17 15H8l-4-4V4h7l9 9-7 7h-1v1.73a2 2 0 001 .27 2 2 0 001.41-.59l7-7A2 2 0 0022 13a2 2 0 00-.59-1.42M5 6.5A1.5 1.5 0 106.5 5 1.5 1.5 0 005 6.5M10 19H2v-2h8z\" /></svg>",
+    "description": "mdi-tag-minus-outline",
+    "prefix": "svg-mdi-tag-minus-outline"
+  },
   "mdi-tag-multiple" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5.5 9A1.5 1.5 0 007 7.5 1.5 1.5 0 005.5 6 1.5 1.5 0 004 7.5 1.5 1.5 0 005.5 9m11.91 2.58c.36.36.59.86.59 1.42 0 .55-.22 1.05-.59 1.41l-5 5a1.996 1.996 0 01-2.83 0l-6.99-6.99C2.22 12.05 2 11.55 2 11V6c0-1.11.89-2 2-2h5c.55 0 1.05.22 1.41.58l7 7m-3.87-5.87l1-1 6.87 6.87c.37.36.59.87.59 1.42 0 .55-.22 1.05-.58 1.41l-5.38 5.38-1-1L20.75 13l-7.21-7.29z\" /></svg>",
     "description": "mdi-tag-multiple",
     "prefix": "svg-mdi-tag-multiple"
   },
+  "mdi-tag-off" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18.33 8.5l4.59-4.58L21.5 2.5l-19 19 1.42 1.42 4.58-4.59 3.08 3.08A2 2 0 0013 22a2 2 0 001.41-.59l7-7A2 2 0 0022 13a2 2 0 00-.59-1.42m-15.8 3.85l9.86-9.78-3.06-3.07A2 2 0 0011 2H4a2 2 0 00-2 2v7a2 2 0 00.59 1.41M5.5 4A1.5 1.5 0 114 5.5 1.5 1.5 0 015.5 4z\" /></svg>",
+    "description": "mdi-tag-off",
+    "prefix": "svg-mdi-tag-off"
+  },
+  "mdi-tag-off-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6.5 5A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m0 0A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m11.83 3.5l4.59-4.58L21.5 2.5l-19 19 1.42 1.42 4.58-4.59 3.09 3.09A2 2 0 0013 22a2 2 0 001.41-.59l7-7A2 2 0 0022 13a2 2 0 00-.59-1.42M13 20l-3.08-3.08 7-7L20 13M5.61 15.43L7 14l-3-3V4h7l3.06 3.06 1.41-1.4-3.06-3.08A2 2 0 0011 2H4a2 2 0 00-2 2v7a2 2 0 00.59 1.42M5 6.5A1.5 1.5 0 106.5 5 1.5 1.5 0 005 6.5z\" /></svg>",
+    "description": "mdi-tag-off-outline",
+    "prefix": "svg-mdi-tag-off-outline"
+  },
   "mdi-tag-outline" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5.5 7A1.5 1.5 0 007 5.5 1.5 1.5 0 005.5 4 1.5 1.5 0 004 5.5 1.5 1.5 0 005.5 7m15.91 4.58c.36.36.59.86.59 1.42 0 .55-.22 1.05-.59 1.41l-7 7c-.36.36-.86.59-1.41.59-.55 0-1.05-.23-1.42-.59l-8.99-9C2.22 12.05 2 11.55 2 11V4c0-1.11.89-2 2-2h7c.55 0 1.05.22 1.41.58l9 9M13 20l7-7-8.5-8.5-7 7L13 20z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21.41 11.58l-9-9A2 2 0 0011 2H4a2 2 0 00-2 2v7a2 2 0 00.59 1.42l9 9A2 2 0 0013 22a2 2 0 001.41-.59l7-7A2 2 0 0022 13a2 2 0 00-.59-1.42M13 20l-9-9V4h7l9 9M6.5 5A1.5 1.5 0 115 6.5 1.5 1.5 0 016.5 5z\" /></svg>",
     "description": "mdi-tag-outline",
     "prefix": "svg-mdi-tag-outline"
   },
@@ -20324,13 +21139,28 @@
     "description": "mdi-tag-plus",
     "prefix": "svg-mdi-tag-plus"
   },
+  "mdi-tag-plus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6.5 5A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m0 0A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m14.91 6.58l-9-9A2 2 0 0011 2H4a2 2 0 00-2 2v7a2 2 0 00.59 1.42l.41.4a5.62 5.62 0 012.08-.74L4 11V4h7l9 9-7 7-1.08-1.08a5.57 5.57 0 01-.74 2.08l.41.41A2 2 0 0013 22a2 2 0 001.41-.59l7-7A2 2 0 0022 13a2 2 0 00-.59-1.42M6.5 5A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5M10 19H7v3H5v-3H2v-2h3v-3h2v3h3z\" /></svg>",
+    "description": "mdi-tag-plus-outline",
+    "prefix": "svg-mdi-tag-plus-outline"
+  },
   "mdi-tag-remove" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21.41 11.58l-9-9C12.04 2.21 11.53 2 11 2H4a2 2 0 00-2 2v7c0 .53.21 1.04.59 1.41l.41.4c.9-.54 1.94-.81 3-.81a6 6 0 016 6c0 1.06-.28 2.09-.82 3l.4.4c.37.38.89.6 1.42.6.53 0 1.04-.21 1.41-.59l7-7c.38-.37.59-.88.59-1.41 0-.53-.21-1.04-.59-1.42M5.5 7A1.5 1.5 0 014 5.5 1.5 1.5 0 015.5 4 1.5 1.5 0 017 5.5 1.5 1.5 0 015.5 7m2.62 14.54L6 19.41l-2.12 2.13-1.42-1.42L4.59 18l-2.13-2.12 1.41-1.41L6 16.59l2.12-2.12 1.41 1.41L7.41 18l2.12 2.12-1.41 1.42z\" /></svg>",
     "description": "mdi-tag-remove",
     "prefix": "svg-mdi-tag-remove"
   },
+  "mdi-tag-remove-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6.5 5A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m0 0A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m14.91 6.58l-9-9A2 2 0 0011 2H4a2 2 0 00-2 2v7a2 2 0 00.59 1.42l.41.4a5.62 5.62 0 012.08-.74L4 11V4h7l9 9-7 7-1.08-1.08a5.57 5.57 0 01-.74 2.08l.41.41A2 2 0 0013 22a2 2 0 001.41-.59l7-7A2 2 0 0022 13a2 2 0 00-.59-1.42M6.5 5A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 5m1.62 16.54L6 19.41l-2.12 2.13-1.42-1.42L4.59 18l-2.13-2.12 1.42-1.42L6 16.59l2.12-2.13 1.42 1.42L7.41 18l2.13 2.12z\" /></svg>",
+    "description": "mdi-tag-remove-outline",
+    "prefix": "svg-mdi-tag-remove-outline"
+  },
+  "mdi-tag-text" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21.41 11.58l-9-9A2 2 0 0011 2H4a2 2 0 00-2 2v7a2 2 0 00.59 1.41l9 9A2 2 0 0013 22a2 2 0 001.41-.59l7-7A2 2 0 0022 13a2 2 0 00-.59-1.42M6.5 8A1.5 1.5 0 118 6.5 1.5 1.5 0 016.5 8m5.09 7.41l-4-4L9 10l4 4m2.59.41l-5.5-5.5L11.5 7.5 17 13z\" /></svg>",
+    "description": "mdi-tag-text",
+    "prefix": "svg-mdi-tag-text"
+  },
   "mdi-tag-text-outline" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5.5 7A1.5 1.5 0 007 5.5 1.5 1.5 0 005.5 4 1.5 1.5 0 004 5.5 1.5 1.5 0 005.5 7m15.91 4.58c.36.36.59.86.59 1.42 0 .55-.22 1.05-.59 1.41l-7 7c-.36.36-.86.59-1.41.59-.55 0-1.05-.23-1.42-.59l-8.99-9C2.22 12.05 2 11.55 2 11V4c0-1.11.89-2 2-2h7c.55 0 1.05.22 1.41.58l9 9M13 20l7-7-8.5-8.5-7 7L13 20M10.09 8.91L11.5 7.5 17 13l-1.41 1.41-5.5-5.5m-2.5 2.5L9 10l4 4-1.41 1.41-4-4z\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21.4 11.6l-9-9C12 2.2 11.5 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .5.2 1 .6 1.4l9 9c.4.4.9.6 1.4.6.5 0 1-.2 1.4-.6l7-7c.4-.4.6-.9.6-1.4 0-.5-.2-1-.6-1.4M13 20l-9-9V4h7l9 9M6.5 5C7.3 5 8 5.7 8 6.5S7.3 8 6.5 8 5 7.3 5 6.5 5.7 5 6.5 5m3.6 3.9l1.4-1.4L17 13l-1.4 1.4-5.5-5.5m-2.5 2.5L9 10l4 4-1.4 1.4-4-4z\" /></svg>",
     "description": "mdi-tag-text-outline",
     "prefix": "svg-mdi-tag-text-outline"
   },
@@ -20719,6 +21549,16 @@
     "description": "mdi-timeline-alert-outline",
     "prefix": "svg-mdi-timeline-alert-outline"
   },
+  "mdi-timeline-clock" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 2v6H2V2h2M2 22v-6h2v6H2m3-10c0 1.11-.89 2-2 2a2 2 0 112-2m11-8c4.42 0 8 3.58 8 8s-3.58 8-8 8c-3.6 0-6.64-2.38-7.65-5.65L6 12l2.35-2.35C9.36 6.38 12.4 4 16 4m-1 9l4.53 2.79.8-1.29-3.83-2.3V7H15v6z\" /></svg>",
+    "description": "mdi-timeline-clock",
+    "prefix": "svg-mdi-timeline-clock"
+  },
+  "mdi-timeline-clock-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 2v6H2V2h2M2 22v-6h2v6H2m3-10c0 1.11-.89 2-2 2a2 2 0 112-2m11-8c4.42 0 8 3.58 8 8s-3.58 8-8 8c-3.6 0-6.64-2.38-7.65-5.65L6 12l2.35-2.35C9.36 6.38 12.4 4 16 4m0 2c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6m-1 7V8h1.5v4.2l3 1.8-.82 1.26L15 13z\" /></svg>",
+    "description": "mdi-timeline-clock-outline",
+    "prefix": "svg-mdi-timeline-clock-outline"
+  },
   "mdi-timeline-help" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M4 2v6H2V2h2M2 22v-6h2v6H2m3-10c0 1.11-.89 2-2 2a2 2 0 112-2m19-6v12c0 1.11-.89 2-2 2H10a2 2 0 01-2-2v-4l-2-2 2-2V6a2 2 0 012-2h12c1.11 0 2 .89 2 2m-7.5 9.5H15V17h1.5v-1.5m-2-5V10c0-.83.67-1.5 1.5-1.5s1.5.68 1.5 1.5c0 .47-.23.9-.62 1.16l-.29.19C15.6 12 15 13.11 15 14.3v.2h1.5v-.2c0-.68.34-1.3.91-1.7l.3-.19C18.5 11.88 19 10.97 19 10c0-1.66-1.34-3-3-3s-3 1.34-3 3v.5h1.5z\" /></svg>",
     "description": "mdi-timeline-help",
@@ -20934,6 +21774,11 @@
     "description": "mdi-tortoise",
     "prefix": "svg-mdi-tortoise"
   },
+  "mdi-toslink" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 10V7l-3-3H7L4 7v3c-1.1 0-2 .9-2 2s.9 2 2 2v4c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2v-4c1.11 0 2-.89 2-2s-.89-2-2-2m-8 6c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4m2-4c0 1.11-.89 2-2 2s-2-.89-2-2 .9-2 2-2 2 .9 2 2z\" /></svg>",
+    "description": "mdi-toslink",
+    "prefix": "svg-mdi-toslink"
+  },
   "mdi-tournament" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 2v2h5v4H2v2h5c1.11 0 2-.89 2-2V7h5v10H9v-1c0-1.11-.89-2-2-2H2v2h5v4H2v2h5c1.11 0 2-.89 2-2v-1h5c1.11 0 2-.89 2-2v-4h6v-2h-6V7c0-1.11-.89-2-2-2H9V4c0-1.11-.89-2-2-2H2z\" /></svg>",
     "description": "mdi-tournament",
@@ -20953,6 +21798,66 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 10h5.39l-3.33-4H15v4m2.5 8.5c.39 0 .74-.13 1.04-.43.3-.3.46-.65.46-1.07 0-.39-.16-.74-.46-1.04-.3-.3-.65-.46-1.04-.46-.42 0-.77.16-1.07.46-.3.3-.43.65-.43 1.04 0 .42.13.77.43 1.07.3.3.65.43 1.07.43M6 18.5c.44 0 .8-.13 1.08-.43s.42-.65.42-1.07c0-.39-.14-.74-.42-1.04-.28-.3-.64-.46-1.08-.46-.44 0-.8.16-1.08.46-.28.3-.42.65-.42 1.04 0 .42.14.77.42 1.07.28.3.64.43 1.08.43M18 4l5 6v7h-2.5c0 .83-.31 1.53-.91 2.13-.59.59-1.29.87-2.09.87-.83 0-1.53-.28-2.12-.87-.6-.6-.88-1.3-.88-2.13H9c0 .83-.3 1.53-.89 2.13-.61.59-1.3.87-2.11.87-.81 0-1.5-.28-2.11-.87C3.3 18.53 3 17.83 3 17H1v-4h8.19L3 8.11V11H1V5h1l11 6.06V4h5z\" /></svg>",
     "description": "mdi-towing",
     "prefix": "svg-mdi-towing"
+  },
+  "mdi-toy-brick" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h18V6z\" /></svg>",
+    "description": "mdi-toy-brick",
+    "prefix": "svg-mdi-toy-brick"
+  },
+  "mdi-toy-brick-marker" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h11.54A9.55 9.55 0 0113 15.5a5.58 5.58 0 015.5-5.5 5.3 5.3 0 012.5.63V6m-2.5 6a3.54 3.54 0 00-3.5 3.5c0 2.6 3.5 6.5 3.5 6.5s3.5-3.9 3.5-6.5a3.54 3.54 0 00-3.5-3.5m0 4.8a1.2 1.2 0 110-2.4 1.29 1.29 0 011.2 1.2 1.15 1.15 0 01-1.2 1.2z\" /></svg>",
+    "description": "mdi-toy-brick-marker",
+    "prefix": "svg-mdi-toy-brick-marker"
+  },
+  "mdi-toy-brick-marker-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18.5 12a3.54 3.54 0 00-3.5 3.5c0 2.6 3.5 6.5 3.5 6.5s3.5-3.9 3.5-6.5a3.54 3.54 0 00-3.5-3.5m0 4.8a1.2 1.2 0 110-2.4 1.29 1.29 0 011.2 1.2 1.15 1.15 0 01-1.2 1.2M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h11.54a15.55 15.55 0 01-1-2H5V8h14v2a5.11 5.11 0 012 .6V6z\" /></svg>",
+    "description": "mdi-toy-brick-marker-outline",
+    "prefix": "svg-mdi-toy-brick-marker-outline"
+  },
+  "mdi-toy-brick-minus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h10v-4h8V6m2 14h-8v-2h8z\" /></svg>",
+    "description": "mdi-toy-brick-minus",
+    "prefix": "svg-mdi-toy-brick-minus"
+  },
+  "mdi-toy-brick-minus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h11v-2H5V8h14v8h2V6m3 14h-8v-2h8z\" /></svg>",
+    "description": "mdi-toy-brick-minus-outline",
+    "prefix": "svg-mdi-toy-brick-minus-outline"
+  },
+  "mdi-toy-brick-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h18V6m-2 12H5V8h14z\" /></svg>",
+    "description": "mdi-toy-brick-outline",
+    "prefix": "svg-mdi-toy-brick-outline"
+  },
+  "mdi-toy-brick-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h10.09a5.47 5.47 0 01-.09-1 6 6 0 018-5.66V6m-1 9v3h3v2h-3v3h-2v-3h-3v-2h3v-3z\" /></svg>",
+    "description": "mdi-toy-brick-plus",
+    "prefix": "svg-mdi-toy-brick-plus"
+  },
+  "mdi-toy-brick-plus-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h11v-2H5V8h14v5h2V6m0 9v3h3v2h-3v3h-2v-3h-3v-2h3v-3z\" /></svg>",
+    "description": "mdi-toy-brick-plus-outline",
+    "prefix": "svg-mdi-toy-brick-plus-outline"
+  },
+  "mdi-toy-brick-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h10.09a5.47 5.47 0 01-.09-1 6 6 0 018-5.66V6m1.54 10.88L20.41 19l2.13 2.12-1.42 1.42L19 20.41l-2.12 2.13-1.42-1.42L17.59 19l-2.13-2.12 1.42-1.42L19 17.59l2.12-2.13z\" /></svg>",
+    "description": "mdi-toy-brick-remove",
+    "prefix": "svg-mdi-toy-brick-remove"
+  },
+  "mdi-toy-brick-remove-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h11v-2H5V8h14v5h2V6m0 9v3h3v2h-3v3h-2v-3h-3v-2h3v-3z\" /></svg>",
+    "description": "mdi-toy-brick-remove-outline",
+    "prefix": "svg-mdi-toy-brick-remove-outline"
+  },
+  "mdi-toy-brick-search" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h8.81A6.5 6.5 0 0121 10.81V6m-.69 11.9a4.5 4.5 0 10-1.43 1.42L22 22.39 23.39 21m-6.89-3a2.5 2.5 0 112.5-2.5 2.5 2.5 0 01-2.5 2.5z\" /></svg>",
+    "description": "mdi-toy-brick-search",
+    "prefix": "svg-mdi-toy-brick-search"
+  },
+  "mdi-toy-brick-search-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 6V5a2 2 0 00-2-2h-2a2 2 0 00-2 2v1h-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v1H3v14h8.81a6.59 6.59 0 01-1.31-2H5V8h14v1.5a6.59 6.59 0 012 1.31V6m-.69 11.9a4.5 4.5 0 10-1.43 1.42L22 22.39 23.39 21m-6.89-3a2.5 2.5 0 112.5-2.5 2.5 2.5 0 01-2.5 2.5z\" /></svg>",
+    "description": "mdi-toy-brick-search-outline",
+    "prefix": "svg-mdi-toy-brick-search-outline"
   },
   "mdi-track-light" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M6 1v2h3v3.4L4.11 4.38l-2.68 6.46 5.54 2.3 4.97 3.68 1.85.77 3.83-9.24-1.85-.77L11 6.87V3h3V1H6m15.81 5.29l-2.31.96.76 1.85 2.31-.96-.76-1.85m-2.03 7.28L19 15.42l2.79 1.15.76-1.85-2.77-1.15m-3.59 5.36l-1.85.76.96 2.31 1.85-.77-.96-2.3z\" /></svg>",
@@ -21099,6 +22004,36 @@
     "description": "mdi-trash-can-outline",
     "prefix": "svg-mdi-trash-can-outline"
   },
+  "mdi-tray" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 12h2v5h16v-5h2v5a2 2 0 01-2 2H4a2 2 0 01-2-2z\" /></svg>",
+    "description": "mdi-tray",
+    "prefix": "svg-mdi-tray"
+  },
+  "mdi-tray-alert" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 12h2v5h16v-5h2v5a2 2 0 01-2 2H4a2 2 0 01-2-2m11-5h-2v2h2m0-10h-2v6h2z\" /></svg>",
+    "description": "mdi-tray-alert",
+    "prefix": "svg-mdi-tray-alert"
+  },
+  "mdi-tray-full" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 5H6v2h12M6 9h12v2H6m-4 1h2v5h16v-5h2v5a2 2 0 01-2 2H4a2 2 0 01-2-2m16-4H6v2h12z\" /></svg>",
+    "description": "mdi-tray-full",
+    "prefix": "svg-mdi-tray-full"
+  },
+  "mdi-tray-minus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 10H8V8h8M2 17a2 2 0 002 2h16a2 2 0 002-2v-5h-2v5H4v-5H2z\" /></svg>",
+    "description": "mdi-tray-minus",
+    "prefix": "svg-mdi-tray-minus"
+  },
+  "mdi-tray-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 12h2v5h16v-5h2v5a2 2 0 01-2 2H4a2 2 0 01-2-2m9-12h2v3h3v2h-3v3h-2v-3H8V8h3z\" /></svg>",
+    "description": "mdi-tray-plus",
+    "prefix": "svg-mdi-tray-plus"
+  },
+  "mdi-tray-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 17a2 2 0 002 2h16a2 2 0 002-2v-5h-2v5H4v-5H2m12.12-6.54l1.42 1.42L13.41 9l2.13 2.12-1.42 1.42L12 10.41l-2.12 2.13-1.42-1.42L10.59 9 8.46 6.88l1.42-1.42L12 7.59z\" /></svg>",
+    "description": "mdi-tray-remove",
+    "prefix": "svg-mdi-tray-remove"
+  },
   "mdi-treasure-chest" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M5 4h14a3 3 0 013 3v4h-7v-1H9v1H2V7a3 3 0 013-3m6 7h2v2h-2v-2m-9 1h7v1l2 2h2l2-2v-1h7v8H2v-8z\" /></svg>",
     "description": "mdi-treasure-chest",
@@ -21189,15 +22124,35 @@
     "description": "mdi-truck-check",
     "prefix": "svg-mdi-truck-check"
   },
+  "mdi-truck-check-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 18.5c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5m1.5-9H17V12h4.46L19.5 9.5M6 18.5c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5M20 8l3 4v5h-2c0 1.66-1.34 3-3 3s-3-1.34-3-3H9c0 1.66-1.34 3-3 3s-3-1.34-3-3H1V6c0-1.11.89-2 2-2h14v4h3M3 6v9h.76c.55-.61 1.35-1 2.24-1 .89 0 1.69.39 2.24 1H15V6H3m2 4.5L6.5 9 8 10.5 11.5 7 13 8.5l-5 5-3-3z\" /></svg>",
+    "description": "mdi-truck-check-outline",
+    "prefix": "svg-mdi-truck-check-outline"
+  },
   "mdi-truck-delivery" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 4a2 2 0 00-2 2v11h2a3 3 0 003 3 3 3 0 003-3h6a3 3 0 003 3 3 3 0 003-3h2v-5l-3-4h-3V4m-7 2l4 4-4 4v-3H4V9h6m7 .5h2.5l1.97 2.5H17M6 15.5A1.5 1.5 0 017.5 17 1.5 1.5 0 016 18.5 1.5 1.5 0 014.5 17 1.5 1.5 0 016 15.5m12 0a1.5 1.5 0 011.5 1.5 1.5 1.5 0 01-1.5 1.5 1.5 1.5 0 01-1.5-1.5 1.5 1.5 0 011.5-1.5z\" /></svg>",
     "description": "mdi-truck-delivery",
     "prefix": "svg-mdi-truck-delivery"
   },
+  "mdi-truck-delivery-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 18.5c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5m1.5-9H17V12h4.46L19.5 9.5M6 18.5c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5M20 8l3 4v5h-2c0 1.66-1.34 3-3 3s-3-1.34-3-3H9c0 1.66-1.34 3-3 3s-3-1.34-3-3H1V6c0-1.11.89-2 2-2h14v4h3M3 6v9h.76c.55-.61 1.35-1 2.24-1 .89 0 1.69.39 2.24 1H15V6H3m7 1l3.5 3.5L10 14v-2.5H5v-2h5V7z\" /></svg>",
+    "description": "mdi-truck-delivery-outline",
+    "prefix": "svg-mdi-truck-delivery-outline"
+  },
   "mdi-truck-fast" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M3 13.5L2.25 12H7.5l-.6-1.5H2L1.25 9h7.8l-.6-1.5H1.11L.25 6H4a2 2 0 012-2h12v4h3l3 4v5h-2a3 3 0 01-3 3 3 3 0 01-3-3h-4a3 3 0 01-3 3 3 3 0 01-3-3H4v-3.5H3m16 5a1.5 1.5 0 001.5-1.5 1.5 1.5 0 00-1.5-1.5 1.5 1.5 0 00-1.5 1.5 1.5 1.5 0 001.5 1.5m1.5-9H18V12h4.46L20.5 9.5M9 18.5a1.5 1.5 0 001.5-1.5A1.5 1.5 0 009 15.5 1.5 1.5 0 007.5 17 1.5 1.5 0 009 18.5z\" /></svg>",
     "description": "mdi-truck-fast",
     "prefix": "svg-mdi-truck-fast"
+  },
+  "mdi-truck-fast-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M.75 7.5h9.75l.75 1.5H1.5L.75 7.5m1 3h9.75l.75 1.5H2.5l-.75-1.5m16.25 8c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5m1.5-9H17V12h4.46L19.5 9.5M8 18.5c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5M20 8l3 4v5h-2c0 1.66-1.34 3-3 3s-3-1.34-3-3h-4c0 1.66-1.35 3-3 3-1.66 0-3-1.34-3-3H3v-3.5h2V15h.76c.55-.61 1.35-1 2.24-1 .89 0 1.69.39 2.24 1H15V6H3c0-1.11.89-2 2-2h12v4h3z\" /></svg>",
+    "description": "mdi-truck-fast-outline",
+    "prefix": "svg-mdi-truck-fast-outline"
+  },
+  "mdi-truck-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M18 18.5c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5m1.5-9H17V12h4.46L19.5 9.5M6 18.5c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5M20 8l3 4v5h-2c0 1.66-1.34 3-3 3s-3-1.34-3-3H9c0 1.66-1.34 3-3 3s-3-1.34-3-3H1V6c0-1.11.89-2 2-2h14v4h3M3 6v9h.76c.55-.61 1.35-1 2.24-1 .89 0 1.69.39 2.24 1H15V6H3z\" /></svg>",
+    "description": "mdi-truck-outline",
+    "prefix": "svg-mdi-truck-outline"
   },
   "mdi-truck-trailer" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M22 15v2H10a3 3 0 01-3 3 3 3 0 01-3-3H2V6a2 2 0 012-2h13a2 2 0 012 2v9h3M7 16a1 1 0 00-1 1 1 1 0 001 1 1 1 0 001-1 1 1 0 00-1-1z\" /></svg>",
@@ -21469,6 +22424,16 @@
     "description": "mdi-usb",
     "prefix": "svg-mdi-usb"
   },
+  "mdi-usb-flash-drive" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M8 15c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1m7.07-10.31L16.5 6.1l-1.43 1.4-1.41-1.4 1.41-1.41M17.9 7.5l1.41 1.43-1.41 1.41-1.4-1.41 1.4-1.43M8 13c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3m1.77-8.67l.73.75 3.79-3.79c.18-.18.43-.29.71-.29.28 0 .53.11.71.29l7.07 7.07v.01a1.02 1.02 0 01-.12 1.39l-3.73 3.74.74.73-6.72 6.72A6.976 6.976 0 018 23c-3.87 0-7-3.13-7-7 0-1.93.78-3.68 2.05-4.95l6.72-6.72M20.59 9L15 3.41 11.93 6.5l5.57 5.58L20.59 9z\" /></svg>",
+    "description": "mdi-usb-flash-drive",
+    "prefix": "svg-mdi-usb-flash-drive"
+  },
+  "mdi-usb-flash-drive-outline" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M8 13c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3m0 2c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1M9.77 4.33l.73.75 3.79-3.79c.18-.18.43-.29.71-.29.28 0 .53.11.71.29l7.07 7.07v.01a1.02 1.02 0 01-.12 1.39l-3.73 3.74.74.73-6.72 6.72A6.976 6.976 0 018 23c-3.87 0-7-3.13-7-7 0-1.93.78-3.68 2.05-4.95l6.72-6.72m1.77 15.21l5.3-5.31-7.07-7.07-5.31 5.3C3.56 13.37 3 14.62 3 16c0 2.76 2.24 5 5 5 1.38 0 2.63-.56 3.54-1.46m3.53-14.85L16.5 6.1l-1.43 1.4-1.41-1.4 1.41-1.41M17.9 7.5l1.41 1.43-1.41 1.41-1.4-1.41 1.4-1.43M20.59 9L15 3.41 11.93 6.5l5.57 5.58L20.59 9z\" /></svg>",
+    "description": "mdi-usb-flash-drive-outline",
+    "prefix": "svg-mdi-usb-flash-drive-outline"
+  },
   "mdi-usb-port" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M8 2c-1.1 0-2 .9-2 2v8H5v4l4 4v2h6v-2l4-4v-4h-1V4a2 2 0 00-2-2M8 4h8v8H8m1-5v2h2V7m2 0v2h2V7z\" /></svg>",
     "description": "mdi-usb-port",
@@ -21600,9 +22565,29 @@
     "prefix": "svg-mdi-vector-polygon"
   },
   "mdi-vector-polyline" : {
-    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M16 2v6h1.08l-2.13 5h-.69L12 9.97V5H6v6h.91l-2.03 5H2v6h6v-6h-.96l2.03-5h1.2L12 13.32V19h6v-6h-.88l2.13-5H22V2m-4 2h2v2h-2M8 7h2v2H8m6 6h2v2h-2M4 18h2v2H4\" /></svg>",
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 3v6h2.95l2 6H6v6h6v-4.59L17.41 11H22V5h-6v4.57L10.59 15H9.06l-2-6H8V3M4 5h2v2H4m14 0h2v2h-2M8 17h2v2H8z\" /></svg>",
     "description": "mdi-vector-polyline",
     "prefix": "svg-mdi-vector-polyline"
+  },
+  "mdi-vector-polyline-edit" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 3v6h2.95l2 6H6v6h6v-4.59L17.41 11H22V5h-6v4.57L10.59 15H9.06l-2-6H8V3H2m2 2h2v2H4V5m14 2h2v2h-2V7m3.15 6c-.15 0-.28.05-.39.16l-1.01 1.02 2.07 2.07 1.02-1.01c.21-.21.21-.57 0-.78l-1.3-1.3a.544.544 0 00-.39-.16m-2 1.76L13 20.91V23h2.09l6.14-6.16-2.08-2.08M8 17h2v2H8v-2z\" /></svg>",
+    "description": "mdi-vector-polyline-edit",
+    "prefix": "svg-mdi-vector-polyline-edit"
+  },
+  "mdi-vector-polyline-minus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 3v6h2.95l2 6H6v6h6v-4.59L17.41 11H22V5h-6v4.57L10.59 15H9.06l-2-6H8V3H2m2 2h2v2H4V5m14 2h2v2h-2V7M8 17h2v2H8v-2m7 1v2h8v-2h-8z\" /></svg>",
+    "description": "mdi-vector-polyline-minus",
+    "prefix": "svg-mdi-vector-polyline-minus"
+  },
+  "mdi-vector-polyline-plus" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 3v6h2.95l2 6H6v6h6v-4.59L17.41 11H22V5h-6v4.57L10.59 15H9.06l-2-6H8V3H2m2 2h2v2H4V5m14 2h2v2h-2V7m0 8v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2M8 17h2v2H8v-2z\" /></svg>",
+    "description": "mdi-vector-polyline-plus",
+    "prefix": "svg-mdi-vector-polyline-plus"
+  },
+  "mdi-vector-polyline-remove" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21.1 15.5L19 17.6l-2.1-2.1-1.4 1.4 2.1 2.1-2.1 2.1 1.4 1.4 2.1-2.1 2.1 2.1 1.4-1.4-2.1-2.1 2.1-2.1-1.4-1.4M16 5v4.6L10.6 15H9.1l-2-6H8V3H2v6h3l2 6H6v6h6v-4.6l5.4-5.4H22V5h-6M6 7H4V5h2v2m4 12H8v-2h2v2M20 9h-2V7h2v2\" /></svg>",
+    "description": "mdi-vector-polyline-remove",
+    "prefix": "svg-mdi-vector-polyline-remove"
   },
   "mdi-vector-radius" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M2 4h2V2h6v2a10 10 0 0110 10h2v6h-2v2h-2v-2h-2v-6h2a8 8 0 00-8-8v2H4V6H2V4m16 12v2h2v-2h-2M6 4v2h2V4H6z\" /></svg>",
@@ -22214,6 +23199,11 @@
     "description": "mdi-water-percent",
     "prefix": "svg-mdi-water-percent"
   },
+  "mdi-water-polo" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M20 16h2v2h-2c-1.4 0-2.8-.4-4-1-2.5 1.3-5.5 1.3-8 0-1.2.6-2.6 1-4 1H2v-2h2c1.4 0 2.8-.5 4-1.3 2.4 1.7 5.6 1.7 8 0 1.2.8 2.6 1.3 4 1.3m-7-5.4c.6-.3 1.3-.6 2-.7v.3c.3 1 .3 1.9.2 2.9-.9.5-2 .8-3 .8.5-1 .8-2.2.8-3.3m-.1-7c-1.4.4-2.6 1.1-3.6 2.1-.4-1-.6-2-.6-3 2.2-1 4.7-.9 6.9.2.3.1.6.2.8.4-1.2-.1-2.4 0-3.5.3m-6.1 9.7c-.6.3-1.2.5-1.8.6-.7-1.3-1-2.7-1-4.1.5 1 1.2 2 2 2.8.3.2.5.5.8.7m12.2.6c-.6-.1-1.2-.3-1.7-.5.2-1.2.1-2.4-.2-3.6 1.1.1 2.1.4 3 1-.1 1-.4 1.9-.9 2.8l-.2.3M7.4 11.2c-1.2-1.1-1.9-2.7-2.2-4.3L5.1 6c.5-.8 1-1.4 1.7-2 .1 1.4.6 2.7 1.4 3.8.7 1.1 1.7 2.1 2.8 2.7 0 .8-.2 1.6-.5 2.4-1.2-.3-2.2-.9-3.1-1.7m6.1-5.7c1.5-.4 3.2-.3 4.7.2l.8.4c.4.7.6 1.5.8 2.3-2.5-1.1-5.4-.9-7.8.4-.7-.3-1.2-.8-1.7-1.4l.1-.1c.9-.8 1.9-1.5 3.1-1.8M16 18.7c1.2.8 2.6 1.3 4 1.3h2v2h-2c-1.4 0-2.8-.4-4-1-2.5 1.3-5.5 1.3-8 0-1.2.6-2.6 1-4 1H2v-2h2c1.4 0 2.8-.5 4-1.3 2.4 1.7 5.6 1.7 8 0z\" /></svg>",
+    "description": "mdi-water-polo",
+    "prefix": "svg-mdi-water-polo"
+  },
   "mdi-water-pump" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M19 14.5s2 2.17 2 3.5a2 2 0 01-2 2 2 2 0 01-2-2c0-1.33 2-3.5 2-3.5M5 18V9a2 2 0 01-2-2 2 2 0 012-2V4a2 2 0 012-2h2a2 2 0 012 2v1h8a2 2 0 012 2v4a1 1 0 011 1 1 1 0 01-1 1h-4a1 1 0 01-1-1 1 1 0 011-1V9h-6v9h1a2 2 0 012 2v2H2v-2a2 2 0 012-2h1z\" /></svg>",
     "description": "mdi-water-pump",
@@ -22409,6 +23399,11 @@
     "description": "mdi-web-box",
     "prefix": "svg-mdi-web-box"
   },
+  "mdi-web-clock" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M15 12.5v4l3 2 .75-1.25-2.25-1.5V12.5H15m7-.11V12c0-5.5-4.5-10-10-10C6.47 2 2 6.5 2 12s4.5 10 10 10c.13 0 .24 0 .37-.03 1.06.65 2.3 1.03 3.63 1.03 3.86 0 7-3.14 7-7 0-1.32-.38-2.56-1-3.61m-2.24-2.28l-.17-.11h.15c.01.03.01.07.02.11M18.92 8h-2.95a15.65 15.65 0 00-1.38-3.56c1.84.63 3.37 1.9 4.33 3.56M12 4.03c.83 1.2 1.5 2.54 1.91 3.97h-3.82c.41-1.43 1.08-2.77 1.91-3.97M9.66 10h2.75a7 7 0 00-2.84 3.24c-.04-.41-.07-.82-.07-1.24 0-.68.06-1.35.16-2M9.4 4.44C8.8 5.55 8.35 6.75 8 8H5.08A7.923 7.923 0 019.4 4.44M4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2s.06 1.34.14 2H4.26m.82 2H8c.35 1.25.8 2.45 1.4 3.56A8.008 8.008 0 015.08 16M16 21c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z\" /></svg>",
+    "description": "mdi-web-clock",
+    "prefix": "svg-mdi-web-clock"
+  },
   "mdi-webcam" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2a7 7 0 017 7 7 7 0 01-7 7 7 7 0 01-7-7 7 7 0 017-7m0 2a5 5 0 00-5 5 5 5 0 005 5 5 5 0 005-5 5 5 0 00-5-5m0 2a3 3 0 013 3 3 3 0 01-3 3 3 3 0 01-3-3 3 3 0 013-3M6 22a2 2 0 01-2-2c0-.38.1-.73.29-1.03l1.82-3.16A9.007 9.007 0 0012 18c2.25 0 4.31-.83 5.89-2.19l1.82 3.16c.19.3.29.65.29 1.03a2 2 0 01-2 2H6z\" /></svg>",
     "description": "mdi-webcam",
@@ -22423,6 +23418,11 @@
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M21 16.5c0 .38-.21.71-.53.88l-7.9 4.44c-.16.12-.36.18-.57.18-.21 0-.41-.06-.57-.18l-7.9-4.44A.991.991 0 013 16.5v-9c0-.38.21-.71.53-.88l7.9-4.44c.16-.12.36-.18.57-.18.21 0 .41.06.57.18l7.9 4.44c.32.17.53.5.53.88v9M12 4.15L5 8.09v7.82l7 3.94 7-3.94V8.09l-7-3.94m0 2.08l4.9 2.83-4.9 2.83-4.9-2.83L12 6.23m5 8.66l-4 2.31v-3.58l4-2.31v3.58m-6 2.31l-4-2.31v-3.58l4 2.31v3.58z\" /></svg>",
     "description": "mdi-webpack",
     "prefix": "svg-mdi-webpack"
+  },
+  "mdi-webrtc" : {
+    "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M12 2c2.44 0 4.5 1.75 4.91 4.07l.84-.07c2.75 0 5 2.24 5 5a5 5 0 01-2.59 4.38 5.015 5.015 0 01-4.41 7.37A4.99 4.99 0 0112 21.06a4.99 4.99 0 01-3.75 1.69c-2.75 0-5-2.25-5-5 0-.86.22-1.66.59-2.37A5 5 0 011.25 11c0-2.76 2.25-5 5-5l.84.07C7.5 3.75 9.56 2 12 2M6.75 20.25L13.66 17H17c.55 0 1-.45 1-1V9c0-.55-.45-1-1-1H7c-.55 0-1 .45-1 1v7c0 .55.45 1 1 1h.77l-1.02 3.25z\" /></svg>",
+    "description": "mdi-webrtc",
+    "prefix": "svg-mdi-webrtc"
   },
   "mdi-wechat" : {
     "body": "<svg viewBox=\"0 0 24 24\"><path d=\"M9.5 4C5.36 4 2 6.69 2 10c0 1.89 1.08 3.56 2.78 4.66L4 17l2.5-1.5c.89.31 1.87.5 2.91.5A5.22 5.22 0 019 14c0-3.31 3.13-6 7-6 .19 0 .38 0 .56.03C15.54 5.69 12.78 4 9.5 4m-3 2.5a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1m5 0a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1M16 9c-3.31 0-6 2.24-6 5s2.69 5 6 5c.67 0 1.31-.08 1.91-.25L20 20l-.62-1.87C20.95 17.22 22 15.71 22 14c0-2.76-2.69-5-6-5m-2 2.5a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1m4 0a1 1 0 011 1 1 1 0 01-1 1 1 1 0 01-1-1 1 1 0 011-1z\" /></svg>",
