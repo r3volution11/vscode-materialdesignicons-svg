@@ -13,7 +13,9 @@
         "svg icons",
         "material design icons svg",
         "mdi svg",
-        "material design icons"
+        "material design icons",
+        "material design icons svelte",
+        "mdi svelte"
     ],
     "repository": {
         "type": "git",
@@ -66,6 +68,10 @@
             },
             {
                 "language": "csharp",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "svelte",
                 "path": "./snippets/snippets.json"
             }
         ]
